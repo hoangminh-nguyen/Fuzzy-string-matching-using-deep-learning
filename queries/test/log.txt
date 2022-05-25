@@ -1,0 +1,3 @@
+05/13/2022_14:40:37
+Current directory: /home/vanltt4/src/DeezyMatch-master
+python /usr/local/anaconda3/lib/python3.8/site-packages/ipykernel_launcher.py --ip=127.0.0.1 --stdin=9004 --control=9002 --hb=9001 --Session.signature_scheme="hmac-sha256" --Session.key=b"092b38cc-0a69-4b77-9009-51ff553afb5a" --shell=9003 --transport="tcp" --iopub=9005 --f=/home/vanltt4/.local/share/jupyter/runtime/kernel-3390078iYYpscJgcbYE.json
