@@ -1,0 +1,15 @@
+# s1	s2	prediction	p0	p1	label
+Van Le Tran Truc	Le Tran Truc Van	0	0.9902	0.0098	1
+Hồ Ngọc Hà	Hà Hồ	0	0.8221	0.1779	1
+Ho Ngoc Ha	Ha Ho	1	0.1445	0.8555	1
+Dam Vinh Hung	Mr. Dam	1	0.4062	0.5938	1
+# s1	s2	prediction	p0	p1	label
+Van Le Tran Truc	Le Tran Truc Van	0	0.9902	0.0098	0
+Hồ Ngọc Hà	Hà Hồ	0	0.8221	0.1779	0
+Ho Ngoc Ha	Ha Ho	1	0.1445	0.8555	0
+Dam Vinh Hung	Mr. Dam	1	0.4062	0.5938	0
+# s1	s2	prediction	p0	p1	label
+Van Le Tran Truc	Le Tran Truc Van	0	0.9902	0.0098	0
+Hồ Ngọc Hà	Hà Hồ	0	0.8221	0.1779	0
+Ho Ngoc Ha	Ha Ho	1	0.1445	0.8555	0
+Dam Vinh Hung	Mr. Dam	1	0.4062	0.5938	0
