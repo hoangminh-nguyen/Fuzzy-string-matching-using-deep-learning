@@ -1,0 +1,128 @@
+THRESHOLD: 0.10
+	Running time (sec.): 2.02
+	Number of samples: 82504
+	Accuracy: 0.5021
+	Precision: 0.9718
+	Recall: 0.5011
+	F1 score: 0.6612
+
+THRESHOLD: 0.15
+	Running time (sec.): 1.86
+	Number of samples: 82504
+	Accuracy: 0.5195
+	Precision: 0.9663
+	Recall: 0.5103
+	F1 score: 0.6679
+
+THRESHOLD: 0.20
+	Running time (sec.): 1.77
+	Number of samples: 82504
+	Accuracy: 0.5566
+	Precision: 0.9627
+	Recall: 0.5312
+	F1 score: 0.6847
+
+THRESHOLD: 0.25
+	Running time (sec.): 1.86
+	Number of samples: 82504
+	Accuracy: 0.6312
+	Precision: 0.9570
+	Recall: 0.5794
+	F1 score: 0.7218
+
+THRESHOLD: 0.30
+	Running time (sec.): 1.76
+	Number of samples: 82504
+	Accuracy: 0.7337
+	Precision: 0.9459
+	Recall: 0.6641
+	F1 score: 0.7803
+
+THRESHOLD: 0.35
+	Running time (sec.): 1.85
+	Number of samples: 82504
+	Accuracy: 0.8241
+	Precision: 0.9316
+	Recall: 0.7667
+	F1 score: 0.8411
+
+THRESHOLD: 0.40
+	Running time (sec.): 1.71
+	Number of samples: 82504
+	Accuracy: 0.8813
+	Precision: 0.9141
+	Recall: 0.8579
+	F1 score: 0.8851
+
+THRESHOLD: 0.45
+	Running time (sec.): 1.88
+	Number of samples: 82504
+	Accuracy: 0.9124
+	Precision: 0.8884
+	Recall: 0.9332
+	F1 score: 0.9103
+
+THRESHOLD: 0.50
+	Running time (sec.): 1.79
+	Number of samples: 82504
+	Accuracy: 0.9189
+	Precision: 0.8671
+	Recall: 0.9674
+	F1 score: 0.9145
+
+THRESHOLD: 0.55
+	Running time (sec.): 1.94
+	Number of samples: 82504
+	Accuracy: 0.9122
+	Precision: 0.8324
+	Recall: 0.9905
+	F1 score: 0.9046
+
+THRESHOLD: 0.60
+	Running time (sec.): 1.74
+	Number of samples: 82504
+	Accuracy: 0.9006
+	Precision: 0.8037
+	Recall: 0.9968
+	F1 score: 0.8899
+
+THRESHOLD: 0.65
+	Running time (sec.): 1.91
+	Number of samples: 82504
+	Accuracy: 0.8843
+	Precision: 0.7692
+	Recall: 0.9992
+	F1 score: 0.8692
+
+THRESHOLD: 0.70
+	Running time (sec.): 1.72
+	Number of samples: 82504
+	Accuracy: 0.8673
+	Precision: 0.7348
+	Recall: 0.9998
+	F1 score: 0.8471
+
+THRESHOLD: 0.75
+	Running time (sec.): 1.77
+	Number of samples: 82504
+	Accuracy: 0.8506
+	Precision: 0.7013
+	Recall: 0.9999
+	F1 score: 0.8244
+
+THRESHOLD: 0.80
+	Running time (sec.): 1.78
+	Number of samples: 82504
+	Accuracy: 0.8372
+	Precision: 0.6744
+	Recall: 0.9999
+	F1 score: 0.8055
+
+THRESHOLD: 0.85
+	Running time (sec.): 2.11
+	Number of samples: 82504
+	Accuracy: 0.8237
+	Precision: 0.6474
+	Recall: 1.0000
+	F1 score: 0.7859
+

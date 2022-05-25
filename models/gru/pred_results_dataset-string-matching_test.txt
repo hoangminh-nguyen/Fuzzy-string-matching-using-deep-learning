@@ -1,0 +1,2496 @@
+# s1	s2	prediction	p0	p1	label
+Tianfang	tian fang	1	0.0258	0.9742	1
+Ban Nam Cha	Ban Bang Sombun	0	0.9803	0.0197	0
+ژاگرے	Żagory	1	0.1112	0.8888	1
+Donetsk International Airport	UKDD	1	0.2739	0.7261	0
+P’yŏngp’al-li	P'yongp'an-ni	1	0.2586	0.7414	1
+ge lan bo er da	Грюиссан	0	0.9215	0.0785	0
+Leirvikskjæret	Leirvikskjeret	1	0.0136	0.9864	1
+Shih-pa-li-p'u	P'u-k'ou-chen	0	0.9309	0.0691	0
+Topoli	Topolinski	1	0.4184	0.5816	1
+Fammestadtjorna	Tverrtjønna	0	0.9978	0.0022	0
+Novaja Silava	Нов.Силава	1	0.4147	0.5853	1
+Ozero Pijavochnoe	Нагорный	0	0.9987	0.0013	0
+Kānī Charmū	کانی چرمو	1	0.0041	0.9959	1
+บ้านท่าจันทร์	ban tha chnwn	0	0.9342	0.0658	0
+대청내연발전소	Taech'ong-naeyonbalchonso	1	0.2481	0.7519	1
+yu kou cun	Niangzishuicun	0	0.9993	0.0007	0
+Bozköy	Bozkoy	1	0.2277	0.7723	1
+Gukalinskij	Юпитер	0	0.9975	0.0025	0
+Dongyingzijing	东盈字井	1	0.0089	0.9911	1
+he jia shan	打锣沟	0	0.9999	0.0001	0
+Molde lufthavn  Årø	Molde Airport, Aro	0	0.5702	0.4298	1
+سر گریچ	بلوچ آباد	0	0.9999	0.0001	0
+Ильпанур	Il’panur	1	0.0681	0.9319	1
+Ad Diyafah Mawl	Abrāj aş Şafwah	0	0.9964	0.0036	0
+San Sebastián El Chingo	San Sebastian	1	0.4626	0.5374	1
+บ้านบักดอก	ban bak	0	0.7037	0.2963	0
+제일교공원묘지	Cheilgongwŏn-myoji	1	0.0084	0.9916	1
+Mostovaya	Mostovoy	1	0.4027	0.5973	0
+hafumunbei	ハーフムーンベイ	1	0.0553	0.9447	1
+کوه حیاتی	کوه کل انجیر	0	0.9848	0.0152	0
+Hora Dovbushanka	Gora Dovbushanka	1	0.0647	0.9353	1
+Nong Seno	Ban Senkhalok	0	0.9979	0.0021	0
+Sayama	Sayama-chhī	1	0.4963	0.5037	1
+Stockholms slott	si jian shen gong yuan	0	0.9414	0.0586	0
+Rud-e Gadan	رودخانه گدان	1	0.0354	0.9646	1
+hqh	مزرعه قشلاق حق وردولو	0	0.9860	0.0140	0
+bao guang si cun	宝光寺村	1	0.0207	0.9793	1
+Yü-li Jung-min I-yüan Hu-li-chih-chia	Yu-liang Ta-ch'iao	0	0.8420	0.1580	0
+ansandong	안산동	1	0.0147	0.9853	1
+Bao’an	meng ke ji	0	0.9932	0.0068	0
+Villardevos	Villardevós	1	0.1793	0.8207	1
+Rongrian Ban Nong Yang	Rongrian Ban Nong Tu	0	0.9919	0.0081	0
+Chak 160 NB	Chak One Hundres Sixty NB	1	0.2529	0.7471	1
+Maricchio Bay	Margečani	0	0.9430	0.0570	0
+Sovkhoz Stepanovskiy	Совхоз Степановский	1	0.1317	0.8683	1
+Sadr 'Arafat	Sadr al Yusufiya	0	0.9398	0.0602	0
+wad maprang man	Wat Maprang Man	1	0.0048	0.9952	1
+Yimai	yi qu	0	0.8804	0.1196	0
+Bol’shiye Ozertsy	Bol'shiye Ozertsy	1	0.0309	0.9691	1
+xia ju	Hujiaping	0	0.9984	0.0016	0
+Skirøsjøn	Skirosjon	1	0.4065	0.5935	1
+Pezá	Pevkovouni	0	0.8255	0.1745	0
+mæna wangthxng	Mae Nam Wang Thong	1	0.0131	0.9869	1
+andeugbilyeong	Andol	0	0.9590	0.0410	0
+الغور	Al Ghawr	1	0.1292	0.8708	1
+Vjal'cevo	Vyalsy	0	0.9656	0.0344	0
+Lac de Cazaux	Étang de Cazaux	1	0.2435	0.7565	1
+changseongli	Ch’angsŏngil-li	1	0.2696	0.7304	0
+saengtaeteoneol	생태터널	1	0.0073	0.9927	1
+Ticuilucan	Río Aquila	0	0.9164	0.0836	0
+용난골	yongnangol	1	0.0087	0.9913	1
+Yinsongzhou	nan ju cheng	0	0.8520	0.1480	0
+가좌리	Gajwa-ri	1	0.0756	0.9244	1
+Inkonyana	Nkonyamaneni	0	0.7900	0.2100	0
+Hannalitjonna	Hanalitjørna	1	0.0406	0.9594	1
+Pera-la-Non'er	皮奥纳	0	0.6711	0.3289	0
+Xinpou	Sinpou	1	0.1328	0.8672	1
+罗儿塬	wang qi	0	1.0000	0.0000	0
+Jare Cagher	Jar-e Chaghir	1	0.3928	0.6072	1
+ban hnxng hngsʹ	ban xakhkha	0	0.9975	0.0025	0
+Lo Pena	Caserio La Pena	1	0.2907	0.7093	1
+Las Còstas de Goson	Кувертоирад	0	0.9829	0.0171	0
+Mazra‘eh-ye Chāh Eslāmābād	اسلام آباد	1	0.0082	0.9918	1
+Stotis Zasliai	Zhosli	0	0.6533	0.3467	0
+jiu yu shan ding	Kumiyama Chō	0	0.5174	0.4826	1
+Donghengshu	Shanbeitou	0	0.9999	0.0001	0
+hnxng hlang lad	Nong Lang Lat	1	0.0578	0.9422	1
+후평교	Handeul	0	0.9992	0.0008	0
+Illugastaðahnjúkur	Illugastaðahnúkur	1	0.0817	0.9183	1
+Linnesjoen	Linnerydssjon	1	0.4993	0.5007	0
+xiang shu	Xiangshu	1	0.0209	0.9791	1
+wndysh	Vandek	0	0.8233	0.1767	0
+ห้วยลึก	Huai Luek	1	0.0654	0.9346	1
+Chadang	shang wu bang	0	0.8014	0.1986	0
+Tyōkaizan	Tyokai San	1	0.1223	0.8777	1
+hnxng sway	Nong Sawai	1	0.1393	0.8607	0
+Podyvan'kovo	Podivan’kovo	1	0.2102	0.7898	1
+ده نو	Ahmadabad	0	0.7091	0.2909	0
+Gujiatun	顾家屯	1	0.0048	0.9952	1
+'Abbas Sa'id	Laţīf Ibrāhīm	0	0.9974	0.0026	0
+Xinfu Qiao	Sinfu Ciao	1	0.0702	0.9298	1
+Gora Khaydari	Peshe Usano Kholeh	0	0.9988	0.0012	0
+kwaj hkm	Kawaj Hakam	1	0.2205	0.7795	1
+wad hnxng tum samakhkhithrrm	wad hnxngphi hıy	0	0.9999	0.0001	0
+frwtqh	فروتقه	1	0.0276	0.9724	1
+سنگ تاش	سلیم چاک	0	0.9949	0.0051	0
+Kuh-e Lakhoshk-e Bozorg	kwh lakhshk bzrg	1	0.0511	0.9489	1
+Ban Houaylé	Ban Houaylak	0	0.8419	0.1581	0
+L’Alain Ruisseau	Ruisseau l’Alain	1	0.2239	0.7761	1
+Kuh-e Galanganeh	Nīleh Sefīd	0	0.9973	0.0027	0
+Лоскутова	Лоскутово	1	0.1989	0.8011	1
+Tashchilovka	Yur’yevka	0	0.8335	0.1665	0
+Namgwal-li	남관리	1	0.0722	0.9278	1
+نورما چینه	نورخسی	0	0.9991	0.0009	0
+Jabal ash Sharqī	Jabal ash Sharqi	1	0.0186	0.9814	1
+Tā Gazzi	Tāgaz Kand Kaur	0	0.8722	0.1278	0
+Phou Vaysôm-Gnai	Phou Vaysom-Gnai	1	0.0379	0.9621	1
+Majicun	Hanshan	0	0.9767	0.0233	0
+Tilmas	Tilmas Aguelmam Maamar	1	0.2922	0.7078	1
+Zaṟ Sakh	kwtl dr khan	0	0.9955	0.0045	0
+وریلس، یون	瓦雷莱	1	0.2756	0.7244	1
+cheng gen	gu ma	0	0.9729	0.0271	0
+Жгунь	Zhgun'	1	0.0684	0.9316	1
+Kom Abu el-Guluf	Abū al Juhūd	1	0.3992	0.6008	0
+Asrafpur Dudhli	Islāmpur Hathu	0	0.5208	0.4792	1
+Ōstāyū	عثمان سرې	0	0.9875	0.0125	0
+河清村	he qing cun	1	0.0044	0.9956	1
+Mintiancun	Tanshecun	0	0.9980	0.0020	0
+Blackwood Naes	Blackwood Nas	1	0.0187	0.9813	1
+โรงเรียนชุมชนบ้านทุ่งหัวช้าง	โรงเรียนบ้านดอนมูล	0	1.0000	0.0000	0
+Chouafaa	Chouafaê	1	0.0449	0.9551	1
+Qinggangling	Wutongshu	0	0.9999	0.0001	0
+Raghni	Roghāni	1	0.2168	0.7832	1
+見晴山	Ch’i-li Ch’i	0	0.9987	0.0013	0
+Kon’kov	Kon'kov	1	0.1506	0.8494	1
+Yufang	Huangfang Zhongdui	0	0.9974	0.0026	0
+下拉关	Xialaguan	1	0.0511	0.9489	1
+Ogami Sima	Ogido	0	0.8025	0.1975	0
+Xunke Yifenchang Sandui	xun ke yi fen chang san dui	1	0.0188	0.9812	1
+yu ling	稽山街道	0	0.9976	0.0024	0
+Shevchenkovo-Pervoye	Шевченкове Перше	1	0.2851	0.7149	1
+Xialuojiao	di xian	0	0.9997	0.0003	0
+مزار آخوند ملّا عبدالرحمان	Mazār-e Ākhūnd Mollā ‘Abd or Raḩmān	1	0.0065	0.9935	1
+Réserve indienne Klahoose 1	Reserve indienne Klakelse 86	0	0.6532	0.3468	0
+kwh sh kt	sh kth	0	0.6753	0.3247	1
+Ruilie Muchang	Shepaweng	0	0.9688	0.0312	0
+Kanal Zhjolto-Njomanskij	Kanal Zhelto-Nemanskiy	1	0.0893	0.9107	1
+Năm Lum	Lu Khe	0	0.9933	0.0067	0
+Durrān	Duran	1	0.1052	0.8948	1
+Iráklta	Néa Goniá	0	0.9035	0.0965	0
+wo ying	Woying	1	0.0411	0.9589	1
+Nan'gong-ni	Nan’gok	0	0.8755	0.1245	0
+Alljaz	Aljaz	1	0.1022	0.8978	1
+Stancija Beskid	Бешу́й-Эли́	0	0.6424	0.3576	0
+侯家沟脑	Houjiagounao	1	0.0015	0.9985	1
+Jiaojiacun	桃山村	0	0.9980	0.0020	0
+Tovchenikove	Tovchenykove	1	0.0433	0.9567	1
+石埂子水库	fu sheng	0	0.9996	0.0004	0
+Sjubl'	xu bu lai	1	0.1381	0.8619	1
+Gudar	Gudam Darrah-i-Ibrahim	0	0.9065	0.0935	0
+Lupeu	Rio Lepeue	1	0.1072	0.8928	1
+tan jia ping	huang jia wan	0	1.0000	0.0000	0
+Rappescabma	Rahpescopma	1	0.0505	0.9495	1
+کوه میلا کوه	کوه پل حيدر بلور	0	0.9864	0.0136	0
+Wanxing'an	wan xing an	1	0.0176	0.9824	1
+Dunaec'	Gora Dunauka	0	0.9167	0.0833	0
+马黑尔恩	Makhern	1	0.1055	0.8945	1
+Mons Jocius	Кальвиньяско	0	0.5959	0.4041	0
+Kalateh-ye Derakht-e Senjet	Mazra‘eh-ye Derakht-e Senjed	1	0.1371	0.8629	1
+Tuguzbayeva	Ilimbetova	0	0.6641	0.3359	0
+ootadai	おおただい	1	0.0279	0.9721	1
+Doğrukaracamurat	Doğruca	0	0.6786	0.3214	0
+Al Khabārī	El Khabāri	1	0.0783	0.9217	1
+jr mhmd rhym	jr khwajh	0	0.9996	0.0004	0
+Dağa	Daga	1	0.1111	0.8889	1
+Utgravlitjennasen	Svarttjennhøgda	0	0.9657	0.0343	0
+Мугай	Mugaj	1	0.2163	0.7837	1
+Hongch'on-up	동면사무소	0	0.9554	0.0446	0
+Foum El Oued	الدشيرة	0	0.9515	0.0485	1
+Ozero Udnoye	Ozero Travnoe	1	0.2632	0.7368	0
+Gabrowiza	Габровица	1	0.0881	0.9119	1
+Urochishche Kordon Kamyshnyy 1-y (Pervyy)	Urochishche Uak Zarya	0	0.9942	0.0058	0
+Gerlachfalvi-csucs	게를라호프스키 봉	1	0.2488	0.7512	1
+贵磨湾	ru nan cun	0	0.7046	0.2954	0
+Jaoubé	Jaoube	1	0.1088	0.8912	1
+ニシダイ	Funazuka	0	0.9808	0.0192	0
+Stroem	Ström	1	0.1669	0.8331	1
+Сангинак	خر گردو	0	0.9975	0.0025	0
+عطمانلي	‘Uţmānlī	1	0.0474	0.9526	1
+Остановочный Пункт Речка-Выдрино	Правая Куркавка	0	1.0000	0.0000	0
+Zhangqianhu	zhang qian hu	1	0.0070	0.9930	1
+Ban Arun Phatthana	ban hnxng sakæ	0	0.9963	0.0037	0
+หนองปลาแดก	Nong Pladaek	1	0.1123	0.8877	1
+Datangyuan	zhang yong lu	0	0.9997	0.0003	0
+INF	DATG	0	0.7759	0.2241	1
+Mayayeni	Mawane	1	0.3659	0.6341	0
+Qiansibaishang	qian si bai shang	1	0.0051	0.9949	1
+부능리	Kunjŏng	0	0.9906	0.0094	0
+Wulyatak	`Olyatak	1	0.1207	0.8793	1
+Camerata Nuova	Կապրանիկա-Պրենեստինա	0	0.8127	0.1873	0
+zhong wan	Zhongwan	1	0.0130	0.9870	1
+Shuang-hsi-tsui	gan zi lin	0	0.9825	0.0175	0
+Bugbuboi	Buguboi	1	0.1494	0.8506	1
+Degh Garas	Daga Hāb	0	0.8713	0.1287	0
+zheng jia yin	郑家银	1	0.0422	0.9578	1
+La Rinconada	Canton La Reforma	0	0.9689	0.0311	0
+Ban Tha Khwai	บ้านท่าควาย	1	0.0203	0.9797	1
+Gurrujakka	Gurrugaisajarbut	0	0.9361	0.0639	0
+Kharzar Tepa	Kharzar Tapah	1	0.0777	0.9223	1
+Saint-Didier-sur-Chalaronne	Montclair-la-Montagne	1	0.4718	0.5282	0
+Āsangrān	Asangran	1	0.0890	0.9110	1
+Rancho San Vicente del Cerro Pelón	San Valentín	0	0.8976	0.1024	0
+Kever Rabbi Eli‘ezer Ben Ya‘aqov	Kever Rabbi Eli`ezer Ben Ya`aqov	1	0.0199	0.9801	1
+Jabal Khubbaz	jbl bwr	0	0.8942	0.1058	0
+วัดหนองกิโล	Wat Nong Kilo	1	0.0052	0.9948	1
+Озеро Талдыколь	Талдыкөл	0	0.5642	0.4358	0
+Lédom	Ledom	1	0.0679	0.9321	1
+dlgwsk	سر آب	0	0.9967	0.0033	0
+蒙托利耶	Монтольє	1	0.0387	0.9613	1
+双龙寺	yan jia da zhuang	0	1.0000	0.0000	0
+Sa‘bawnat	سعبونت	1	0.0136	0.9864	1
+Гора Ирко-Вара	Ирклиевская	0	0.9998	0.0002	0
+Emamzadeh Mahmud	amamzadh mhmwd	1	0.0250	0.9750	1
+คลองอีเต่า	คลองอีสาว	0	0.9963	0.0037	0
+太平桥	Taipingqiao	1	0.0343	0.9657	1
+songjugdong	daejeondong	0	0.9995	0.0005	0
+Dembno	Dębno	1	0.2775	0.7225	1
+Tsjetsa	Четряково	0	0.9760	0.0240	0
+Qal`eh-ye Khan	قلعه خان	1	0.0077	0.9923	1
+Kwangsinwŏn	Ki-dong	0	0.9939	0.0061	0
+Ropele	Kleinsentken	0	0.8101	0.1899	1
+Līcnieki	Līči	0	0.9703	0.0297	0
+Ilyushkino	Iljushkino	1	0.2795	0.7205	1
+long tan chong	shi bi wu chang	0	0.9991	0.0009	0
+Mandae-ri	mandaeli	1	0.2485	0.7515	1
+Sent Julian prep Baurt	di lang	0	0.7201	0.2799	0
+xiao er hao da che dian	Xiao'erhao Dachedian	1	0.0140	0.9860	1
+Jisr el Aassi	Jesr ed Djêj	0	0.9628	0.0372	0
+Yujiapu	于家堡	1	0.0116	0.9884	1
+唐家坝	吴家岗	0	0.9998	0.0002	0
+مدیت سنگلاخ	Urochishche Manditsanglakh	1	0.0207	0.9793	1
+`Aliabad-e Qichi	Chuchni	0	0.9747	0.0253	0
+Khorasani	پشته خراسان	1	0.2366	0.7634	1
+Shizhuxia	老陈坑	0	0.9985	0.0015	0
+Faergen	Ferja	0	0.7377	0.2623	1
+Bilka	Belki	1	0.3645	0.6355	0
+Wādī al Ḩulw	Ouadi el Helou	1	0.3605	0.6395	1
+شهرک شهید احمد میر حاج	Zeynabeh	0	0.8021	0.1979	0
+lai ci wei lei	Lajcvajler	1	0.0103	0.9897	1
+chshmh hajy	Cheshmeh-ye Naz̧ar	0	0.9449	0.0551	0
+South Pākhulla	South Pakhulla	1	0.0596	0.9404	1
+Galangaret	Gaisarigu	0	0.9547	0.0453	0
+Darreh-ye `Osman Agholi	دره عثمان آغلی	1	0.0039	0.9961	1
+蒋家湾	Shuanglong	0	1.0000	0.0000	0
+Boissieres	Буассер	1	0.2739	0.7261	1
+Cuonjajavrit	Guolehis Vuordnasjavri	0	0.6400	0.3600	0
+蒂格尼厄雅梅齐厄	di ge ni e ya mei qi e	1	0.0025	0.9975	1
+Z̧ahrat Ra‘fā’	Z̧ahrat Sinān	0	0.9806	0.0194	0
+Sarmenday Karez	Saṟmenḏay Kāṟēz	1	0.0929	0.9071	1
+Sotokawa	Tokatta	0	0.8011	0.1989	0
+西登戸駅	xi deng hu yi	1	0.0714	0.9286	1
+El Aalali	Qurnat al ‘Alālah	0	0.6163	0.3837	0
+Chah Gaz	Char Gaz	1	0.2881	0.7119	1
+kwh dyzjan	Ḩowẕ-e Kaneh Zadā‘ī	0	0.9443	0.0557	0
+Gintaga	Gansaga	0	0.6872	0.3128	1
+apwdaka	Apiza	0	0.8618	0.1382	0
+Oil and Gas Exhibition and Planetarium	Ma‘riḑ an Nafţ wa al Ghāz wa al Qubbah al Falakī	0	0.5167	0.4833	1
+Pŏlp’an-mal	gwangol	0	0.9967	0.0033	0
+Galwān River	jia lei wan he	1	0.1662	0.8338	1
+소태제	Saeinbong	0	0.9998	0.0002	0
+Tōpkay	Topkay	1	0.0903	0.9097	1
+Obshhina Borovan	Borowan	0	0.6273	0.3727	0
+woteotaun	Watertown	1	0.2415	0.7585	1
+昌榮橋	Te-an Ssu	0	0.9991	0.0009	0
+kuang jia	Kuangjia	1	0.0130	0.9870	1
+Panjiazhai	Mayizhai	0	0.7417	0.2583	0
+Nemon’yen	Golovkino	0	0.9420	0.0580	1
+Ryōshimachi	ハママチ	1	0.4151	0.5849	0
+Ŏjŏn-ni	Ojon-dong	0	0.5697	0.4303	1
+da tian kou	寨子坡	0	1.0000	0.0000	0
+Ghbargey Māndah	Ghbaṟgey Mānḏeh	1	0.0259	0.9741	1
+Lambarhnukur	ラキ火山	0	0.9768	0.0232	0
+Крутченская Байгора	Крутченская-Байгора	1	0.0825	0.9175	1
+Krasnaya Znamenka	Slishchanka	0	0.9612	0.0388	0
+Фрейзі	Frejzi	1	0.1024	0.8976	1
+Hacienda El Chaguite	El Bebedero	0	0.9463	0.0537	0
+long gui qiang	Longguiqiang	1	0.0183	0.9817	1
+Río Chamusiqueni	Chamuscados	0	0.9880	0.0120	0
+Tat-Kunashi	Tatarskie Kunashi	1	0.2763	0.7237	1
+كولينسفيل	kolambiya	0	0.9717	0.0283	0
+면애골재	Myonaegol-chae	1	0.0330	0.9670	1
+Jāl as Sāqiyah	Sāqiyah	0	0.5501	0.4499	0
+nagahamagyokou	ながはまぎょこう	1	0.0347	0.9653	1
+Berdak’ar	Gerezmank'	0	0.9959	0.0041	0
+ماش	Deh Mashi	1	0.3860	0.6140	1
+Zirguza	Ala Rash	0	0.9036	0.0964	0
+بندر دلفارد	bndr dlfard	1	0.0228	0.9772	1
+Batob	Batkheyl	0	0.9971	0.0029	0
+光耀八组	Guangyao Bazu	1	0.0352	0.9648	1
+Shenguo	xiao zuo	0	0.9937	0.0063	0
+Crète	Crete	1	0.0459	0.9541	1
+Grieta  islote	Clements Markham  Isla	0	0.6823	0.3177	0
+Hermanstad	Ronningen	0	0.9744	0.0256	1
+K'vemo Bodbe	Bikari	0	0.9857	0.0143	0
+บ้านชอนไพร	Ban Chon Phrai	1	0.1357	0.8643	1
+Bou Souiless	Bou Cfayye	0	0.8498	0.1502	0
+Khmelëvaya	Хмелёвая	1	0.1667	0.8333	1
+Khuiven	Iwanowo	1	0.1947	0.8053	0
+Ait Oumdis	ayt blal	0	0.9227	0.0773	1
+Tate Kawa	Kamitsuchidana-kita	0	0.9511	0.0489	0
+罐子窑	guan zi yao	1	0.0018	0.9982	1
+Darah-ye Khwajah Chisht	Khwajah Chisht	0	0.8020	0.1980	0
+Sarqul	Sarkul'	1	0.1462	0.8538	1
+Gamue-Zohazti	Kamu Sig	0	0.8186	0.1814	0
+Wat Pa Udomphon	วัดป่าอุดมพร	1	0.0462	0.9538	1
+三河島駅	ochiaiminaminagasakieki	0	0.6255	0.3745	0
+Novo-Poltavskoye	Nizhnepoltavka	1	0.2580	0.7420	1
+Hehuaxin Shan	Hehu Xiang	0	0.9997	0.0003	0
+zhen wu gong	Jhenwu Gong	1	0.0572	0.9428	1
+Chah Ahmadi	qrjh	0	0.9996	0.0004	0
+花秋林	Huaqiulin	1	0.0083	0.9917	1
+Palkovičovo	Novy Lapuhat	0	0.9812	0.0188	0
+Portlend	Portland	1	0.1191	0.8809	1
+xi bang ding yi	ba qian dai ding yi	0	0.9868	0.0132	0
+Bellus Locus	Bol'e-su-Partene	0	0.9156	0.0844	1
+wo de wang dang lu	fan er deng	0	0.9770	0.0230	0
+칠곡리	chilgogli	1	0.0061	0.9939	1
+Dhū Ḩatwah	dhw matr	0	0.8012	0.1988	0
+Jaṟe Bāghūja-i-Bālā	Jare Baghuja-i-Bala	1	0.0087	0.9913	1
+Cape Elba	Jebel Hadarba	1	0.3774	0.6226	0
+Озëрный	Ozërnyy	1	0.1942	0.8058	1
+نُو پيچار مَحَلِّه	نو كلا	0	0.9854	0.0146	0
+Wu-sung-chiao	Yuan-sung-chiao	1	0.4042	0.5958	1
+Fonroque	Fugerol'	0	0.7864	0.2136	0
+jin xi qiao	Chin-hsi Ch’iao	1	0.2335	0.7665	1
+jin chuan	Hezuo Shi	0	0.9997	0.0003	0
+Yangjiadi	yang jia de	1	0.0174	0.9826	1
+khlxng ta tham	Khlong Na Noi	0	0.9977	0.0023	0
+zhang fu hui	Zhangfuhui	1	0.0164	0.9836	1
+shuang tian keng	大水田	0	0.9995	0.0005	0
+Prêk Chhlâng	Prek Chalang	1	0.0422	0.9578	1
+Masan-dong	Pangnae	0	0.9120	0.0880	0
+Kuh-e Siah	Kuh-e Tappeh Siah	0	0.5787	0.4213	1
+Ḏahane	دهن سنگینک	0	0.9304	0.0696	0
+Berandara	Beṟāndarreh	1	0.1354	0.8646	1
+Parnaya	Гора Паркин Белок	0	0.9962	0.0038	0
+Flughafen Schwerin Parchim	Aeroport de Schwerin Parchim	1	0.3041	0.6959	1
+松羅山	nan quan tou mu shan	0	0.9544	0.0456	0
+Borovoye	Боровое	1	0.2078	0.7922	1
+Wangjia	东源坞	0	0.9959	0.0041	0
+Рыбный Питомник	Rybnyy Pitomnik	1	0.0137	0.9863	1
+Obgonnyy Punkt Svet	Sverkishino	0	0.9855	0.0145	0
+guo ba	Guoba	1	0.0171	0.9829	1
+شعيب ابو سجلة	رجلة ابو جهف	0	0.9999	0.0001	0
+Hanshir al Karmah	Hennchir el Kerma	0	0.5625	0.4375	1
+Ayia Marina	Amoryianí	1	0.2599	0.7401	0
+Kisvolgypuszta	Kis-völgy	1	0.4361	0.5639	1
+wad samvththi buy	วัดสลก	0	0.9992	0.0008	0
+Озёрный	Ozërnyy	1	0.1724	0.8276	1
+دره قنبری	قلعه چشمه ریزه	0	0.9999	0.0001	0
+拉雷帕拉奥里普莱	La Reparaa e Auriblas	0	0.8017	0.1983	1
+General Pedro Antonio Santos	Bandar Udara Internasional General Francisco Javier Mina	1	0.4456	0.5544	0
+Jabal ar Ruwi	Jabal al Ruwi	1	0.0242	0.9758	1
+Wuwanpu	qu jia tun	0	0.9954	0.0046	0
+Hommelisætra	Hommelisetra	1	0.1162	0.8838	1
+rwdkhanh shwr	Posht Tag Meydan	0	0.9895	0.0105	0
+Gunung Ragas	Pasir Rangos	1	0.3453	0.6547	1
+amamzadh zyd bn abrahym	mhlh dhnw	0	0.9850	0.0150	0
+Qaralar	Imam-Verdylyar	1	0.3717	0.6283	1
+惠蓀林場	Mu-an Shan	0	0.9134	0.0866	0
+十大顷乡	shi da qing xiang	1	0.0183	0.9817	1
+‘Abbāsābād	کلاته نوده	0	0.9190	0.0810	0
+Ko-nei-tzu	Geneizi	1	0.3988	0.6012	1
+Bîr Abu Bakr Mohammad	Abar Abu Bakr Gudah	0	0.9111	0.0889	0
+Wonsok-san	wonseogsan	1	0.0809	0.9191	1
+mu se	Deyi	0	0.6996	0.3004	0
+Stantsiya Belyy Rast	Stancija Belyj Rast	1	0.1143	0.8857	1
+Ta-tu-yu	Tu-yang Shan	0	0.9322	0.0678	0
+quan tou	Quantou	1	0.0175	0.9825	1
+`Irnaba	Wādī Irmīs	0	0.6871	0.3129	0
+Ano’o Eki	穴生駅	0	0.5974	0.4026	1
+kayanumaeki	tang lu yi	0	0.5275	0.4725	0
+Zeljonyj Bor	Зеленый Бор	1	0.0139	0.9861	1
+Бардо	Устшики-Дольне	0	0.9846	0.0154	0
+Ch'ih-shan	Ch’ih-shan	1	0.2032	0.7968	1
+Soam-dong	Sŏam-dong	1	0.0746	0.9254	0
+Wadi Kubeida	Wādī Kubaydah	1	0.0756	0.9244	1
+Qaryat al 'Aylah	Mintaqat ar Rustamiyah	0	0.9914	0.0086	0
+Kilic	Sehidan	0	0.9440	0.0560	1
+ห้วยเชียงเสือ	ห้วยซิ	0	0.9918	0.0082	0
+Västanrevet	Vaestanrevet	1	0.0974	0.9026	1
+Terterants’ pat	Aghichamp'u hogher	0	0.9937	0.0063	0
+Unmojil	웃모질	1	0.1185	0.8815	1
+Малая Эйна	Лонский	0	0.9998	0.0002	0
+Jebel Amsittene	Amadel Amsitene	1	0.2574	0.7426	1
+Estación Cebollar	Río Cazadero	0	0.9592	0.0408	0
+Wädenswil, Campus Reidbach	Waedenswil  Campus Reidbach	1	0.0275	0.9725	1
+degoya	Nishidegoya	0	0.7125	0.2875	0
+Hengkeng Linchang	heng keng lin chang	1	0.0494	0.9506	1
+Tianjing	Mingde	0	0.9758	0.0242	0
+Xinping	xin ping	1	0.0085	0.9915	1
+Vaghenakov	Vank'i Sar	0	0.7327	0.2673	0
+Xishan	xi shan	1	0.0468	0.9532	1
+suehirodamu	Ishiyama-damu	0	0.9856	0.0144	0
+zheng jia pin	郑家品	1	0.0024	0.9976	1
+Dhok Baggar	Narala	0	0.9924	0.0076	0
+سله مرز	slmrz	1	0.0572	0.9428	1
+Borzelan-e Pa'in	Borghūnī	0	0.8839	0.1161	0
+Edlibach, Hünnlital	Edlibach  Hünnlital	1	0.0145	0.9855	1
+Јокосука	heng dao	0	0.9625	0.0375	0
+上坑村	Shangkengcun	1	0.0059	0.9941	1
+Wat Noen Yao	Wat Noen Samo	0	0.8969	0.1031	0
+Rongrian Tanyong Mat	โรงเรียนตันหยงมัส	1	0.2144	0.7856	1
+Beiya Xiang	Longdong	0	0.9998	0.0002	0
+油坊沟口	Youfanggoukou	1	0.0075	0.9925	1
+Gyrby	Gyljan-Veehm	0	0.9079	0.0921	0
+Tehran Sar Markezi	تهرانسر مرکزی	1	0.0148	0.9852	1
+Краснознаменское	Краснознаменка	1	0.4852	0.5148	0
+Guaianazes	Guaianeses	1	0.0851	0.9149	1
+Morona-Santiago	Canton Morona	0	0.7067	0.2933	0
+Izba Nizhniye Kel'i	Nizhniye Kel'i	1	0.0891	0.9109	1
+后大坡	liu quan	0	0.9999	0.0001	0
+西山村	xi shan cun	1	0.0076	0.9924	1
+nie yu dang	Omps	0	0.8261	0.1739	0
+Seirstadfjorden	Seierstadfjorden	1	0.0380	0.9620	1
+Stotis Luksiai	Lukšiai	0	0.5396	0.4604	0
+Nbeguiene	Nbéguiène	1	0.1126	0.8874	1
+Gorg	kwh chng dr	0	0.5538	0.4462	0
+Salim Khan Yeylaqi	kwh slym khan yylaqy	1	0.3982	0.6018	1
+qi gu	尚木仓	0	0.9920	0.0080	0
+Longbiao	long biao	1	0.0276	0.9724	1
+Chia-i-shih	Chia-ya	0	0.7656	0.2344	0
+王家咀	Wangjiazui	1	0.0009	0.9991	1
+Espi Mazār	Ḏaṟa-i-Keṟmān	0	0.9463	0.0537	0
+drh mar	درّه مار	1	0.0033	0.9967	1
+Novinki	Novinka	0	0.6638	0.3362	0
+Rakham	Rakkam	1	0.1136	0.8864	1
+Nasir Kuzaw	Namāw	0	0.9310	0.0690	0
+Litle Grimsholmen	Lilleholmen	1	0.3965	0.6035	1
+kwh dwsh draz	dwshr	0	0.9831	0.0169	0
+청하면	Cheongha-myeon	1	0.0521	0.9479	1
+Otdeleniye Sovkhoza Ozërnoye Krasnaya Bashkiriya	Ferma Nomer Odin	0	0.9264	0.0736	0
+Longjiawan	龙家湾	1	0.0020	0.9980	1
+Marianna-dűlő	Mária-tanya	1	0.4810	0.5190	0
+jwyy zmy	Zāmē Māndêh	0	0.9773	0.0227	1
+Tchaladè	Tchiapécodji	0	0.8362	0.1638	0
+辽叶洞	liao ye dong	1	0.0112	0.9888	1
+deng ta cun	Zhiman Shuiku	0	0.9999	0.0001	0
+Kūh-e Darreh Zahrī	Kuh-e Darreh Nar	0	0.7337	0.2663	1
+Vurbitsa	Vlashitsa	0	0.8992	0.1008	0
+Stantsiya Sestrynivka	Станція Сестринівка	1	0.0066	0.9934	1
+معدن زغال سنگ تونل شماره نه	ده غضنفر	0	0.9998	0.0002	0
+Haech'ang	jangsu	0	0.7321	0.2679	1
+Buč	Bučička Slatina	0	0.9490	0.0510	0
+Nuoc You	Nước Yôn	1	0.4616	0.5384	1
+keundeuggol	Chagŭndŭk-kol	1	0.2179	0.7821	0
+dxy san cm	Doi San Chom	1	0.4180	0.5820	1
+Ban Khok Lam	Ban Na Lom	0	0.8267	0.1733	0
+Zuqayhah	Zuqayḩah	1	0.0411	0.9589	1
+Parau Capusului	Căpusneni	0	0.8334	0.1666	0
+Ouaraba-Gul	Warabagal	1	0.0764	0.9236	1
+مجید	Majg Chah	0	0.9742	0.0258	0
+Hākim Sandīlo	Hakim Sandilo	1	0.0311	0.9689	1
+Bol’shoye Polpino	Bol'shoe Polozovo	0	0.9321	0.0679	0
+Qal`eh-ye Mirza `Ali	Qal‘eh-ye Mīrzā ‘Alī	1	0.0838	0.9162	1
+wrkt	ورږو ناو	0	0.9643	0.0357	0
+บ้านนาโป่ง	banna pong	1	0.1537	0.8463	1
+Longtang	高新村	0	0.9999	0.0001	0
+Auksodžio	Auksudy	1	0.4357	0.5643	1
+Kol’tobe	Kol’shengel’	0	0.9882	0.0118	0
+Kirdah Sadiq	كرده صادق	1	0.0517	0.9483	1
+سینٹ-مشیل-دس-اندائنس	sheng ni ke la dai lai di ye er	0	0.7399	0.2601	0
+Sianantian	Xianantian	1	0.0240	0.9760	1
+pan jia zhai	chen cun	0	1.0000	0.0000	0
+เขาอุโมง	khea xumong	1	0.0235	0.9765	1
+Xujiazhuang	yao chang cun	0	0.9873	0.0127	0
+Kuh-e Zard	kwh zrd	1	0.0356	0.9644	1
+gda khyl	Gadakheyl'	1	0.0701	0.9299	0
+Godar-e Barut	gudari barwt	1	0.1953	0.8047	1
+EVD	EXM	0	0.7672	0.2328	0
+Qūl Kā	قول كا	1	0.0083	0.9917	1
+Caohu Qiao	Jih-hsin Ch’iao	0	0.9723	0.0277	0
+Maḩāreb	mharb	1	0.1696	0.8304	1
+mdrst abw twylt alaʿdadyt	Madafin Qatla al Harb al `Alimiyah al Ula wa ath Thaniyah	0	0.8998	0.1002	0
+Sierra Mariánica	Cordillera Mariánica	0	0.6843	0.3157	1
+Río Chillihua	Río Santa Elena	1	0.4812	0.5188	0
+Kadeng	ka ding	1	0.0924	0.9076	1
+Ayn Qal`ah	Ainomāl	0	0.7398	0.2602	0
+الشيخ ياسين	حي الشيخ ياسين	1	0.1640	0.8360	1
+Ch'iung Ho	Daxing	0	0.9034	0.0966	0
+箭竹岭	Jianzhuling	1	0.0080	0.9920	1
+Дёмина Поляна	Дёмина	0	0.6393	0.3607	0
+Bou Redim	Oued Bou Redim	1	0.1251	0.8749	1
+Lorttjørnet	Holmtjonnet	0	0.8747	0.1253	0
+Xuqiao	xu qiao	1	0.0416	0.9584	1
+چيل کنار	Mīānbāzār	0	0.8684	0.1316	0
+Wat Pho Chai	วัดโพธิ์ชัย	1	0.0179	0.9821	1
+سر قزل	سري مرةسته	0	0.9990	0.0010	0
+er la ba	Erlaba	1	0.1538	0.8462	1
+xie he chuan gang	Funaoka-chuo	0	0.9276	0.0724	0
+Weiziyu Zhen	wei zi yu	1	0.0844	0.9156	1
+Panjiadong	Yueliangdong	0	0.9984	0.0016	0
+Chel Mard	چهل مرد	1	0.0102	0.9898	1
+Bezōṟē Nāw	Čāqūlak	0	0.9999	0.0001	0
+Ban Nong Plalai	ban hnxng pla hil	1	0.2166	0.7834	1
+Idris Tomb	Bi’r Idrīs	0	0.9292	0.0708	0
+Садовой	Sadovoy	1	0.1714	0.8286	1
+Tilalo	Karacali	0	0.6965	0.3035	0
+Lesama	ليزاما	1	0.1174	0.8826	1
+Fallehatjæggi	Stuoráhpi	0	0.9837	0.0163	0
+Ban Ta Hing	บ้านตาฮิง	1	0.0634	0.9366	1
+K'avi	K'ot'ants'ineri art	0	0.9969	0.0031	0
+jin he qi lai hu	Tsuwazaki-seto	1	0.4860	0.5140	1
+Saint-Pierre-lès-Bitry	Saint-Pierre-le-Moutier	1	0.3864	0.6136	0
+hei da lu	Heidalu	1	0.0612	0.9388	1
+Sadovyj	Djatlov	0	0.9420	0.0580	0
+고비내리	Kobinae-ri	1	0.1365	0.8635	1
+Akasaka-eki	Yakuin-ōdōri-eki	0	0.9992	0.0008	0
+Sūr Ghar	Gora Surgar	1	0.3387	0.6613	1
+Ballinunty	Baile an Tóchair	0	0.6896	0.3104	0
+Pomyków	Kolonia Pomykow	1	0.2917	0.7083	1
+Kambowah	Waboe	1	0.4806	0.5194	0
+Guanxi	guan xi	1	0.0310	0.9690	1
+Longfjui	میڈری	0	0.9730	0.0270	0
+Wae Bula-besar	Bula	0	0.8315	0.1685	1
+banmwng khi	Ban Muang Kao	0	0.8215	0.1785	0
+วัดอารามวัดใหม่	วัดอุโบสถ	0	0.9966	0.0034	1
+Shablykinskiy Rayon	Sjablykino	0	0.9629	0.0371	0
+Douar Erreggada	Kasbet Regada	1	0.3157	0.6843	1
+xing long	岭咀上	0	0.6043	0.3957	0
+Novyy Pykiv	Novyy Pikov	1	0.1631	0.8369	1
+ao bei	牛鼻营	0	0.9956	0.0044	0
+Chang'ao	zhang ao	1	0.0124	0.9876	1
+gawkshn wst	Gavkoshan-e Pa'in	0	0.9549	0.0451	0
+Darrah Qyagh	Darreh-ye Qyāgh	1	0.0222	0.9778	1
+Hauröden (Bischofferode)	Bahnhof Haunstetterstraße	0	0.7618	0.2382	0
+มัสยิดนูรุลอิสลามียะห์	Matsayit Nu Run Itsala Mi Ya	1	0.0325	0.9675	1
+Rio Valegro	Río Valdivia	0	0.6218	0.3782	0
+Khallat `Ablah	Khallat ‘Ablah	1	0.0333	0.9667	1
+pdysham ghr	drh gazrw	0	0.9969	0.0031	0
+Xinlian	xin lian	1	0.0363	0.9637	1
+Kunimi Yama	Yamato Dani	0	0.6513	0.3487	0
+Handiancun	韩店村	1	0.0033	0.9967	1
+齐家屋场	song zi	0	0.9909	0.0091	0
+Hsia-chuang-tzu	Xiazhuangzi	1	0.2299	0.7701	1
+老屋下村	Nan'an	0	0.9993	0.0007	0
+느치골	Nuch'i-gol	1	0.0521	0.9479	1
+El Khtart n'Oughroud	Tirheremt n’Igrane	0	0.8445	0.1555	0
+Sinho-ri	Sinhō-ri	1	0.1459	0.8541	1
+ده شاه پائين	ده شاد بالا	0	0.9962	0.0038	0
+Mys Perevalochnyj	Mys Perevalochnyy	1	0.0259	0.9741	1
+ban khelxa bx nxy	ban sux mux	0	0.9927	0.0073	0
+Sathani Anamai Nong Mang	สถานีอนามัยหนองมั่ง	1	0.0111	0.9889	1
+Napasorsuak	Kirkespiret	1	0.3609	0.6391	0
+Chiay Beyn Ser	Chiya-ye Bani Sar	1	0.2513	0.7487	1
+Adolf Fredriks Församling	Stockholms laens museum	0	0.9117	0.0883	0
+Ouadi Qdeimiye	Ouâdi Qdeïmîyé	1	0.1783	0.8217	1
+Gongpu	柏树园	0	0.9988	0.0012	0
+Wat Bua Khao	wad bawkhaw	1	0.0109	0.9891	1
+Khar Guneh	Rās Khārgu	0	0.9470	0.0530	0
+Galitsya	Galicja	1	0.0858	0.9142	1
+Abū Ghannūsh	Ra's Abu Farmah	0	0.9954	0.0046	0
+Yūkhshī	Mazra`eh-ye Yakhchi	0	0.6198	0.3802	1
+분토골	saeteo	0	0.9984	0.0016	0
+rongreiyn wad ka rxng	Rongrian Wat Ka Rong	1	0.0202	0.9798	1
+Pratah Spinkey	Gora Asmanpengay	0	0.6218	0.3782	0
+تل الحميدية	Tall al Hamidiyah	1	0.0016	0.9984	1
+E-jima	Ii-shima	1	0.3684	0.6316	0
+kwh dw brar	Kuh-e Do Barar	1	0.0246	0.9754	1
+Uadi Munesc	Gráret Múnesc	0	0.6644	0.3356	0
+Sivinskoye	Sivinskoe	1	0.3308	0.6692	1
+Apkoji	Jeondae-ri	0	0.9818	0.0182	0
+si he chang	四和场	1	0.0104	0.9896	1
+Sillsjøn	Sillsjoen	1	0.3610	0.6390	0
+Berezejevo	Berezeevo	1	0.4458	0.5542	1
+Phnum Kon Thum	O Kânthéan	0	0.9576	0.0424	0
+Nahr al Madhalib	Nahr al Madḩalib	1	0.0287	0.9713	1
+Kharowti	Kharowṯī	1	0.2004	0.7996	0
+Beit Souhine	byt swhyn	1	0.0961	0.9039	1
+Beiji	Yangdong	0	0.9998	0.0002	0
+Fishbourne Port	Fishbourne Harbour	1	0.1244	0.8756	1
+วัดโนนทาประชานิมิตร	wad bawkhaw	0	0.9718	0.0282	0
+Myketes”yël’	Myketesujol'	1	0.0403	0.9597	1
+Mazra‘eh-ye Sargodār	Zāre‘ābād	0	0.9215	0.0785	0
+Steensgard	Stensgård	1	0.2301	0.7699	1
+lrk	گرگ آب	0	0.9580	0.0420	0
+Kuh-e Sefid Darfak	کوه سفید در فک	1	0.0059	0.9941	1
+he yang bao	he qu bao	0	0.5582	0.4418	0
+Marqad ash Shaykh Tamīm	Marqad ash Shīkh Tamīm	1	0.0144	0.9856	1
+Oleksandrija	Александровка	0	0.8777	0.1223	0
+aljrdhy	الجرذي	1	0.0412	0.9588	1
+日の出町	ひのちょう	1	0.2020	0.7980	0
+Yueseqianbo	月色千波	1	0.0626	0.9374	1
+Khalilabad	Khalīl Kord	0	0.8953	0.1047	0
+Ban Samrong	ban sarong	1	0.4059	0.5941	1
+قلعه بين	زمانی محله	0	0.9183	0.0817	0
+Valviken	Vällviken	1	0.0896	0.9104	1
+‘Uţaywī as Salmān	Maqbarat al Hish al Britani	0	0.9897	0.0103	0
+Wan-shan Tz’u	Wanshan Cih	1	0.2064	0.7936	1
+Järvakandi Asundus	Järvakandi Klaasivabrik	0	0.6826	0.3174	0
+Basti Tarkhananwali	Basti Tarkhānānwāli	1	0.0052	0.9948	1
+La Ferrière-Harang	Фурне	0	0.9915	0.0085	0
+drh galdyn drh	Darreh-ye Gāldīn Darreh	1	0.0392	0.9608	1
+Nogajkol'	Nizhniy Mashat	0	0.9980	0.0020	0
+Yong'an Gaozhong	yong an gao zhong	1	0.0329	0.9671	1
+Serra Dgunsa	Ilha Mattos	0	0.8775	0.1225	0
+Shaylah-ye Kan`an	Shelah-e Kan`an	1	0.0112	0.9888	1
+Tadaoka-naka	Tadanoumi-tokonoura	0	0.9521	0.0479	0
+ban hım samakhkhi	Ban Mai Samakkhi	1	0.0370	0.9630	1
+`Omar Kheyl	Umarkheyl’	0	0.5732	0.4268	0
+Burljaevka	Burlyaevka	1	0.2060	0.7940	1
+Bol’shiye Zavshitsy	Bol’shiye Yakovchitsy	1	0.2207	0.7793	0
+大高各庄	da gao ge zhuang	1	0.0087	0.9913	1
+rongreiyn wad hlak chang	Rongrian Wat Manao Wan	0	0.9996	0.0004	0
+Boca de Chavon	Boca Chavon	1	0.0407	0.9593	1
+ji zhun lei	藏巴色色	0	0.9986	0.0014	0
+ban bang kra phx	Ban Bang Krapho	1	0.0364	0.9636	1
+Ban Wang Phueng	ban hnxng khen	0	0.9953	0.0047	0
+Chou-li-ch'ang	Zhoulichang	1	0.2161	0.7839	1
+Ḑahr al Mayy	Chir el Maitra	0	0.9906	0.0094	0
+da bao cha cun	Dabuchacun	1	0.0027	0.9973	1
+Lurinong	da jin ke	0	0.9851	0.0149	0
+Chengzhuang	cheng zhuang	1	0.0195	0.9805	1
+Bereja	Ponomarevka	0	0.9103	0.0897	0
+打鹰场	Dayingchang	1	0.0195	0.9805	1
+Debeder Shet'	Daba Bahri	0	0.8351	0.1649	0
+na jia wan	Najiawan	1	0.0406	0.9594	1
+miao jia qing	小乌龙	0	0.9993	0.0007	0
+Counamama Branche Est	Riviere Counamama	0	0.8617	0.1383	1
+Tushan	左腊嘎	0	0.9996	0.0004	0
+Ban Kok Ai Thiam	ban keaa xay thei ym	1	0.0604	0.9396	1
+Ullangersfjarden	Ullaksjøn	0	0.9480	0.0520	0
+Haegwangsa	해광사	1	0.0485	0.9515	1
+Novoye Selo	Новосёлки	0	0.8984	0.1016	0
+Changcheng Shuichan	长城水产	1	0.0270	0.9730	1
+Kaṟghanē Zyāṟat	Ḏāṟōkhēl	0	0.9999	0.0001	0
+yan zi bian	Yen-tzu-pien	1	0.1487	0.8513	1
+Castelltersol	Kastel'jote	0	0.7917	0.2083	0
+allkymt	Al Lukaymah	1	0.0481	0.9519	1
+Jabal al Qulaylāt	Jabal al Qulayhah	0	0.5289	0.4711	0
+zhou zhuang cun	周庄村	1	0.0222	0.9778	1
+Neribitopalan	Niribimelikan	0	0.7326	0.2674	0
+フライン	Flajn	1	0.1270	0.8730	1
+Лоне	Lonastes Stacija	0	0.9852	0.0148	0
+cheng jiang lou	澄江楼	1	0.0071	0.9929	1
+Baruni	محمّد تقی علیا	0	0.9969	0.0031	0
+Prodhromos	Prodromo	1	0.3134	0.6866	1
+Indre Russøya	Gaasen Eyland	0	0.9204	0.0796	0
+San-p'ing Tsu-shih Miao	san ping zu shi miao	1	0.0248	0.9752	1
+Қараағаш	Malajsary	0	0.9842	0.0158	0
+Pontjol	Poncol Lor	0	0.7443	0.2557	1
+Niushibu	大坞里	0	0.9997	0.0003	0
+Qaderi	qadry	1	0.1279	0.8721	1
+Chuan-tzu	Kan-kou Ts’un	0	0.9500	0.0500	0
+Eyzin-Pinet	Ейзен-Піне	1	0.0584	0.9416	1
+โรงเรียนขวาวใหญ่วิทยา	Rongrian Ban Pho	0	0.9605	0.0395	0
+Gory Ul'kenkalkan	Gory Ul’kenkalkan	1	0.0061	0.9939	1
+Kuang-ch’un Kuo-chung	gu lou guo xiao	0	0.9998	0.0002	0
+amagaseeki	あまがせえき	1	0.1497	0.8503	1
+Dzhannatbag	Cahar Sari	0	0.9990	0.0010	0
+Shangnanpotou	shang nan po tou	1	0.0341	0.9659	1
+Ruisseau Bège	Bear	0	0.7131	0.2869	0
+shi gang	Shih-chiang	1	0.4827	0.5173	1
+예미역	연하역	0	0.8856	0.1144	0
+Kokangen	Kokengen	1	0.2420	0.7580	1
+Левогорочная	Михалевская	0	0.9997	0.0003	0
+Chunghŭng-ni	jungheungli	1	0.3983	0.6017	1
+Ts’ao-kou-ts’un	Houzhang	0	0.8142	0.1858	0
+Karmir agbyuri	Karmir aghbyuri	1	0.0417	0.9583	1
+Oulun Laani	VR Oulunkylae	1	0.4688	0.5312	0
+ke lu wa xi lai	Круазий	1	0.2170	0.7830	1
+บ้านบางโพธิ์	Ban Bang Pho Nua	0	0.8159	0.1841	0
+Tappeh-ye Qermez	Surkh Kūh	0	0.9702	0.0298	1
+luo jia pian	Baoguosi	0	0.9971	0.0029	0
+Gosal	گسل	1	0.1006	0.8994	1
+넌추골	Pamgat	0	0.9908	0.0092	0
+Keskisenjärvi	Keskimmainen	0	0.8522	0.1478	1
+Foshchevatoye	Foshhevatovo	1	0.4920	0.5080	0
+Rundvatnet store	Store Rundvannet	1	0.2278	0.7722	1
+Ch'oil-li	Munnaedong-ni	0	0.5070	0.4930	0
+Bi'r Mirariyah	Bi’r Murārīyah	1	0.0603	0.9397	1
+Kuh-e Shekasteh Rudeh	Kalam	0	0.9951	0.0049	0
+Hengxi	Hengxi Gongqu	0	0.7651	0.2349	1
+جامع الغواص	جامع الطاووسية	0	0.9895	0.0105	0
+Tolombeh-ye Pākūhī-ye Dasht Deh	Pākūh	0	0.9487	0.0513	1
+Sinp’ung-gol	sinpungli	0	0.9370	0.0630	0
+Yttertjonna	Yttertjønna	1	0.0115	0.9885	1
+倫帕爾蘭	Lumparinselka	0	0.8907	0.1093	0
+sampyeongli	Sampyeong-ri	1	0.0639	0.9361	1
+塘下湾	lai jia wan	0	0.9663	0.0337	0
+wad sri dxn mul	วัดศรีดอนมูล	1	0.0077	0.9923	1
+Απόλπαινα	Sifnos	0	0.9112	0.0888	0
+ภูเชียงโป	phu cheiyng po	1	0.0410	0.9590	1
+Mojŏng	Chuk-ch’on	0	0.9218	0.0782	0
+Phumi Ta Ngal	Phum Tanga	0	0.8301	0.1699	1
+Bereznyaki	Урочище Коморовка	0	0.9364	0.0636	0
+bung hantra	Bueng Han Tra	1	0.1044	0.8956	1
+saman kany	جنگل افراتخت	0	0.9997	0.0003	0
+`Abd Aj Jalil	`Abd al Jalil	1	0.0171	0.9829	1
+Olaslaettbekken	N. Tågåa	0	0.9349	0.0651	0
+白道沟	bai dao gou	1	0.0079	0.9921	1
+Kupfermühle	Schoenfelder Muehle	0	0.5645	0.4355	0
+نائی پو	Na'ipu	1	0.1317	0.8683	1
+ながたき	da he tian	0	0.9710	0.0290	0
+Sumî	Sūmah	1	0.2657	0.7343	1
+xia dan zhu	Zhangkeng	0	1.0000	0.0000	0
+Pataste	El Pataste	1	0.1098	0.8902	1
+Wai Roenoe	Telok Roen	0	0.9395	0.0605	0
+Khaysowr Kārīz	Khaysur Karez	1	0.3102	0.6898	1
+نخلیه	Nakhīlāt Boland	0	0.7655	0.2345	0
+Øversjøn	OEversjoen	1	0.3504	0.6496	1
+ban sri smburn	วัดป่าพุทธภูมิ	0	0.9996	0.0004	0
+IWO	硫黄島航空基地	0	0.9217	0.0783	1
+Остров Пухарпан	Остров Осетровый	0	0.9996	0.0004	0
+Canada de la Barra	Cañada La Barra	1	0.2383	0.7617	1
+Den Shet'	Denk’ez (4)	0	0.8015	0.1985	0
+جامع سيدنا زكريا	jamʿ sydna zkrya	1	0.0024	0.9976	1
+Μεταλλείον	Μεταλλία	1	0.4609	0.5391	0
+Våssjön	Vassjoen	1	0.3129	0.6871	1
+رستم آباد	Rūḩollāh	0	0.9997	0.0003	0
+fars nral	Fāris Narāl	1	0.1751	0.8249	1
+Srikanthakati	Snrīfalkāti	0	0.6861	0.3139	0
+太子廟	Taizi Miao	1	0.2109	0.7891	1
+Nosy Ratsy	Rata Islet	0	0.8264	0.1736	0
+Ylä-Soltkoski	Verkhniy Sheltoporog	0	0.7245	0.2755	1
+Tà Diếp C1	Ta Diep C2	1	0.3250	0.6750	0
+Kuang-ch’ang	旴江镇	1	0.1918	0.8082	1
+ma men	ba ri	0	0.9961	0.0039	0
+Siha-dong	sihali	0	0.8414	0.1586	1
+xu jia chong	Yanjiawan	0	1.0000	0.0000	0
+Xinxiasi	新下寺	1	0.0285	0.9715	1
+Bankeng	xia jing	0	0.9986	0.0014	0
+Cerro del Diablo	Cerro Rincón Diablo	1	0.1335	0.8665	1
+Cheruy Neang Ngoun	Phumĭ Chroŭy Kaôh	0	0.9707	0.0293	0
+سيد عباس	Sayyid `Abbas	1	0.0013	0.9987	1
+Смотрики	Сморжів	0	0.9859	0.0141	0
+Qom Sāy	Qom Say	1	0.0766	0.9234	1
+wei mo	shan wan	0	0.9991	0.0009	0
+ban khan thar	Ban Khan Tha	0	0.6966	0.3034	1
+Chishirodai-eki	京成臼井駅	0	0.9904	0.0096	0
+Jerba	Meninx	0	0.7961	0.2039	1
+Nejuj	Gora Neytlin	0	0.9952	0.0048	0
+Naruunchigigen	Na-erh-wan-ch’ih-ko-kai-na	0	0.5533	0.4467	1
+Ŏŭn-gol	Nŭngbau-gol	0	0.6692	0.3308	0
+Weilai	wei lai	1	0.0276	0.9724	1
+Minehama-kotehagi	feng bang nei huang juan	0	0.5033	0.4967	0
+Kūh-e Gerdehsūr	kwhi girdihswr	1	0.0319	0.9681	1
+Wat San Sai Mun	Wat Si Bunrueang	0	0.9669	0.0331	0
+Chīzal Nāwar	Chizal Nawar	1	0.0521	0.9479	1
+jiang bai li yuan zi	Xianyantang	0	0.9997	0.0003	0
+Fan-chan Shan	四角山	0	0.8876	0.1124	1
+Ostanovochnyj Punkt Shajtanka	Talitsa	0	0.9905	0.0095	0
+Gonggu	gong gu	1	0.0611	0.9389	1
+Shuihoucun	Molongcun	0	0.9951	0.0049	0
+Bol'shevik	Bol’shevik	1	0.2093	0.7907	1
+ban sæn saray	Ban Suk Kasem	0	0.9992	0.0008	0
+Sheng-lin Shan	Shenglin Shan	1	0.0722	0.9278	1
+イサゴサワ	mokushimae	0	0.8491	0.1509	0
+Тормоли 2-е	Tormoli Pervyye	1	0.0310	0.9690	1
+Liping	Te-ch’ang Hsien	0	0.9891	0.0109	0
+围仔角	wei zi jiao	1	0.0040	0.9960	1
+Felsozsunypuszta	Zsúnyi Hegy	0	0.5932	0.4068	0
+xin dian	Xindian	1	0.0237	0.9763	1
+Zomba	zwmba  malawy	1	0.4312	0.5688	0
+Solnsaetra	Sølnsseter	1	0.2354	0.7646	1
+Tongmak	Tongch'on	0	0.9497	0.0503	0
+Huron Regional Airport	HON	1	0.0748	0.9252	1
+Nei'an Shuiku	Zhikeng	0	0.9988	0.0012	0
+丝毛冲	Simaochong	1	0.0105	0.9895	1
+Свинчус	Свиная	0	0.9201	0.0799	0
+บ้านคูหาใน	Ban Khu Ha Nai	1	0.0608	0.9392	1
+Mafo Qiao	Sicyuan Ciao	0	0.9978	0.0022	0
+khyr abad	Kheyrābād	1	0.4502	0.5498	1
+Basti Lughāri	Basti Maulāna	0	0.7626	0.2374	0
+Doi Tam Phra Chao	dxy tha phracea	1	0.1663	0.8337	1
+八块田	Wangtianchong	0	0.9952	0.0048	0
+Konagh Ghar	kngh ghr	1	0.1160	0.8840	1
+Тамбовка	Бухта Тамбей	0	0.9955	0.0045	0
+hu xu yi	よびつぎえき	1	0.0148	0.9852	1
+احشام سیّد	احشام زائر حسین خضری	0	0.9998	0.0002	0
+Maḩalleh-ye Garmsar	محله گرم سر	1	0.0039	0.9961	1
+Kopiloviq	Nišino Kolo	0	0.9476	0.0524	0
+Карабинец	Karabinec	1	0.1263	0.8737	1
+کوه استریک	حاجی آباد	0	0.9992	0.0008	0
+Червоний Лиман	Chervonyy Liman	1	0.0022	0.9978	1
+Новотроицк	Malinovskij	0	0.9994	0.0006	0
+Longga'er	隆嘎尔	1	0.0222	0.9778	1
+Kumsok-tong	Sagok-dong	0	0.8330	0.1670	0
+Bel’chanskiy	Beltsjanskij	1	0.3637	0.6363	1
+Kolkhoz Pamjat' Kujbysheva	Kolkhoz Pamyat' Kirova	0	0.8964	0.1036	0
+El Jardín	Hacienda El Jardin	1	0.3696	0.6304	1
+Galana Sagan	Segel Merma YeTerara Ch’af	0	0.9735	0.0265	0
+sthani xnamay ban sxngphinxng	สถานีอนามัยบ้านสองพี่น้อง	1	0.0069	0.9931	1
+K’waegwan-san	Ch’angbŏp-tong	0	0.9992	0.0008	0
+วัดดอนทอง	wad suwrrn ra ram	0	1.0000	0.0000	1
+Qanat at Taqdah	Jami`at al Basrah	0	0.9998	0.0002	0
+كوكبة	kwkbt	1	0.0258	0.9742	1
+Guozhuang	zhang man gou	0	0.9971	0.0029	0
+Saiga-saki	Saika-saki	1	0.1021	0.8979	1
+Irimizu Tunnel	Chikuho-karasuo Tunnel	0	0.7071	0.2929	0
+خرنگ	khrng	1	0.1156	0.8844	1
+Gauleråsen	Roynekaståsen	0	0.8848	0.1152	0
+san ta	Santa	1	0.0858	0.9142	1
+Barranco de los Paules	Santa María	0	0.6480	0.3520	0
+Shënmërtir	Shenmertir	1	0.0711	0.9289	1
+Parts”ezd	Oqbuloq	0	0.9974	0.0026	0
+วัดใหม่ศิริมงคล	wad hım sirimngkhl	1	0.0469	0.9531	1
+Lüßheese	Groß Lüsewitzer Krug	0	0.9693	0.0307	0
+San-ch'a-kang	Sanchagang Zhen	1	0.3692	0.6308	1
+Qaryat Abu `Uwaysij	Qaryat Muḩammad ‘Abūd	0	0.9906	0.0094	0
+ngar khatwn	Nigar Khātūn	1	0.0615	0.9385	1
+Phumi Pasoeng	Phum Pépréng	0	0.7581	0.2419	0
+Shürong	Shirong	1	0.1266	0.8734	1
+wei zhuang	Meizhouzhuang	0	0.5906	0.4094	0
+Senge Pa`in	شنگ پائین	1	0.0341	0.9659	1
+Yen-k’ou	Yen-k'ou-chen	1	0.3783	0.6217	0
+Epiniac	Epinac	1	0.0614	0.9386	1
+Comte d'Oglethorpe	Омаха	0	0.9621	0.0379	0
+zhang sha ba shui ku	Ch'ang-sha-pa Shui-k'u	1	0.0122	0.9878	1
+Le-t’ien Kung	Chung-yang Kuang-po Tien-t'ai	0	0.7912	0.2088	0
+xia fu lan ken tong duo fu	Thundorf in Unterfranken	1	0.4161	0.5839	1
+Locike	Liubuskai	0	0.5460	0.4540	0
+gharb thamt	Gharib Tihamah	1	0.2693	0.7307	1
+Bliznyukovskiy Rayon	Bliznyuki	0	0.9921	0.0079	0
+烈青卡	lie qing ka	1	0.0124	0.9876	1
+Tanjong Gamarau	Pulau Langgon	0	0.8609	0.1391	0
+Maloye Gorodishche	Малое Городище	1	0.1169	0.8831	1
+Dê Lāswandī Band	De Dre Sari Dashtah	0	0.9973	0.0027	0
+Mokhovoy	Моховой	1	0.1085	0.8915	1
+Phnom Préach	O Prey Vêng	0	0.9283	0.0717	0
+Бёюк-Бехманли	Bjojuk-Bekhmanli	1	0.0521	0.9479	1
+Fīrūzābād Ţāyemeh	طَئِمِه	0	0.7604	0.2396	0
+jh my babkr	Chamī Bābakr	1	0.0918	0.9082	1
+Kunshchikova	Malinovka	0	0.7607	0.2393	0
+不塘口	Butangkou	1	0.0007	0.9993	1
+Sogutlukaya	Türksöğütlü	0	0.5847	0.4153	0
+mi nie lei	Mignères	1	0.4423	0.5577	1
+Dayr al Kirmil	Al Bank al ‘Aqārī al ‘Arabī	0	0.9709	0.0291	0
+骡子地	Luozidi	1	0.0029	0.9971	1
+Barrow/Walney Island Airport	Maes Awyr Rhyngwladol Leeds Bradford	0	0.7123	0.2877	0
+xiao zhong zhai	小钟寨	1	0.0180	0.9820	1
+秦家河	Gaohua	0	0.9990	0.0010	0
+Ul’diga	Ul'diga	1	0.0705	0.9295	1
+Wādī al Baţḩā’	Wadi al Batahi	1	0.3749	0.6251	0
+Khch'akhor	Խչախոր	1	0.0687	0.9313	1
+Bol'shie Pal'niki	Baslyagi	0	0.8817	0.1183	0
+دهنه نو تنگه	dhnh nw tngh	1	0.0033	0.9967	1
+Kanār-e Zard	kanari diraz	0	0.5358	0.4642	0
+Chambong-dong	Chambong-ni	1	0.4208	0.5792	1
+Øygarden	Öygard	1	0.4639	0.5361	0
+رود نمكزار	Rud-e Namakzar	1	0.0043	0.9957	1
+Heydar	Nyaqul	0	0.9785	0.0215	0
+戴楼村	Dailoucun	1	0.0068	0.9932	1
+Polevoy	Degtyarka	0	0.9977	0.0023	0
+Mechra Mehioula	Mechra’ Mhiwla	1	0.1235	0.8765	1
+OEstra Grunuberg	Östra Grönered	0	0.9210	0.0790	0
+Birmenstorf AG, Chrüz	Birmenstorf AG  Chrüz	1	0.0283	0.9717	1
+Jabal al Himmah	Bîr el Hamma	0	0.9857	0.0143	0
+Pereval Bezymjannyj	Pereval Bezymyannyy	1	0.2300	0.7700	1
+Seillons-Source-d’Argens	La Seillone	0	0.8667	0.1333	0
+Rio Arananga	Río Arananga	1	0.0361	0.9639	1
+Szentkútpuszta	Szentkutpuszta	1	0.1401	0.8599	0
+چاه سرخ	Chāh-e Sorkh	1	0.0210	0.9790	1
+Mao'ao Ciao	Chi-lin Erh-hao Ch’iao	0	0.9991	0.0009	0
+Dongbozhuang	dong po zhuang	1	0.0315	0.9685	1
+Pulau Pdea-besar	Pajungredjo	0	0.9673	0.0327	0
+Buaya	Kampung Labuaya	1	0.4460	0.5540	1
+Mazra`at Ha'il Sa`id	Al Ha'iti	0	0.6893	0.3107	0
+长庄村	zhang zhuang cun	1	0.0027	0.9973	1
+Artuwāzī al Ḩayl	Bi’r al Hayl al Wasţānī	0	0.9963	0.0037	0
+Sa`idabad	سعید آباد	1	0.2860	0.7140	1
+Guoluoding	shang suo yi	0	0.9982	0.0018	0
+Jabal Shurūf	Jebel Sharuf	1	0.0847	0.9153	1
+Weijhuangtou	san mei zhuang	0	0.9996	0.0004	0
+Suolujavri lulimus	Suolujavri,lulimus	1	0.0175	0.9825	1
+Muang Ou Tai	Ban Muang-Ou-Nua	1	0.3126	0.6874	0
+Ban Bok	Ban Talou	0	0.9755	0.0245	1
+fu de ci	梅林橋	0	0.9798	0.0202	0
+Shi`ab al Lawz	شعاب اللوز	1	0.0109	0.9891	1
+drh khyar srny	kwh khyar srny	0	0.8900	0.1100	0
+كوڵكان	Kulkan	1	0.0642	0.9358	1
+Björkas	Oddängen	0	0.9341	0.0659	0
+Kūh-e Rāvās	kwhi rawas	1	0.0896	0.9104	1
+Khu Mirzewala	Shalani	0	0.9636	0.0364	0
+Ārāsin	Arasin	1	0.1592	0.8408	1
+Wahdah Siqam as Sihhiyah	Waḩdat al Ḩanak aş Şiḩḩīyah	0	0.8544	0.1456	0
+金字牌	jin zi pai	1	0.0206	0.9794	1
+Gbalatuah	Gbarquelleh	0	0.7577	0.2423	0
+Meney	Menej	1	0.2795	0.7205	1
+zhr alhryshat	Z̧ahr Sharshūr	0	0.9328	0.0672	0
+Meydan-e Enqelab	میدان انقلاب	1	0.0034	0.9966	1
+Witbakenkop	Willem se Opdam	0	0.8922	0.1078	0
+Urochishche Strel'bishche	Urochishhe Strel'bishe	1	0.2050	0.7950	1
+Quận Hoàn Kiếm	Soc Son District	0	0.6604	0.3396	0
+El Kouaichra	El Kouaïchra	1	0.0885	0.9115	1
+Спорня	Жерствянка	0	0.9995	0.0005	0
+tsʼalasqʼuri	Цаласкури	1	0.0846	0.9154	1
+Feng-tun	Feng-tu	0	0.7503	0.2497	0
+ban dxn tiw	บ้านดอนติ้ว	1	0.0618	0.9382	1
+ban bang sarwatr	ban bx	0	0.9720	0.0280	0
+Canton de Perez Zeledon	Pérez Zeledón	1	0.1043	0.8957	1
+feng jia yao	Guoxianyao	0	0.9997	0.0003	0
+Tur`at at Tarradiyah	Tir`at at Taradiyah	1	0.0543	0.9457	1
+Nayd al Khayal	Suhayf	0	0.9983	0.0017	0
+Huai Nong Phue	ห้วยหนองผือ	1	0.0126	0.9874	1
+Chiklākasa	Lātākoro	0	0.9692	0.0308	0
+Nha Bang	Nha Ban	0	0.5461	0.4539	1
+โรงเรียนไทยรัฐวิทยา 89	โรงเรียนอนุบาลสุชาดา	0	0.9997	0.0003	0
+lin jia ying cao zhuang	Linjiaying Caozhuang	1	0.0146	0.9854	1
+上条石沟	Shuangmiao	0	0.9963	0.0037	0
+huang zhuang	Huangzhuang	1	0.0087	0.9913	1
+Brunnenfel'd	Slivenka	0	0.8968	0.1032	0
+Kuman	guman	1	0.0891	0.9109	1
+dui zi po	shi li yao	0	0.9998	0.0002	0
+پستلی	Pistalī	1	0.0271	0.9729	1
+Dan Karaz	Māratgain	0	0.9208	0.0792	0
+Björnholmssund	Björnholmssundet	1	0.1251	0.8749	1
+Region de Kaffrine	Région de Kédougou	0	0.7328	0.2672	0
+Tūl-e Bahman	Tul-e Bahman	1	0.0117	0.9883	1
+三里庄	nan ge	0	0.9866	0.0134	0
+Gasjkovka	Gashkovka	1	0.2260	0.7740	1
+Hasan `Ulaywi	rwwf jasm	0	0.9856	0.0144	0
+khargy	Kharagi	1	0.1668	0.8332	1
+Lovat’	Lovatjanka	0	0.8969	0.1031	0
+Разъезд Чудничный	Razuezd Chudnichnyj	1	0.0284	0.9716	1
+Skájdde	Skaihoi	0	0.8097	0.1903	0
+Yŏch’ŏng-dong	Yoch'on-dong	0	0.7960	0.2040	1
+drm	لشم پائين	0	0.9821	0.0179	0
+tghr	تغر	1	0.0719	0.9281	1
+Ostrov Sur-Layd	Myza Lyakhtru	0	0.8571	0.1429	0
+tph myr	تپه میر	1	0.0055	0.9945	1
+วัดราชช้างขวัญ	วัดโรงช้าง	0	0.9928	0.0072	0
+بَهين وَ بِهروزان	بهین بهروزان	1	0.0634	0.9366	1
+xia zhai	Yutang	0	0.9999	0.0001	0
+Mazagan Bay	Mazaghan Bay	1	0.0179	0.9821	1
+Changjia Weizi	Houshantun	0	1.0000	0.0000	0
+کانی گاو مرده	Kani-ye Gav Mordeh	1	0.0046	0.9954	1
+bwkan	Gahnūshā	0	0.9744	0.0256	0
+Ignacio Allende	Los Ancones	0	0.6421	0.3579	1
+중리초등학교	Ihyeongongwon	0	1.0000	0.0000	0
+Sa Phuea	sra pheux	1	0.0460	0.9540	1
+Tung-kao-shan-ting	營盤脚	0	0.9461	0.0539	0
+Rann of Kachh	Cutch	1	0.3227	0.6773	1
+kwh ykhk	Yadegar-e `Ali Khvajeh	0	0.9886	0.0114	0
+چاه پنجاه خطيب در تاج بالا	chahi hatayib	0	0.6059	0.3941	1
+susaeggeum	Sae-sŏm	0	0.9362	0.0638	0
+Urochishche Krasnaya Gar’	Урочище Красная Гарь	1	0.0105	0.9895	1
+Qaryat ‘Ubayd al Barrāj	Aradi al Muwaylihah	0	0.7249	0.2751	0
+Bande Gase Azizak	Bande Gāše Azizak	1	0.0255	0.9745	1
+Tall Jihām	عرب عبود فليح	0	0.9975	0.0025	0
+Жестел	热斯泰	1	0.1396	0.8604	1
+Shīsheh’ī	Qal‘eh-ye Moshīrī	0	0.8465	0.1535	0
+Otava	Selegszanto	0	0.9600	0.0400	1
+Bughak Uhand	Jewan Tangi Mela	0	0.7324	0.2676	0
+Woerdenschverlaat	Woerdsche Verlaat	1	0.4139	0.5861	1
+Ain Faouqa	‘Ayn al Fawqā	0	0.5961	0.4039	0
+Lessadalen	Lissadalen	1	0.1053	0.8947	1
+El Guiliguiste	Estero El Guichoso	0	0.7523	0.2477	0
+Moøya	Moøya nordre	0	0.7181	0.2819	1
+오로리	gwicheon	0	0.9993	0.0007	0
+Markaz Bulis al Buwayrat	Markaz Būlīs al Buwayrāt	1	0.1359	0.8641	1
+Esh Sheikh Zureiq	Ash Shaykh Zikrī	0	0.9020	0.0980	0
+Andrjushino	Андрюшино	1	0.1532	0.8468	1
+Kōh-e Ḩādẕir	Hezārsom	0	0.9538	0.0462	0
+jnwby spyn ghr	Janubi Spin Ghar	1	0.0301	0.9699	1
+Chenjiawan	Chalugou	0	1.0000	0.0000	0
+Talašmanci	Talashmance	1	0.0933	0.9067	1
+Tongyusi	tong yuan	0	0.9634	0.0366	0
+Golem Ostres	Golem Ostresh	1	0.1477	0.8523	1
+Zhuangjiagou	Jinjiagang	0	0.9992	0.0008	0
+Nahiyat ash Shaykh Miskin	nahyt alshykh mskyn	1	0.0189	0.9811	1
+Ostra Ramnebo	OEstra Ramloesa	0	0.9868	0.0132	0
+Верхняя Сысерть	Verkhnjaja Sysert'	1	0.0118	0.9882	1
+Xikeng	Xiacun	0	0.9911	0.0089	0
+Dakhani-Kharbed	Ḏahane Khaṟbēḏ	1	0.2257	0.7743	1
+Romīş	Romeyleh-ye `Olya	0	0.9631	0.0369	0
+Hwangnyongsaji	hwanglyongsaji	1	0.0143	0.9857	1
+Azelih	Azelick	0	0.5215	0.4785	0
+Kalāteh-ye Sekand	Kalateh-ye Eskandar	1	0.1007	0.8993	1
+カノウ	ひらのはなし	0	0.8462	0.1538	0
+Γαλάτα	Galáta	1	0.1304	0.8696	1
+Grenevo	Maloye Yaganovo	0	0.5544	0.4456	0
+Ch’ü-t’ang-chen	Ch’ü-t’ang	1	0.3871	0.6129	1
+บ้านโสกใหญ่	ban sok hwa	0	0.5545	0.4455	0
+luo ma qiao	Luomaqiao	1	0.0120	0.9880	1
+ban dxn mha wan	Ban Pak Ing Song	0	0.9962	0.0038	0
+ma ying	Maying	1	0.0363	0.9637	1
+Kilincguney	Kilinc Deresi	0	0.8751	0.1249	0
+卡尼村	ka ni cun	1	0.0342	0.9658	1
+บ้านแวง	บ้านหนองมะเกลือ	0	1.0000	0.0000	0
+Kānī Kūchak	کانی کوچک	1	0.0031	0.9969	1
+Qun’an	xin wai liao	0	0.9841	0.0159	0
+Mazra‘at Dayr al ‘Ashā’ir	Mazra`at Dayr al `Asha'ir	1	0.1141	0.8859	1
+Хмельницьке	Marusyne	0	0.9750	0.0250	0
+Majiazui	马家咀	1	0.0086	0.9914	1
+Maloe Grigorovo	Станция Нерудная	0	0.8739	0.1261	0
+bei liu ge zhuang	北刘各庄	1	0.0472	0.9528	1
+高峰镇	Shigong	0	0.9170	0.0830	0
+Azuchi-eki	adzuchieki	1	0.2281	0.7719	1
+Bîr Sharârida	`Izbat Khurshid al Qibliyah	0	0.9983	0.0017	0
+دره دزد دره	Darreh-ye Dozd Darreh	1	0.0043	0.9957	1
+Sishui	xi bei liu	0	0.9069	0.0931	0
+En'ovche	Enyovche	1	0.0555	0.9445	1
+Ormos Palaiokhori	Palaiokhori	0	0.7392	0.2608	0
+Ma’anqiao	Ma'anqiao	1	0.0051	0.9949	1
+Ch'odu-ri	Ch’osong-ni	0	0.9391	0.0609	0
+Zewik Mesik	زێوك گولى	1	0.1594	0.8406	1
+Cape Muroto	Muroto	1	0.3006	0.6994	0
+Shan-chiao	Shan-chiao Ts’un	0	0.6092	0.3908	1
+Бүрэн Сум	Bayantsagaan	0	0.8493	0.1507	0
+Kūh-e Anjīreh	کوه انجيره	1	0.0035	0.9965	1
+Huai Ton Kok	Huai Ton Tong	0	0.9543	0.0457	0
+lian peng tang	Lianpengtang	1	0.0061	0.9939	1
+Al Ma`bad	Māyirah	0	0.9945	0.0055	0
+Wat Nong Bua Ngam	วัดหนองบัวงาม	1	0.0137	0.9863	1
+Qolleh-ye Ahaki	کوه لاخ سنگاو گور	0	0.9760	0.0240	0
+الخرباء	Al Kharbā’	1	0.0197	0.9803	1
+Liushutaitun	Jielihua	0	0.9932	0.0068	0
+Changkiakow	liao jia chang	0	0.9495	0.0505	1
+วัดเนรมิตวิปัสสนา	วัดโนนอุดม	0	0.9989	0.0011	0
+ดอยห้วยบง	Doi Huai Bong	1	0.1546	0.8454	1
+Verb"yazh	Vorby	0	0.8686	0.1314	0
+Kūh-e Qar Mūmenā’ī	Kuh-e Qar Mumena'i	1	0.0176	0.9824	1
+Qal`eh-ye Karim Khan	Jūyān	0	0.8700	0.1300	0
+先进村	xian jin cun	1	0.0281	0.9719	1
+Årsnesdalen inste	Norddalen	0	0.8197	0.1803	0
+Lilla Svansjon	Lilla Svansjön	1	0.2568	0.7432	1
+Rom	Dasht-e Rūkht	0	0.9960	0.0040	0
+Sinwang-dong	Kyŏngji-ri	0	0.9634	0.0366	1
+Kattos	Ktaa el oued	1	0.4424	0.5576	0
+Chongnok	Chŏngnok	1	0.0690	0.9310	1
+志和口駅	石見簗瀬駅	0	0.9997	0.0003	0
+Stary Dzierzgon	Stary Dzierzgoń	1	0.0544	0.9456	1
+Karram Mānda	Kurram Tribal militia post	0	0.9378	0.0622	0
+As Salām	Salam	1	0.0610	0.9390	1
+Sindangyoja-junghakkyo	Sindong-chodeunghakgyo	0	0.7308	0.2692	0
+Wadi Kureikir	Wādī Kureikir	1	0.0298	0.9702	1
+Рысево	Мандагай	0	0.9994	0.0006	0
+Чёрная	Chernaya	1	0.2191	0.7809	1
+หนองจอกจิ้น	hnxng cæng tum	0	0.9827	0.0173	0
+Stora Gransjøn	Stora Gransjon	1	0.1589	0.8411	1
+Halilusagi	Haliloglu	0	0.8577	0.1423	0
+Khānah-ye Sayyid Karīm	Khanah-ye Sayyid Karim	1	0.1381	0.8619	1
+Rongrian Phannara Chon Khet	rongreiyn wad khwn kx	0	0.9455	0.0545	0
+Al Ḩāmidūn Mosque	msjd alhamdwn	1	0.1650	0.8350	1
+Зуяково	Zush'	0	0.9990	0.0010	0
+접동제	jeobdongje	1	0.0203	0.9797	1
+วัดนิคมหนองโดน	Wat Thung Sawang	0	0.9967	0.0033	0
+Persæteråsen	Perseterasen	1	0.1624	0.8376	1
+wad phothithxng	สถานีอนามัยบ้านเมืองเตา	0	0.9993	0.0007	0
+Pavlodarskiy	Pavlodarskoe	1	0.4094	0.5906	1
+Kuh-e Bang	Tayashi Khowr	0	0.9962	0.0038	0
+Al Ḩā’ir	Al Hair	1	0.2211	0.7789	1
+zhong shan cun	Mo’erping	0	0.9999	0.0001	0
+Colombe-le-Sec	Kolombe le Sek	1	0.3284	0.6716	1
+Disena	Dimnøya	0	0.8161	0.1839	0
+Jorf	Uad Atui	1	0.3075	0.6925	1
+Talāw-i Gōmashīn	Kani Derbendixan	0	0.9271	0.0729	0
+Okayamachō	Okayamacho	1	0.0692	0.9308	1
+Longxi	gu zhu	0	0.9976	0.0024	0
+ban non khæn	บ้านโนนแคน	1	0.0106	0.9894	1
+Mahāwī	Suddat al Mahārid	0	0.9942	0.0058	0
+Dayr Rifah	Deir Rifa	1	0.1403	0.8597	1
+Dumda Tsahir Bulag	Dulaiin Hüryee	0	0.8816	0.1184	0
+Hoshizukacho	星塚町	1	0.1041	0.8959	1
+Wādī al Far‘ah	Dibbat Ḩānūt	0	0.9760	0.0240	0
+qu chi xi cun	曲池西村	1	0.0043	0.9957	1
+Nong Hin	หนองหัวช้าง	0	0.9985	0.0015	0
+Ilicasuyu	Ilıca Deresi	0	0.5790	0.4210	1
+Kūh-e Qolleh	Cheshmeh-ye Kureh	0	0.9773	0.0227	0
+Дунаїв	Dunajow	1	0.0818	0.9182	1
+Province du Boulkiemde	Bouli	0	0.9340	0.0660	0
+`Ezbet `Abdalla	`Izbat `Abd Allah	1	0.2103	0.7897	1
+ge he	Lantian	0	0.9988	0.0012	0
+วัดล้องเดื่อ	wad lx ng deux	1	0.0034	0.9966	1
+gnany	هوان دران	0	0.7198	0.2802	0
+kwh lk chah	Kūh-e Zard Garbeh’ī	0	0.7579	0.2421	1
+Губа Тюва	Tyuteri	0	0.9928	0.0072	0
+Arroyo La Jacha	Arroyo La Hacha	1	0.1165	0.8835	1
+Yangjiaba Xiang	xin fa xiang	0	0.9977	0.0023	0
+Fort-Uil'jam	Форт-Уильям	1	0.0080	0.9920	1
+Skajany	Seretsi	0	0.9873	0.0127	0
+Bol'shaya Lyshnitsa	Bol’shaya Lyshnitsa	1	0.0386	0.9614	1
+جرحلقه کمر	کوه حلقه کمر	0	0.6175	0.3825	0
+Xóm 6	Xóm Sáu	1	0.0240	0.9760	1
+龙祠村	老湾村	0	1.0000	0.0000	0
+Wādī ar Rumān	وادي الرمان	1	0.0068	0.9932	1
+Bou Tesaer	Bou Tellis	0	0.8723	0.1277	0
+ban khok khxn	Ban Khok Khon	1	0.0354	0.9646	1
+کوه پرکم چرخ	کوه آبدشتويه	0	0.9981	0.0019	0
+‘Izbat Aḩmad Bey Niyāzī	`Ezbet Ahmad Bey Niyazi	1	0.0277	0.9723	1
+Yot'naghbyur	Շուշանի	0	1.0000	0.0000	0
+Xuniucun	xu niu cun	1	0.0267	0.9733	1
+Дубищи	Urochishhe Dubishhe	0	0.9951	0.0049	0
+Lamabucun	拉玛布村	1	0.0111	0.9889	1
+Simai To	Koma-dong	0	0.8244	0.1756	0
+Kuailin Syunshih Diaociao	K’uai-lin Hsün-shih Tiao-ch’iao	1	0.0441	0.9559	1
+Djebel Hadjaren Nahal	'Ain el Hadjar	0	0.9841	0.0159	0
+老屋塆	lao wu wan	1	0.0182	0.9818	1
+Gaohancun	Liuzhaicun	0	1.0000	0.0000	0
+Yuhe	yu he	1	0.0154	0.9846	1
+shwrham	brlyngtwn jnwby  wrmwnt	0	0.9939	0.0061	0
+Protoka Tjuringa	Протока Тюринга	1	0.0043	0.9957	1
+ji jing	Houhe	0	0.9972	0.0028	0
+ban sib hab	บ้านสิบหาบ	1	0.0260	0.9740	1
+Coro	Coro Airport	1	0.3891	0.6109	0
+zhang shu ping	樟树坪	1	0.0096	0.9904	1
+Ulitsa Engel'sa	Sovkhoz Salibaurskiy	0	0.9944	0.0056	0
+shionomiyaeki	汐ノ宮駅	1	0.1797	0.8203	1
+บ้านควายเขาหัก	บ้านเขาคลอก	0	0.9998	0.0002	0
+下白泥	Ha Pak Nai	0	0.9146	0.0854	1
+黄台徐家村	yuan tou cun	0	0.9987	0.0013	0
+Ban Huai Rin	ban hwy rin	1	0.0619	0.9381	1
+Sandaogou	Beigou	0	0.9774	0.0226	0
+서당동	seodangdong	1	0.0042	0.9958	1
+liu jia tun	tai ping cun	0	1.0000	0.0000	0
+سنجدو	لوشه	0	0.8950	0.1050	1
+Mustakumpu	Musto-oja	0	0.8860	0.1140	0
+Quebrada Mónica	Rio de la Monica	1	0.1793	0.8207	1
+Kalinetskoye	Kalinec	0	0.5904	0.4096	0
+Radic Pole	Придворица	1	0.3081	0.6919	1
+Illvetjörnhö	Ilsviken	0	0.9782	0.0218	0
+Desmarinieres	Quartier Desmarinières	1	0.4169	0.5831	1
+Heng-ling-hsu	横林镇	0	0.8013	0.1987	0
+Trehørningen	Trehörningen	1	0.1492	0.8508	1
+Higashi-ōyodo	Higashi-nomi-jima	0	0.8872	0.1128	0
+Nøbbele	Nöbbele	1	0.1774	0.8226	1
+Jar-e Dīvārak	توغی	0	0.9964	0.0036	0
+Shulinzi	shu lin zi	1	0.0165	0.9835	1
+Неменущий	Njeminskii Kaksi	0	0.8463	0.1537	0
+بنسره	بانسرا	1	0.1086	0.8914	1
+Mereni	Miryany	1	0.2223	0.7777	0
+da wai zi	大崴子	1	0.0809	0.9191	1
+Khmelevka	Хмелева	0	0.8439	0.1561	0
+Ouâdi Sell Mlîk	Wādī Sall Malīk	1	0.0560	0.9440	1
+kwshgan	Kushkan	1	0.1732	0.8268	0
+Ostanovochnyj Punkt 76 km	Ostanovochnyy Punkt 76 km	1	0.0079	0.9921	1
+Tvoreniche	Twierdza	0	0.7786	0.2214	0
+Āhūvān	Ahuvan	1	0.1649	0.8351	1
+El Qasr	Al Qasr	1	0.2598	0.7402	0
+Vosne-Romanée	ヴォーヌ＝ロマネ	1	0.0725	0.9275	1
+Valīābād	Emāmzādeh Pīr	0	0.9027	0.0973	0
+talb abad	Taleb Abad Torob Gowdeh	1	0.4935	0.5065	1
+Kishmagah	تیغ زارزغند	0	0.9961	0.0039	0
+Пустая	Pustaya	1	0.0458	0.9542	1
+铁炉水库	涧天岩水库	0	0.9979	0.0021	0
+دشت چنار	Dasht-e Chenār (2)	1	0.0088	0.9912	1
+Kalgon-ni	Kalchon-ni	1	0.2667	0.7333	0
+Tekkekoy	Karacaahmet	0	0.6785	0.3215	1
+Spallojaw're	Spalloai’vi	0	0.6901	0.3099	0
+Blafjellet	Blaafjeld	1	0.1964	0.8036	1
+Nong Lan	Kau Lan	0	0.7790	0.2210	0
+Sil-li	sinli	1	0.2428	0.7572	1
+ترعة غلاية	ترعة الليمونية	0	0.9989	0.0011	0
+‘Idak	`Idak	1	0.1637	0.8363	1
+زیارت شیخ مامدی	کبل کلا	0	1.0000	0.0000	0
+Каменец	Kaminets	1	0.2042	0.7958	1
+Croix-Valmer	la fa er lai dai	0	0.8662	0.1338	0
+Liugouyan	liu gou yan	1	0.0040	0.9960	1
+yu tang wan	闩子坨	0	0.9995	0.0005	0
+Bir es-Semen	Bi’r as Samn	1	0.2935	0.7065	1
+dao zuo miao	Shahe	0	0.9360	0.0640	0
+Ŭihang	Wihang	1	0.1297	0.8703	1
+دربند	Gīāsh	0	0.9914	0.0086	0
+duan mu gou	Duanmugou	1	0.0026	0.9974	1
+arghsh	archng	0	0.6502	0.3498	0
+Ban Dong Siao	บ้านดงเสียว	1	0.1001	0.8999	1
+Etuzeni Hills	Turks Vyge River	0	0.8809	0.1191	0
+Монтолье	Монтольє	1	0.0188	0.9812	1
+シマダ	やりみずがわ	0	1.0000	0.0000	0
+东郊街道	dong jiao	1	0.0453	0.9547	1
+Sŏngni-ji	Taedong-ji	0	0.9831	0.0169	0
+Punta Union	Punta La Pasa de Limon	1	0.4840	0.5160	1
+Yeregik'	Yeregik'i	1	0.1807	0.8193	0
+Mys Skorbeyevskiy	Mys Skorbeevskij	1	0.1135	0.8865	1
+Tapachopan	Tazancatle	0	0.9693	0.0307	0
+kwh ryshh zrd	Kūh-e Rīsheh Zard	1	0.0425	0.9575	1
+wad hnxng khxn thephphnm	Wat Nong Plalai	0	0.9841	0.0159	0
+Khatone-hama	Khadayn-lamayn dugang	1	0.3953	0.6047	1
+Tanjungsamuntai	Teluksamak	0	0.9375	0.0625	0
+miao shan	Miaoshan	1	0.0387	0.9613	1
+Keniresh	Kanipak	0	0.8350	0.1650	0
+Habīţ al Ghardagah	Habīţ al Ghardaqah	1	0.0385	0.9615	1
+Rudkhaneh-ye Senderk	Siah Kuh-e Vasati	0	0.9979	0.0021	0
+月亮水	Yueliangshui	1	0.0470	0.9530	1
+Caniska Reka	Chachka	0	0.7163	0.2837	0
+کمرک	kmrk	1	0.2152	0.7848	1
+Malovacu	Malnasfurdo	0	0.8573	0.1427	0
+Staishchi	Staishhi	1	0.1781	0.8219	1
+mo yu	Қарақаш	0	0.9947	0.0053	0
+Chega Kabud	Cheqā Kabūd-e Seyāh Seyāh	0	0.7956	0.2044	1
+T’ien-ao Kang	Datiedianzi	0	0.9904	0.0096	0
+`Izbat al Insha	‘Izbat al-Insha	1	0.0709	0.9291	1
+Ozero Shainshkyly	Shagyrly-Zhilanshik	1	0.4549	0.5451	0
+lu tian	しかぞえ	0	0.7567	0.2433	1
+Kōṟale Khalifa	Korakcasma	0	0.9742	0.0258	0
+Seebpore	Sibpore	1	0.0783	0.9217	1
+Malaya El’ga	Bol’shaya El’ga	0	0.7458	0.2542	0
+Grønsvik	Groensvik	1	0.2319	0.7681	1
+Qal‘eh Ḩanīfeh	Qal‘eh Kāz̧em	0	0.9817	0.0183	0
+Mauntin-V'ju	Mountain View	1	0.0994	0.9006	1
+Тазакенд	Թազաքենդ	1	0.1807	0.8193	0
+Vallee d'Eliki	Eleki	0	0.7692	0.2308	1
+Cape Amino	Akra Ameiniou	0	0.5315	0.4685	0
+Jar-e Nayak	jr nyk	1	0.0135	0.9865	1
+Xiang-Nou	Ban Sipnom	0	0.8876	0.1124	0
+De Grinzer Pein	Opende-West	0	0.9037	0.0963	1
+Sīāh Rūd	Siah Rud	1	0.2127	0.7873	0
+Nāla	Nala	1	0.0726	0.9274	1
+ظهرة الباقرة	Shaib Kuhayl	0	0.7720	0.2280	0
+كطرد عبد	Kaţrad ‘Abd	1	0.0140	0.9860	1
+Landes	Landak	0	0.6957	0.3043	0
+Battleford	Бетлфорд	1	0.0612	0.9388	1
+Futami	yahatahama	0	0.5919	0.4081	0
+บ้านหนองขอน	Ban Nong Khon	1	0.0720	0.9280	1
+Al Fuqarā’	Al Faqar	1	0.4937	0.5063	0
+شین څاه شمالی	shyn chah shmaly	1	0.0024	0.9976	1
+Lugovskoe sel'skoe poselenie	Marfovskoe sel'skoe poselenie	0	0.7887	0.2113	0
+Bakhabi	Bakhābī	1	0.1260	0.8740	1
+Xigazê	Samdruptse	0	0.8798	0.1202	0
+zarjh	زارجه	1	0.1178	0.8822	1
+rongreiyn wad sra khxy	Rongrian Wat Sa Makhuea	0	0.9616	0.0384	0
+Siga Sima	Shigano-shima	0	0.5462	0.4538	1
+Qiaozhong Guoxiao	Xinxing Guoxiao	0	0.9874	0.0126	0
+lian xing cun	Lianxingcun	1	0.0100	0.9900	1
+Nagga	nka	1	0.2794	0.7206	0
+Tir‘an	תרען	1	0.0419	0.9581	1
+Qal`a-i-Seray	قلعۀ شیر	0	0.8318	0.1682	0
+محمد عامری	Mohammad `Ameri	1	0.0030	0.9970	1
+Tiari	Tiaoué	0	0.7401	0.2599	0
+kwh sfyd	کوه سفید	1	0.0036	0.9964	1
+Daping	Datangbian	0	0.9716	0.0284	0
+Kuh-e Deh Khoran	kwh dh khran	1	0.0462	0.9538	1
+Saint-Gregoire	Saint-Gravé	0	0.6817	0.3183	0
+Bayt Sayyid al Ahmad	بيت سيد الأحمد	1	0.0072	0.9928	1
+Gadi	Gäddsjöarna	0	0.9544	0.0456	0
+Buchim	Бучим	1	0.0465	0.9535	1
+qi lin	gu de xin cun	0	0.9969	0.0031	0
+rongreiyn cheiyng klm withya	โรงเรียนเชียงกลมวิทยา	1	0.0332	0.9668	1
+Comté de Washington	AFJ	0	0.9685	0.0315	0
+da jian gang	おおまこう	1	0.4375	0.5625	1
+Zerik	زيريك	1	0.0811	0.9189	0
+吉成駅	よしなりえき	1	0.2029	0.7971	1
+Joy-e Ghazi	Jōy-e Chihil Dukhtarān	0	0.9852	0.0148	0
+Uvala Pržna	Zaliv Przno	1	0.1540	0.8460	1
+Rongrian Ban Khok Lam	Wat Tham Kia	0	1.0000	0.0000	0
+Ясашная Ташла	Jasasjnaja Tasjla	1	0.0091	0.9909	1
+Bank ‘Umān	bnk abw zby alwtny	0	0.9940	0.0060	0
+Korolëvka	Korolëvo	0	0.9727	0.0273	1
+Guanzhuang	Shaopendian	0	0.9999	0.0001	0
+Uponeup	U-p'o	0	0.7506	0.2494	1
+Mullā Niyāzī	Shāri‘ al Amīr Mut‘ab	0	1.0000	0.0000	0
+سليمان شالكة	Sulaymān Shālikah	1	0.0046	0.9954	1
+Soltanabad	Solţānābād	1	0.1944	0.8056	0
+María Ester	Maria Esther	1	0.3209	0.6791	1
+Усады	Усадищи	0	0.6346	0.3654	0
+Качкиново	Kochkinovo	1	0.2193	0.7807	1
+Bashimike	Bena Kasamba	0	0.6809	0.3191	0
+Holtedahl, bahia	Holtedahl, bahía	1	0.0250	0.9750	1
+کوه کرن داغ	کوه بندر چين	0	0.9134	0.0866	0
+Сутиски	Sutysky	1	0.4028	0.5972	1
+کوه آراب گلی	کوه ال دار داغی	0	0.9271	0.0729	0
+العشر	Al `Ushr	1	0.0605	0.9395	1
+Аржузан	Сент-Етьєнн-Руале	0	0.9992	0.0008	0
+rongreiyn wad phdung thrrm	Rongrian Wat Phadung Tham	1	0.0210	0.9790	1
+Латыши	Latysjovo	0	0.9465	0.0535	0
+โรงเรียนบ้านวังทอง	Rongrian Ban Wang Thong	1	0.0107	0.9893	1
+اینفیلڈ، کنیکٹیکٹ	Ehsseks	0	0.9895	0.0105	0
+Степове	Stepovoye	1	0.1502	0.8498	1
+Nusjtajkino	Нушполы	0	0.9981	0.0019	0
+Zimovka Karaagay	Зимовка Караагай	1	0.0154	0.9846	1
+Dolotnya	Алешково	0	0.9884	0.0116	0
+Galba	A. Galba	1	0.0297	0.9703	1
+bu yu	布则拉	0	0.9811	0.0189	0
+Jinyu	jin yu	1	0.0342	0.9658	1
+Fengyuan	gang jia zhai	0	1.0000	0.0000	0
+Āqāmīr	aqamyr	1	0.1382	0.8618	1
+Tashui	bai quan	0	0.7784	0.2216	0
+Shadikul'	Sadiqol	1	0.2237	0.7763	1
+Chimbu	Ru'ume	0	0.5367	0.4633	0
+Κοκκώσι	Kokkósi	1	0.1339	0.8661	1
+Annovka	Anno-Rebrikovskaya	0	0.7654	0.2346	0
+Khuwarzah	خوارزِه	1	0.1406	0.8594	1
+Nixi	Guandou Shanxia	0	0.9949	0.0051	0
+东丰墩	dong feng dun	1	0.0008	0.9992	1
+碾子上	chai jia gou	0	1.0000	0.0000	0
+Ветютнев	Vetyutnev	1	0.0275	0.9725	1
+สำนักสงฆ์พระพุทธบาทควนสงฆ์	โรงเรียนเทศบาลวัดตันตยาภิรม	0	0.9999	0.0001	0
+Shuangqiaoxi	双桥溪	1	0.0022	0.9978	1
+โรงเรียนบ้านดอนไทรงาม	rongreiyn ban bang khxy	0	0.9865	0.0135	0
+tie jiang pu zi	Tiejiang Puzi	1	0.0124	0.9876	1
+گمیشک غر	قلعهً مقام خان	0	0.9749	0.0251	0
+Proletarskij	Proletarskiy	1	0.2105	0.7895	1
+Huryee Hudag	Hüree-Hiyd	0	0.9192	0.0808	0
+Kut O	กุดอ้อ	1	0.2537	0.7463	1
+Талаківка	Cape Takil'	0	0.8502	0.1498	0
+Cophan Dagi	Çukur Dağ	0	0.7686	0.2314	1
+Sen-Semforjan-sjur-Son	Saint-Symphorien	0	0.5539	0.4461	0
+ban hawhad	บ้านหัวหาด	1	0.0605	0.9395	1
+Merkulikha Pervaya	Merkulikha Vtoraya	0	0.9592	0.0408	0
+nao mao hu zhen	淖毛湖	1	0.0061	0.9939	1
+腰西拉金	东韩五队草甸	0	1.0000	0.0000	0
+tl almntrt	تل المنطرة	1	0.0008	0.9992	1
+Couillou	Koutsaya Loubéoua	0	0.9072	0.0928	0
+金比羅崎	jin bi luo qi	1	0.0285	0.9715	1
+Ban Khok Phet	ban khok chad	0	0.9483	0.0517	0
+Buz i Vogël	Buzi	0	0.7116	0.2884	1
+kwh nrdaghy	kwh narchy	0	0.7753	0.2247	0
+Shuangfeng	shuang feng	1	0.0109	0.9891	1
+北甲村	huang ni bao	0	0.9984	0.0016	0
+방축맥이	Pangch’ungmaegi	1	0.0271	0.9729	1
+Golgat	Gekhanist	0	0.8307	0.1693	0
+หนองเหวบักดำ	Nong Heo Bak Kham	1	0.2961	0.7039	1
+lei si bo fu	Deij-sjur-le-Min'on	0	0.8685	0.1315	0
+Топчиха	Toptsjikha	1	0.1148	0.8852	1
+らうすちょうやくば	ひがしなだくやくしょ	0	0.7858	0.2142	0
+Lillsjoen	Lillsjøn	1	0.3366	0.6634	1
+Changkeng	Zhaigangshang	0	0.8476	0.1524	0
+Amīrābād-e Eqbāl	Amirabad	1	0.3670	0.6330	1
+Ar Riqamah	Rimat Hazim	0	0.8918	0.1082	0
+Hu-tzu-nei	湖仔內	1	0.1937	0.8063	1
+Dechusha	gong rong	0	0.9995	0.0005	0
+Siaulenu	Shjaulenaj	1	0.4397	0.5603	1
+Kalabasas	کالاویراس کاؤنٹی	0	0.9728	0.0272	0
+Tála	Dalâ	1	0.1205	0.8795	1
+ba dou	xia da zhai	0	1.0000	0.0000	0
+Allejrak	Аллейрак	1	0.0197	0.9803	1
+Jabal al Qussah	Jabal al Quşşah	1	0.1557	0.8443	0
+Kali Ancol	Kali Antjol	1	0.1452	0.8548	1
+Ондр	Ondas	0	0.9049	0.0951	0
+Shuanglongpu	双龙铺	1	0.0004	0.9996	1
+Aşağı Dürmeli	Asagi Dolay	0	0.9430	0.0570	0
+El Nanthé	El Nante	1	0.1155	0.8845	1
+Galemou	Galêmi Môlale	0	0.5365	0.4635	0
+Takemurachō	zhu cun ding	1	0.1891	0.8109	1
+Hutou	qu kou	0	0.7817	0.2183	0
+Soummâqiyét ech Chémâlîyé	Summaqiyat al Qibliyah	0	0.6126	0.3874	1
+Paikpara Ichakhali	Pāikpāra	0	0.7873	0.2127	0
+Fulenbach  Höchi	Fulenbach, Höchi	1	0.0223	0.9777	1
+Garmabak	Garmawak	1	0.1314	0.8686	0
+Wangjianglou	望江楼	1	0.0013	0.9987	1
+Hassim Badī	Wadi Hassan	0	0.9184	0.0816	0
+贝斯蒙	Բեմոն	1	0.1019	0.8981	1
+kwh chshmh draz	Kani Deraz	0	0.8385	0.1615	0
+se shu gou	Seshugou	1	0.0114	0.9886	1
+Houzhanghai	cui jia tun	0	1.0000	0.0000	0
+Caisi	cai si	1	0.1469	0.8531	1
+Mahattat ash Shanhuriyah	El Shanawiya	0	0.9102	0.0898	0
+Petsakoi	Πετσάκοι	1	0.0549	0.9451	1
+کوه دایّه	کوه سر چشمه	0	0.9612	0.0388	0
+Lagorema	Longorema	1	0.1954	0.8046	1
+Gürgendağ	Gürgencik Tepesi	0	0.5930	0.4070	0
+Yotsu-misaki	Yotsu-saki	1	0.2544	0.7456	1
+دره باد شمال	دره پایه	0	0.9956	0.0044	0
+Foma-Yu	Fomayuvom	1	0.1410	0.8590	1
+Shtolpe	Telegraphe optique prussien  Station no  3	0	0.7581	0.2419	0
+bao yuan yi	保原駅	1	0.0856	0.9144	1
+`Irq al Qahhab	Jabal ‘Uqayb	0	0.5176	0.4824	0
+hnxng hin	หนองหิน	1	0.0671	0.9329	1
+marjan	Maryamabad	0	0.8669	0.1331	0
+Vellington	Montaigne du Plateau	1	0.3855	0.6145	1
+Tchirkokemskii	Chirkabozh	0	0.6989	0.3011	0
+Viknaoyane	Vikten Islands	0	0.7818	0.2182	1
+Rrustami	Ռուստամի	1	0.1022	0.8978	0
+Björkedalsvand	Birkedals Vatn	1	0.0759	0.9241	1
+Donji Vijacani	Доньи-Вакуф	0	0.9230	0.0770	0
+瓦磘寮	Wa-yao-ts'o	0	0.5261	0.4739	1
+Paucarany	Paucara	0	0.7789	0.2211	0
+seommal	Sŏm-mal	1	0.0603	0.9397	1
+Trosnitsa	Trashhany	0	0.6601	0.3399	0
+Orlova Luka	Zelenyy Lug	0	0.6305	0.3695	1
+khlxng la xxn	Khlong Om U	0	0.9973	0.0027	0
+Ba`ineh-ye Do	بعینه ۲	1	0.3212	0.6788	1
+Kāl-e Khāldār	Kal-e Khaku	0	0.9786	0.0214	0
+Lakawiza	Lukavica	1	0.2028	0.7972	1
+泽尔博	San Martino del Lago	0	0.6862	0.3138	0
+Río Malpaso	Rio Malpaso	1	0.0376	0.9624	1
+Bogushy	Bahushewskaya	0	0.8378	0.1622	0
+Meydān-e Emām Khomeynī	mydan amam khmyny	1	0.0437	0.9563	1
+شین بند	آهنگران خوله	0	1.0000	0.0000	0
+Ust’ye	Ust'ye	1	0.3011	0.6989	1
+jian fu	Luyangtian	0	0.9965	0.0035	0
+Majiyara	Majiara	1	0.0926	0.9074	1
+Husayb al Qurayma'	Jabal al Ḩaddād	0	0.9934	0.0066	0
+Tongzui	tong ju	1	0.0563	0.9437	1
+Sidi Wanis	Sidi Aouidate Koubba	0	0.9779	0.0221	0
+Huai Mak Som	hwy hmak sxm	1	0.0475	0.9525	1
+گرازان علیا	Zeydarī	0	0.9779	0.0221	0
+Samars'ke	Самарське	1	0.0387	0.9613	1
+Donskjaer	Doköen	0	0.8262	0.1738	0
+Talacharn	Larn	0	0.5523	0.4477	1
+ghar syah	chshmh shyryn	0	0.9495	0.0505	0
+Panayia Khryseleousa	Panagia Chryseleousa	1	0.1216	0.8784	1
+Wadi Nima	Wadi Nikbah	0	0.8496	0.1504	0
+黄堂村	huang tang cun	1	0.0039	0.9961	1
+Nima Belebougou	Nyinigo	0	0.9221	0.0779	0
+米切尔	Митчелл	0	0.5690	0.4310	1
+kang ma tou	luo zi gou	0	1.0000	0.0000	0
+장라동	Jangnadong	1	0.1555	0.8445	1
+aslam abad	Torkābād	0	0.8031	0.1969	0
+Phumĭ Prêk Poŭthĭ	Phumĭ Prêk Poŭ	0	0.5891	0.4109	1
+Suzunoōtani-yama	珠洲岬	0	0.9990	0.0010	0
+Penaflor	Պենիաֆլոր	1	0.1003	0.8997	1
+shuang pao zi	Zhangjia Wopu	0	0.9698	0.0302	0
+Mishash el Udhailiya	Mushash al `Udaylah	1	0.1855	0.8145	1
+Амерево	Amel’tsayevo	0	0.9582	0.0418	0
+Yong'an	Yong’an	1	0.0723	0.9277	1
+Pirtiimaki	Пирттимяки	1	0.1492	0.8508	0
+Lævšaruvŋa	Leavssaruvna	1	0.0917	0.9083	1
+Сливно	Donji Josan	0	0.9384	0.0616	0
+Langhaugetjorna	Langhaugtjorni	1	0.0236	0.9764	1
+Baydoas Creek	Bayan	0	0.6350	0.3650	0
+Lo-t'o Yen	L'e-t'o Yen	1	0.1269	0.8731	1
+Shamardan	jbar	0	0.8852	0.1148	0
+ʿrwakt	`Arwakah	1	0.2131	0.7869	1
+Šabanov Dol	Коџина Чешма	0	0.8998	0.1002	0
+kwh aq dagh	کوه آق داغ	1	0.0006	0.9994	1
+Djebel Maisra	Hadjeb el Aïoun	0	0.7467	0.2533	0
+Petrovskiy	Petrovskoye	1	0.4074	0.5926	1
+کوه چالک	کوه انگشتر تله	0	0.9875	0.0125	0
+Ḩadīrā	حديرا	1	0.1480	0.8520	1
+Gora Smol'naja	Gora Krutaja	0	0.9931	0.0069	0
+Laochakou	老岔口	1	0.0119	0.9881	1
+Zīārat-e Wasīrullāh	Daghal-e Takh Si Rangi	0	0.9684	0.0316	0
+ushigomeshimomura	Ushigome-shimomura	1	0.0618	0.9382	1
+qasm khyl	Qāsemkhēl	1	0.4485	0.5515	0
+Seredeyevo	Seredeevo	1	0.2408	0.7592	1
+Лазишта	Višna	0	0.9713	0.0287	0
+Altıbağ Deresi	Çıraz Dere	0	0.6695	0.3305	1
+khashw kly	Khasak	0	0.8604	0.1396	0
+Sinp'o	Songhu-ch'on	0	0.9378	0.0622	1
+bai yun shi shui ku	bei tao shui ku	0	0.9787	0.0213	0
+赵家屯	Zhaojiatun	1	0.0009	0.9991	1
+Ban Hua Don	ban hnxng makham thes	0	0.9825	0.0175	0
+Yosano Naikai	Aso-umi	0	0.7604	0.2396	1
+Krjukovo	Станция Северная	0	0.9396	0.0604	0
+Gospodskiy Dvor Zodenen	Sodehnen	0	0.8106	0.1894	1
+Курган Маабиртепа	Dandowkai	0	0.8847	0.1153	0
+Stadtforst Muncheberger	Muncheberger Forst	1	0.1271	0.8729	1
+Bjellastøl	Helkansætra	0	0.9912	0.0088	0
+Dapowan	大坡湾	1	0.0088	0.9912	1
+Caojiachong	Hebaotang	0	0.9856	0.0144	0
+Jiweng	ji weng	1	0.0447	0.9553	1
+Червонопрапорне	Chervony Lug	0	0.9296	0.0704	0
+Kafr Bjrn Suliman	Kafr Barbari Sulîn	0	0.9343	0.0657	1
+Урочище Кавалерский	Сельскохозяйственное Предприятие Красное	0	0.9966	0.0034	0
+Shidian	shi dian	1	0.0340	0.9660	1
+AXD	Athens Eleftherios Venizelos International Airport	1	0.3550	0.6450	0
+'Ain Rous el Akrat	’Aïn Rous el Akrat	1	0.0410	0.9590	1
+Kūh-e Bādāmdar	badam chaligh	0	0.9967	0.0033	0
+Parah-ye Surkhbīm	Para-i-Sorkhbim	1	0.0486	0.9514	1
+dolisan	T’ori-dong	0	0.9974	0.0026	0
+Kalateh Noori	Kalateh-ye Nuri	1	0.0592	0.9408	1
+gong jian	huang du	0	0.9980	0.0020	0
+Dhār	Dhar	1	0.1242	0.8758	1
+Matsayit Nu Run Hu Da	ban phasukh	0	0.9275	0.0725	0
+Malūt Kêlay	Malowt Kalay	1	0.0315	0.9685	1
+Luotuobozi	Luotun	0	0.9859	0.0141	0
+Kangjinyan	kang jin yan	1	0.0133	0.9867	1
+Tiaohe	Jiangjunshe	0	0.9887	0.0113	0
+田家山	tian jia shan	1	0.0012	0.9988	1
+xian jia de	Shangqiao	0	0.9998	0.0002	0
+Qūrī Daraq	Qeshlaq-e Quzlu	0	0.9967	0.0033	1
+โรงเรียนบ้านหนองพลวง	โรงเรียนบ้านไร่	0	1.0000	0.0000	0
+sthani xnamay ban hwy thirngam	สถานีอนามัยบ้านห้วยไทรงาม	1	0.0172	0.9828	1
+zhu zi ye	Chikushino-machi	0	0.6432	0.3568	0
+王达畔村	Wangdapancun	1	0.1789	0.8211	1
+Novaya Tiksha	Новая Терёшка	1	0.4466	0.5534	0
+tl albkhtryt	تل البخترية	1	0.0037	0.9963	1
+Dongjiakeng	Makengdeng	0	0.9715	0.0285	0
+Όρμος Κουμάζι	Órmos Koumázi	1	0.0108	0.9892	1
+Domnovo	Домнинцы	0	0.9683	0.0317	0
+zhang xing	Changxing	1	0.0393	0.9607	1
+Փոս	Բանակի դիք	0	0.9993	0.0007	0
+Bud’ki	Будьки	1	0.0394	0.9606	1
+孙家庄	Xizhenguan	0	0.9995	0.0005	0
+申子峪	Shenziyu	1	0.3247	0.6753	1
+بخضرمو الفوقا	Bikfalūn	0	0.9475	0.0525	0
+Bande Darya-Kešak	Bande Darya-Kesak	1	0.0441	0.9559	1
+dam-yang-eub	Geumdang-myeon	0	0.8516	0.1484	0
+qmt jbl qwjy rzky	Qimmat Quji Razki	1	0.1931	0.8069	1
+Darreh-ye Chāh Payvand	kwh zrdh mhmd abad	0	0.9464	0.0536	0
+Хурга	Хургэ	1	0.1254	0.8746	1
+shi ya jin	pang jia chuan	0	0.9999	0.0001	0
+Άγιος Μνάσων	Agios Mnason	1	0.0142	0.9858	1
+คลองโศกรัง	คลองสนวน	0	0.9929	0.0071	0
+Ash Sha‘b	Ash Shi`ab	1	0.1046	0.8954	1
+Hsiang-yang	Xiangyang	1	0.3120	0.6880	0
+Віларбасэ	Vilarbaseh	1	0.0930	0.9070	1
+mkhfr aldrajy	المشاعلية	0	0.9721	0.0279	0
+Razdol'noe	Razdol'noye	1	0.1618	0.8382	1
+Bani al Qudaymi	Banī Hajjām	0	0.8518	0.1482	0
+Nach'on-dong	Nachondong	1	0.0659	0.9341	1
+Baicaowacun	Shannan Goucun	0	0.9943	0.0057	0
+Kŭmjasam-je	금자3제	1	0.0263	0.9737	1
+ब्राडेनटन	bu lei deng dun hai tan	1	0.0146	0.9854	0
+Kirillovo	Кириллово	1	0.1423	0.8577	1
+Arroyo Teguxhie	Rio San Jeronimo	0	0.6768	0.3232	0
+Gora Chernizhnaja	Гора Чернижная	1	0.1251	0.8749	1
+上洋村	孙台村	0	1.0000	0.0000	0
+da tian di	大田底	1	0.0074	0.9926	1
+Río Sinaloa	シナロア州	0	0.6366	0.3634	0
+xi shan	Xishan	1	0.0732	0.9268	1
+amamzadh syd jmal aldyn	Farahabad-e Khalil	0	0.9977	0.0023	0
+Guojia	guo jia	1	0.0043	0.9957	1
+کوه زرد آلوک	کوه سیاه بخشه	0	0.9997	0.0003	0
+feng liang	Fengliang	1	0.0599	0.9401	1
+Malko Hudro	Malko Gradichté	0	0.9126	0.0874	0
+Ribeirao do Rio Grande	Ribeirão do Rio Grande	1	0.0517	0.9483	1
+Basarrajdurg	Basavāpatna	0	0.9481	0.0519	0
+shang de sha	Shangdesha	1	0.0664	0.9336	1
+مقبرة شيخ علي	مقبرة علي برز	0	0.9989	0.0011	0
+Nahr Karmkhan	nhr krmkhan	1	0.0173	0.9827	1
+North Masimpur	Masikara	0	0.9437	0.0563	0
+Ailinglaplap Airfield	Airuk Airport	0	0.8930	0.1070	1
+Egegnut	Eresun hektar	0	0.9473	0.0527	0
+Lūy Sāmī Ghṟūnah	Gory Loy-Sami-Gruna	1	0.0366	0.9634	1
+گُوهَر	کوه گوتین	0	0.9934	0.0066	0
+Muku Island	Muku Sala	1	0.1835	0.8165	1
+おしま	オシマナカマチ	0	0.9978	0.0022	0
+Calovska Kosa	Čalovska Kosa	1	0.0576	0.9424	1
+fu pu ding gong ben	トミウラチョウニュウ	0	0.8223	0.1777	0
+วัดอุดมศีลาภรณ์	Wat Udom Silaphon	1	0.0100	0.9900	1
+Qal`eh-ye Pa'in	Qal‘eh-ye Ḩājj ‘Asgar	0	0.9985	0.0015	0
+Bearalvahki	Bearalváhki	1	0.1389	0.8611	1
+khyaban shyrazy shrqy	Chah-e Mosha` 232 Piruzi	0	0.7888	0.2112	0
+Jangsutŏ	장수터	1	0.0181	0.9819	1
+Bolcekova	Bölükçekkaya	0	0.6330	0.3670	0
+Тале	Talla	1	0.0593	0.9407	1
+ayalw	ashk tph sy	0	0.9880	0.0120	0
+Katnehla Nadi	Katnehla	1	0.3279	0.6721	1
+วัดจันทร์ประสิทธิ์	Wat Kuson Kit Phithak	0	0.9374	0.0626	0
+Buniuskiai	Buniuškiai	1	0.1753	0.8247	1
+kwh awch qardash	Kuh-e Siyah Qiran	0	0.9843	0.0157	0
+Al Maḩţab	Al Muḩtaţab	1	0.1341	0.8659	1
+Brattelistøyl	Anarastolen	0	0.8897	0.1103	0
+Nûgssuak	Nuussuaq	1	0.3412	0.6588	1
+Verbouc	Vendôme	0	0.8118	0.1882	0
+Nabargohpi	Nabargappi	1	0.1152	0.8848	1
+dsht sqawh	Saqawah	0	0.6220	0.3780	0
+玉桂山	yu gui shan	1	0.0054	0.9946	1
+Rio Binasse	Île Bénari	0	0.8007	0.1993	0
+Qabr Salih	Gabr Salah	1	0.2112	0.7888	1
+Būtat Angara	Andona	0	0.5705	0.4295	0
+dwmkzawr	Dumkah Zawar	1	0.1761	0.8239	1
+Tsukumono-seto	九十九崎	0	0.9326	0.0674	0
+Bindi	Andi	1	0.1911	0.8089	1
+Bunabufi	Bulwat	0	0.8258	0.1742	0
+Lyngo	Lyngoen	1	0.1826	0.8174	1
+บ้านโคกหัวข้าว	บ้านโคกหอม	0	0.9915	0.0085	0
+โรงเรียนบ้านห้วยผักหละ	Rongrian Ban Huai Phak La	1	0.0095	0.9905	1
+โรงเรียนสระโพนทอง	Rongrian Sala Samakkhi	0	0.9997	0.0003	0
+Las Maravillas	Barrio Las Maravillas	1	0.1773	0.8227	1
+Poláky	Polabská Nížina	0	0.8413	0.1587	0
+Озеро Долгое	Ozero Dolgoye	1	0.0053	0.9947	1
+Kamman	Kamla Bhag	0	0.9582	0.0418	0
+Oljutorskij Poluostrov	Olyutorskiy Poluostrov	1	0.0374	0.9626	1
+Kimanu	Kigunyu	0	0.6535	0.3465	0
+Kālkini	Kalikini	1	0.1062	0.8938	1
+Mawane	Mawana	1	0.1193	0.8807	0
+Eggi nordsta	Eggi,nordsta	1	0.0466	0.9534	1
+Egozy	Chashhiny	0	0.8539	0.1461	0
+Khoshgehdar	Khoshkehdar-e Malmir	0	0.5759	0.4241	1
+Jabal al Ad‘am	Ḥammāmāt el Edelbī	0	0.9651	0.0349	0
+Lao'anquan	Lao’anquan	1	0.0079	0.9921	1
+Pawmong	Wān Pawmëng	1	0.3735	0.6265	0
+Baizhubei	白竹背	1	0.0129	0.9871	1
+Alif Shah Kala	Alef Khēl	0	0.8566	0.1434	0
+Caserio Los Reyes	Caserío Los Reyes	1	0.2259	0.7741	1
+Perreux, Hôpital	Gadmen, Tällibahn	0	0.9947	0.0053	0
+Lāmje Ḍānḍā	Lamje Danda	1	0.0342	0.9658	1
+Chosanch’am	Kum-gol	0	0.9981	0.0019	0
+kwh chal najy	كوه چال ناجی	1	0.0040	0.9960	1
+Cevzi	Cevrimpinar	1	0.4653	0.5347	0
+Zīāratgāh-e Shāh Abū ol Ḩasan	zyartgah shah abw lhsn	1	0.0378	0.9622	1
+Stantsiya Dosang	Jaschkul See	0	0.9350	0.0650	0
+河宝桥	he bao qiao	1	0.0656	0.9344	1
+Darreh-ye Narg Pozeh	Darreh-ye Jāfowrī	0	0.9895	0.0105	0
+bny shrh allh	Banī Shirāḩ Allāh	1	0.0830	0.9170	1
+Стеенбек	Le Staufen	0	0.9846	0.0154	0
+おおどうつえき	大堂津駅	1	0.0304	0.9696	1
+Kargar	Āzādī	0	0.9679	0.0321	0
+Манолово	Manolovo	1	0.1470	0.8530	1
+Luji	ka la ba	0	0.9980	0.0020	0
+Yek Joftī	یک خفتی	1	0.0664	0.9336	1
+Yunmenling	Yunmeng Xian	0	0.5680	0.4320	0
+Wat Si Don Mun	วัดศรีดอนมูน	1	0.0207	0.9793	1
+Çatalcam	Catalarmut Yaylasi	1	0.4018	0.5982	0
+wa er dai er si ba ke	Val'dersbak	1	0.0455	0.9545	1
+Jabal Marāhil	Wādī al Fir‘a	0	0.9968	0.0032	0
+Kuyuki	Kujuki	1	0.1976	0.8024	1
+القنجرة	Kheurbet Qnaye	0	0.9864	0.0136	0
+Rio Piquiry	Rio Pequiry	1	0.0556	0.9444	1
+Songna-ri	Wondaengi	0	0.9222	0.0778	0
+Olzon	Хандала	0	0.9096	0.0904	1
+LNS	Contae Lancaster	0	0.7539	0.2461	0
+Lelikonių	Lelikonys	1	0.2887	0.7113	1
+Dareh Tut	Dārtūt	1	0.2823	0.7177	0
+Shisheh Qal`eh	Shīsheh Qal‘eh	1	0.1108	0.8892	1
+dong liang	dong gua	0	0.9899	0.0101	0
+克依黑	Keyihei	0	0.5117	0.4883	1
+Wat Pa Manisri Kotamawong	วัดป่ามัชฌิมวงศ์รัตนาราม	0	0.9013	0.0987	0
+دق چاه نار	Daqq-e Chah Nar	1	0.0055	0.9945	1
+Lez-Epess	Les Éparges	0	0.6397	0.3603	0
+Залывье	Zalyv'e	1	0.1107	0.8893	1
+Hamilton County	Хэмптон	1	0.3185	0.6815	0
+Suke-Gorica	Suke	0	0.6311	0.3689	1
+ban hub ta xn	Ban Ong Phra	0	0.9793	0.0207	0
+Jiuquwan	jiu qu wan	1	0.0034	0.9966	1
+後埔子	Hou-pu-ts’un	0	0.9923	0.0077	0
+Mata Puerco	Mata Puercos	1	0.1583	0.8417	1
+Листвяк	Глухариная	0	0.9999	0.0001	0
+’Aïn Fares	Aine Fares	1	0.0892	0.9108	1
+Соколовичи	Sokol’niki	0	0.9985	0.0015	0
+Ånestjønna	Anestjonna	1	0.0308	0.9692	1
+Darnīān	Durneyan	1	0.1616	0.8384	0
+Gündüzlü	Gunpinar	0	0.6496	0.3504	1
+Lemstroms Kanal	萊姆蘭	0	0.9363	0.0637	0
+Bonghwasan	봉화산	1	0.0140	0.9860	1
+Jūnai Khwār	Rekhai Mena Kili	0	0.9227	0.0773	0
+Stuora Jorbajavri	Jarbajavri stuora	1	0.4797	0.5203	1
+ayt sydy dawd	abn jryr (albldyt)	0	0.6779	0.3221	0
+Kerd `Ali Koshteh	Kerd ‘Alī Koshteh	1	0.0311	0.9689	1
+Henuj	Hangooyeh	0	0.5876	0.4124	0
+عباس کرد	`Abbas-e Kord	1	0.0282	0.9718	1
+Sidi Khidr	Sīdī Khalīfah Bin al Muḩāḑir Hanshīr	0	0.8342	0.1658	0
+Razvil'e	Развилье	1	0.1020	0.8980	1
+Posëlok Nakhov	Posëlok Imeni Kalinina	0	0.7623	0.2377	0
+Sowai Mela	Sowai Meta	1	0.3796	0.6204	1
+Tingbit	Gara Tinebate	1	0.4665	0.5335	0
+Vukelic-Draga	Vukelić-Draga	1	0.0657	0.9343	1
+Laoyingyan	yu tang	0	0.9974	0.0026	0
+Amirabad	Amīrābād-e Abū’ī Zādeh va Shorakā	1	0.3957	0.6043	1
+Chenjiatai	Yangfengping	0	1.0000	0.0000	0
+Bara Kāliganga	Bara Kaliganga	1	0.0356	0.9644	1
+Isiómata	Isiomata	1	0.0982	0.9018	0
+Maydan an Nasr	An Naşr Square	0	0.6156	0.3844	1
+Khlong Bang Prong	Khlong Bamron	0	0.6314	0.3686	0
+Kurgan Zolotoy	Курган Золотой	1	0.0077	0.9923	1
+sang cun	Changshetoucun	0	0.9944	0.0056	0
+Dong Hau	Don Chau	1	0.1738	0.8262	1
+Caserio La Hoya	La Horcajada	0	0.9955	0.0045	0
+خلیج فارس	Khalīj-e Fārs	1	0.0042	0.9958	1
+Sangar	Kohe Zaṟḏe Saṟe Kheṟsnaw	0	0.8620	0.1380	0
+Chah Akhvor	چاه خور	1	0.0097	0.9903	1
+Թալիշի առվի	Թեղի	0	0.9940	0.0060	0
+Xiahengli	下恒利	1	0.0882	0.9118	1
+Ciwei Shan	qi wei	0	0.9773	0.0227	0
+Tunzūn Ziārat	Tanzūn Ziārat	1	0.0162	0.9838	1
+Wadi Ghurr	Tar Ghurayta	0	0.9859	0.0141	0
+Rongrian Tha Maka Witthayakhom	โรงเรียนท่ามะกาวิทยาคม	1	0.0010	0.9990	1
+Daping	gao dong xi	0	0.9999	0.0001	0
+Sal’yanskaya Ravnina	Sal'yan	0	0.8403	0.1597	1
+Горка	Svinaya Gorka	1	0.1900	0.8100	0
+Mesa de Urena	Mesa de Ureña	1	0.0600	0.9400	1
+孙家磨	Nuanshuiba	0	0.5599	0.4401	0
+Beiyinshan	背阴山	1	0.0203	0.9797	1
+Vishnevyj	Пруд Средний	0	0.9263	0.0737	0
+龙虎坳	Longhu'ao	1	0.0144	0.9856	1
+Beinn Iutharn Mhor	Iubhair	0	0.9132	0.0868	0
+Skuohtávŋi	Skuottavni	1	0.0487	0.9513	1
+dong shuang tai	she de	0	0.9831	0.0169	0
+hagnbakh	هاگنباخ	1	0.1477	0.8523	1
+Mughak Pass	Lakar Kūh	0	0.8649	0.1351	0
+Engenheiro Olavo Barreto Vianna	Engenheiro Olavo Barreto Viana	1	0.0058	0.9942	1
+Bi'r as Sidrah	Bi’r as Sidrah	1	0.0367	0.9633	0
+Matyuy-Salyayakha	Matjuj-Saljajakha	1	0.2721	0.7279	1
+Yurek	امن آب	0	0.9532	0.0468	0
+วัดห้วยหม้อหลวง	Wat Huai Mo Luang	1	0.0187	0.9813	1
+Gąsocin	Гонски	0	0.8059	0.1941	0
+Yŏp’kol-che	yeopgolje	1	0.0914	0.9086	1
+Malaya Berëzovka	Malaya Berezovaya	0	0.7303	0.2697	0
+Красный Бычёк	Rezidentsiya Krasnyy Bychek	1	0.0789	0.9211	1
+Band-e Hezar Darreh	Sahra-ye Chah Asad	0	0.9991	0.0009	0
+Kili Mulla Pai Muhammad	Kili Mulla Pāi Muhammad	1	0.0693	0.9307	1
+Великий Лес	Vel’ki Karatsk	1	0.3251	0.6749	0
+Wakasu Kaihin Kōen	Wakasu Kaihin Koen	1	0.0288	0.9712	1
+Shūr Bast	Surbarut Ghar	0	0.9620	0.0380	0
+Rūdkhāneh-ye Darakeh	rwdkhanh drkh	1	0.0329	0.9671	1
+kanperure	kwympr	0	0.5390	0.4610	0
+청룡산	Ch’ŏngnyong-san	1	0.0567	0.9433	1
+li sha xi	shang cai ao	0	1.0000	0.0000	0
+El Carmen	Nuestra Senora del Carmen	1	0.1423	0.8577	1
+Weishua	Kema	0	0.9326	0.0674	0
+Sheykhī Khaṟbolāgh	Shaykh-e Khar Bulaq	1	0.0682	0.9318	1
+Shatt Abu Ni`aj	Qal‘at Ālbū Shutaywī	0	0.9129	0.0871	0
+Río Perlas	Perlas	0	0.5792	0.4208	1
+Qarat ad Dayyim	althjy	0	0.9832	0.0168	0
+Nong Saeng	หนองแสง	1	0.0366	0.9634	1
+Саут Вилијамспорт	Spring Hill	1	0.4751	0.5249	0
+Πυργωτό	Pyrgotó	1	0.0555	0.9445	1
+shakhdar	Shākhdār	1	0.1318	0.8682	0
+Ījān Kūh	Kūh-e Ījand	0	0.8027	0.1973	1
+kwhi dastgird	Chah-Dashti	0	0.9373	0.0627	0
+`Ayn `Abd ad Da'im	‘Ayn ‘Abd ad Dā’im	1	0.2761	0.7239	1
+Luong	Luong Hoa	0	0.5584	0.4416	0
+آبخو	Abkho	1	0.1861	0.8139	1
+Al Khaḍrah	Al Khadrah	1	0.1009	0.8991	0
+da yuan zi	大院子	1	0.0018	0.9982	1
+Hacienda Jerusalen	Hacienda Jarrín	1	0.4105	0.5895	0
+Gora Srednjaja	Гора Средняя	1	0.0228	0.9772	1
+Al `Ubayd	Aradi Abu `Arab	0	0.9948	0.0052	0
+Kobou	Kolbou Zarma	0	0.5133	0.4867	1
+Linjina	Geambaşu	0	0.9940	0.0060	0
+لکړی مانده	Lakaṟay Māndêh	1	0.0030	0.9970	1
+wo yi xi	阿克喀巴克	0	1.0000	0.0000	0
+Guwo 1	Guwo Satu	1	0.2171	0.7829	1
+Abul Baqar	Shaib Abul Ashush	0	0.9852	0.0148	0
+Kos-Kuduk	Kolodec Koskuduk	1	0.4551	0.5449	1
+Гришино	Grišina	0	0.5877	0.4123	0
+Wen-chia-chuang	Wenjiazhuang	1	0.3455	0.6545	1
+Bol’shoye Turov’ye	Turow	1	0.3931	0.6069	0
+Yanfong Ciao	Yanfeng Qiao	1	0.0392	0.9608	1
+Rudnya	Рудня	1	0.2050	0.7950	0
+xiao du zhuang	小杜庄	1	0.0123	0.9877	1
+Վայսենսբերգ	Ուայզենոե	0	0.9866	0.0134	0
+Jijjim	jjym	1	0.1008	0.8992	1
+bnd kټh khak	Sar-e Kateh Khāk	1	0.4415	0.5585	0
+Mekikanchay	Mekiqançay	1	0.0873	0.9127	1
+Cikaramas 2	Cikaobandung 1	0	0.9462	0.0538	0
+san dao ling	Sandaoling	1	0.0280	0.9720	1
+Елови Чуки	Стојкова Чука	0	0.9999	0.0001	0
+Xigong'ao	Xigong’ao	1	0.0065	0.9935	1
+Старошийка	Ctarosillja	0	0.9465	0.0535	0
+Belozersky	Белозерский район	1	0.0286	0.9714	1
+Da Katroum	Đa Kai	0	0.9804	0.0196	0
+Ten Lieng	Ten Liêng	1	0.0293	0.9707	1
+Tang-e Kalanjeh	Kuh-e Kalanjeh	0	0.8949	0.1051	0
+sthani xnamay hela hlwng	สถานีอนามัยเหล่าหลวง	1	0.0112	0.9888	1
+Kondehhā	Wolan Kalan	0	0.9473	0.0527	0
+下官营	xia guan ying	1	0.1119	0.8881	1
+کوه گله گاوی	khshkky	0	0.9842	0.0158	0
+Riviere des Creoles	Creoles Riviere	1	0.4448	0.5552	1
+Stalin White Sea-Baltic Sea Canal	Belomorskij rajon	0	0.9481	0.0519	0
+เขาตะกุดรัง	khea ta kud rang	1	0.0156	0.9844	1
+Sinya	Senya	1	0.1380	0.8620	0
+Kirsvannet	Rødsjøen	0	0.8258	0.1742	1
+hua po da cun	Muxiwu Dacun	0	0.9612	0.0388	0
+Schwarzenbach	Schwarzenbach am Groessing	0	0.5193	0.4807	1
+rongreiyn ban hnxng mitay	Rongrian Wang Rong Noi	0	0.9978	0.0022	0
+Cheshmeh Anjir	Cheshmeh-ye Anjīr	1	0.0501	0.9499	1
+Бёвиллер	Bjovron-an-Ozh	0	0.9842	0.0158	0
+sheng suo wei ye	圣索维耶	1	0.2172	0.7828	1
+Cuajiniouilapan	Guajimalpa	0	0.5721	0.4279	0
+San Lorenzo del Aire	Francisco Villa	0	0.5035	0.4965	1
+mao ren ha sha	wu hao shan	0	0.7423	0.2577	0
+Otzling	Oetzling	1	0.0612	0.9388	1
+La Conedra	Estacion Enramada	0	0.6381	0.3619	0
+Ljosvatn	Ljøsvatn	1	0.0878	0.9122	1
+Qinlaozhuang	yu xi kou jie dao	0	0.9964	0.0036	0
+mwshy	ولسوالی موسهي	1	0.1732	0.8268	1
+Urochishhe Ozera	Урочище Плавки	0	0.9913	0.0087	0
+Երկայնահանդ	Yerkaynahand	1	0.0270	0.9730	1
+Bol’shoy Musharan	Bolsjaja Murga	0	0.9872	0.0128	0
+核桃村	he tao cun	1	0.0068	0.9932	1
+Yantan Zhen	Yantai Shan	0	0.7664	0.2336	0
+rongreiyn ban pha pun	Rongrian Ban Pha Pun	1	0.0283	0.9717	1
+Le-Breton	La Chapèla dAuda	0	0.8795	0.1205	0
+Инзагатуй	Inzagatuj	1	0.0606	0.9394	1
+Forst Heydtwalde	סקלבמייז	0	0.9954	0.0046	0
+Xidianzi	xi dian zi	1	0.0143	0.9857	1
+Lang-ch’i	lang ping zhen	0	0.9867	0.0133	0
+محمد حکیم	Muhammad Hakim	1	0.0056	0.9944	1
+Jebel n’ Nig Oumassine	Tizi n' Wani	0	0.6669	0.3331	0
+Tangjiaxia	唐家峡	1	0.0074	0.9926	1
+Karya	Karyá	1	0.1739	0.8261	0
+Ta-she	Ta-she-ts’un	1	0.3837	0.6163	1
+Tavakkolābād	mhmd qadr	0	0.8804	0.1196	0
+Chungsan-bong	Chŭngsan-bong	1	0.0293	0.9707	1
+El Callejón	Quebrada El Bunque	0	0.9452	0.0548	0
+Ribeirão Salobrinho	Ribeirao Ponta do Morro	0	0.5451	0.4549	1
+Gurban Bulak	Khowd Gol	0	0.9887	0.0113	0
+Ольхи	Ol’khi Vtoryye	1	0.3041	0.6959	1
+yang yan gou	tang jia chuan	0	1.0000	0.0000	0
+Danilovgradas	ダニロヴグラード	1	0.0974	0.9026	1
+ma tai lin shan	Yü-kang Ch’iao	0	1.0000	0.0000	0
+ban hnxng hmu	บ้านหนองหมู	1	0.0640	0.9360	1
+‘Abbāsābād	`Abbasabad	1	0.2433	0.7567	0
+Nước Tên	Nuoe Ten	1	0.3780	0.6220	1
+甫嶺駅	柳原駅	0	0.9906	0.0094	0
+บ้านปึกเตียน	Ban Puk Tian (1)	1	0.0496	0.9504	1
+Imeni Chapaeva	Novo-Gayvinskiy	0	0.9794	0.0206	0
+mdrst alwljt	مدرسة الولجة	1	0.0108	0.9892	1
+da ao zi	xiao long gang	0	1.0000	0.0000	0
+Ban Bang Wang	บ้านบางวัง	1	0.0329	0.9671	1
+baeg-am	Nupsil	0	0.9888	0.0112	0
+Ra's Barqat ad Dabdabah	Ra's Barqat ad Didabah	1	0.0178	0.9822	1
+Urochishche Tikhoye	Pereval Svalovskoe Sedlo	0	0.9764	0.0236	0
+xin tian	Xintian	1	0.0442	0.9558	1
+da tun cun	huang tu gui cun	0	0.9998	0.0002	0
+Higakushi-yama	日隠山	1	0.1367	0.8633	1
+ya kou	wu mo lu	0	0.9747	0.0253	0
+Ridah	Rida	1	0.1385	0.8615	1
+Kasan-maŭl	Sindangch’on	0	0.9352	0.0648	0
+tu qiang	Tuqiang	1	0.0139	0.9861	1
+Mahall Ahmad Muhammad	Al Madāfin	0	0.9706	0.0294	0
+Qiaowei	qiao wei	1	0.0333	0.9667	1
+Vītrupes	Melbarzi	0	0.7893	0.2107	0
+Palosnica	Palasnica	1	0.0558	0.9442	1
+Μονή Παναγίας	Panaríti	0	0.9869	0.0131	0
+克德尼茨	Кёдниц	1	0.0459	0.9541	1
+sthani xnamay hnxng wæng	สถานีอนามัยนาใหญ่	0	0.9991	0.0009	0
+banna he rng	บ้านนาเหรง	1	0.0087	0.9913	1
+Groot Rooiberg	Groot	0	0.8036	0.1964	0
+丹沢山地	Tanzawa-sankai	1	0.0604	0.9396	1
+Mataghi	Մինաս Սուրբ.	0	0.9999	0.0001	0
+みちのくトンネル	みちのくとんねる	1	0.1041	0.8959	1
+کوه کمر پیسا	دره اسیک	0	0.9950	0.0050	0
+K'o-ch'eng-chen	Kecheng	1	0.4737	0.5263	1
+兴旺庄村	dao dang	0	0.9998	0.0002	0
+Cukhodil	Sukhodil	1	0.0944	0.9056	1
+Umm Sikkina	Umm Sifi	0	0.9966	0.0034	0
+上白庆	Shangbaiqing	1	0.0052	0.9948	1
+Cienaga	Río Choromoro	0	0.9174	0.0826	0
+Ostanovochnyy Punkt 747 km	Stantsiya Tsupovka	0	0.6151	0.3849	1
+Okino-hamada	Biro-jima	0	0.9861	0.0139	0
+Outang Shuiku	ou tang shui ku	1	0.0157	0.9843	1
+Massy TGV Railway Station	Tours Railway Station	1	0.4538	0.5462	0
+Shinkai Ghundey	شنکی غنډۍ	1	0.0081	0.9919	1
+Parcul Drumul Taberei	Parcul Carol	0	0.8772	0.1228	0
+Ming-i Kuo-hsiao	Mingyi Guoxiao	1	0.0175	0.9825	1
+Beiguantao	车留庄	0	0.9999	0.0001	0
+ambar shylh	Ambār Shēlah	1	0.0456	0.9544	1
+Baiyan	Bai’ai	0	0.9645	0.0355	0
+上杏头	shang xing tou	1	0.0284	0.9716	1
+ban tha pea haw na	Ban Taling Chan	0	0.9991	0.0009	0
+Krokdalen	Ruokkevaggi	0	0.8074	0.1926	1
+Qabrestan-e Hali Qelich Mati	Maḩalleh-ye Hīvehchī	0	0.9010	0.0990	0
+Sŏnang-gol	Sonang-gol	1	0.0484	0.9516	1
+Respaldiza	Requian	0	0.9483	0.0517	0
+Кузра	Kuzra	1	0.1143	0.8857	1
+sthani xnamay ban sri dxn mul	rongreiyn wad ri henux	0	0.9999	0.0001	0
+Burayle Yeterara Chaf	Burayle YeTerara Ch'af	1	0.0094	0.9906	1
+Cerro el Pasaquina	Cerro Macuilís	0	0.9020	0.0980	0
+Kurgan Semenov	Kurgan Semënov	1	0.0861	0.9139	1
+Madong	long bing bang	0	0.9767	0.0233	0
+Yeghnatap'	Yeghnatap’	1	0.0590	0.9410	1
+Sathani Anamai Ban Bom	วัดสบทะ	0	0.9911	0.0089	0
+مونی غر	كوهٔ مونی	1	0.2339	0.7661	1
+美吉野	頃末南	0	0.9951	0.0049	0
+Shuicaowan	shui cao wan	1	0.0062	0.9938	1
+Sīrhin	Wādī Sohan	0	0.9652	0.0348	0
+Ghabilah	Ghaylah	0	0.7247	0.2753	1
+Anjirak	Darreh Asb	0	0.9809	0.0191	0
+he zhang	Ho-chang Hsien	1	0.4544	0.5456	1
+โรงเรียนบ้านขมิ้น	โรงเรียนบ้านขนวน	0	0.9964	0.0036	0
+Komsomol’skiy	Komsomol'skiy	1	0.2036	0.7964	1
+Soloveyka	Mar’yevka	1	0.4113	0.5887	0
+Siajhuangzih	Xiazhuangzi	1	0.1105	0.8895	1
+`Aliab	Jabal ‘Aliya	0	0.6630	0.3370	0
+piladelpiis meria	Philadelphia City Hall	0	0.7570	0.2430	1
+Bayneh Shah	Bānyārān-e Teymūr	0	0.9868	0.0132	0
+Kornilovka	Карниловка	1	0.1722	0.8278	1
+cao nian gou	liu bo zi	0	1.0000	0.0000	0
+heng dian cun	横店村	1	0.0054	0.9946	1
+Khirbat el `Alawina	khrbt aldyr	0	0.9971	0.0029	0
+Caloua	Coloa	1	0.1994	0.8006	1
+Ust-Iskitim	Ust’-Ishimskiy Rayon	0	0.9845	0.0155	0
+Ozero Berdanish	Озеро Бердениш	1	0.0029	0.9971	1
+Al Maḑbābī	Ash Shaqibah	0	0.9582	0.0418	0
+Sīrīk	Sirik	1	0.2344	0.7656	1
+Gazho	Ghavakhan	0	0.7586	0.2414	0
+cha lin	Chalin	1	0.0424	0.9576	1
+Ban Lat Du	บ้านหนองนางกอม	0	0.9949	0.0051	0
+rongreiyn ban hnxng khi hen	Rongrian Ban Nong Khi Hen	1	0.0348	0.9652	1
+ดอยหมาง่าว	dxy hma cx	0	0.9928	0.0072	0
+연암교	Yeonamgyo	1	0.0152	0.9848	1
+Кургэлак	Pravaja Tala	0	0.9578	0.0422	0
+Ortiz Banks	Banco Ortiz	1	0.3245	0.6755	1
+Jurat al Himi	Jouret el Hachîch	0	0.9994	0.0006	0
+chang chang	チャン・チャン	0	0.5832	0.4168	1
+Chetyrëkh”yarskiy	Ostrov Chetyrekhbugornyy	0	0.8606	0.1394	0
+La-shih	Lashi	1	0.2517	0.7483	1
+kwh jgry	kwh tl sngr	0	0.8530	0.1470	0
+qian jin du	千金渡	1	0.0234	0.9766	1
+Ravin Bois d'Orme	Bois d'Orme	1	0.2081	0.7919	0
+Fuzhudui	Fuzhai	0	0.9913	0.0087	1
+kanal ab mhdy abad	Mojtame`-e Maskuni-ye Shahid Nuri Safa	0	0.9886	0.0114	0
+Μετόχι Νέων Πλαγίων	Metóchi	0	0.9617	0.0383	1
+Yamatedai	xi dao	0	0.7725	0.2275	0
+Bazzabochaya	Баззабочая	1	0.0261	0.9739	1
+Tanjung Guahpondok	Goegoese Mountain	0	0.6883	0.3117	0
+Wādī ath Thamad	Oued Etsemad	1	0.3374	0.6626	1
+Zilarwast	Zelargak	0	0.9537	0.0463	0
+Mik'ayeli aghbyuri	Միքայելի աղբյուրի	1	0.0870	0.9130	1
+Wat Khongkha Luean	Wat Khlong Din	0	0.8328	0.1672	0
+Palhamjan	plhm jan	1	0.0622	0.9378	1
+Срединка	Sredina	0	0.8681	0.1319	0
+Niu-lan-wo Shan	牛欄窩山	1	0.0118	0.9882	1
+Khrittachak Khwamwang Krungthep	Rongrian Matthayom Wat That Thong	0	0.8598	0.1402	0
+Правый Худачет	Pravyj Khudachet	1	0.0193	0.9807	1
+Dongfenglu Jiedao	jin hu	0	0.9992	0.0008	0
+Statos-Agios Fotios	Statós-Ágios Fótios	1	0.1028	0.8972	1
+Zhuyuan	le feng	0	0.9925	0.0075	0
+ban pring	บ้านปรีง	1	0.1770	0.8230	1
+wolpyeongjunghaggyo	월평역	0	0.7811	0.2189	0
+hua tai zi	华台子	1	0.0104	0.9896	1
+Haur al Jarra	Jarnaf Sharqi	0	0.9851	0.0149	0
+dong re	Донже	1	0.1122	0.8878	1
+陈家老屋	马家庙	0	1.0000	0.0000	0
+yuan bei	Yuanbei	1	0.0161	0.9839	1
+مقرون أبو خرسعة	مقرون أبو عش القبلي	0	0.9967	0.0033	0
+Chashmeh-ye Salātīn	Chashmeh-ye Sālāt	0	0.5861	0.4139	1
+Mullā Kanār	Kanāb	0	0.9409	0.0591	0
+Ōkura Yama	Okura Yama	1	0.0632	0.9368	1
+Shul	Tall Tartab	0	0.9784	0.0216	0
+Schiroka Planina	Shiroka Planina	1	0.0380	0.9620	1
+dai jia	Hongyanxi	0	0.9995	0.0005	0
+tiao deng	Tiaodeng	1	0.0178	0.9822	1
+Ta-hsi Shan	chi lu keng	0	0.9966	0.0034	0
+Tihalilin	Tihaliuin	1	0.1285	0.8715	1
+Калмеј	Камела	0	0.9527	0.0473	0
+ban hn xnghi	Ban Nong Hai	1	0.1631	0.8369	1
+Parkhis	Kanḏarō Sar	0	0.9346	0.0654	0
+Kos’ye	Пристань Косье	0	0.7139	0.2861	1
+shuang liu cun	qiao tou	0	0.9998	0.0002	0
+Вереміївка	Veremiyivka	1	0.0912	0.9088	1
+ديزج	Yāykan	0	0.9944	0.0056	0
+Spigno Saturnia	Spigno	1	0.3290	0.6710	1
+ملک دین لار	Loy-Gvashta	0	0.9916	0.0084	0
+Урочище Конский Луг	Urochishche Konskiy Lug	1	0.0045	0.9955	1
+Long Lellang	Batang Terusan	0	0.9988	0.0012	0
+Obersee	Øvresjøen	0	0.6887	0.3113	1
+nan he qiao	Qixia	0	0.9973	0.0027	0
+Árpissa	Artissa	0	0.5579	0.4421	1
+چم گل چيدر	Golchīdar	1	0.3579	0.6421	0
+رونگيان	rwnkyan	1	0.1088	0.8912	1
+Bad Düben	Rosswein	0	0.8491	0.1509	0
+Hakson-dong	학선동	1	0.2068	0.7932	1
+Irest'	Khrebet Irendyk	0	0.9479	0.0521	0
+Gnizdychuv	Gnezdychev	1	0.1991	0.8009	1
+Mijakinskij Rajon	Sel’skokhozyaystvennoye Predpriyatiye Sadovyy	0	0.9990	0.0010	0
+Qabr al Qubbah	El Qubba	0	0.7088	0.2912	1
+Ojjarvi	Ohukaisenperä	0	0.9293	0.0707	0
+ห้วยเตย	hwy tey	1	0.0371	0.9629	1
+Punta Guarito	Río Guareira	0	0.9691	0.0309	0
+Kaplany	Kaplani	1	0.0905	0.9095	1
+شیخ ابراهیم	مزرعه چیکو	0	0.9996	0.0004	0
+Ban Charoen Phon	ban ceriyphl	1	0.4982	0.5018	1
+Hongtangying	Hung-t’ang-hsiang	1	0.1876	0.8124	0
+Raptis	Ράπτης	1	0.0639	0.9361	1
+ying ge na	罗仁堂	0	0.9499	0.0501	0
+Rongrian Ban Khok Samakkhi	โรงเรียนบ้านโคกสามัคคี	1	0.0041	0.9959	1
+Djebel Aine Beghrat	'Ain el Assel	0	0.9689	0.0311	0
+Агуеро	Agüero	1	0.0945	0.9055	1
+齐奇岭	qi qi ha er shi	1	0.1360	0.8640	0
+Шилово	Shilovo	1	0.1453	0.8547	1
+Dromad	Drumkeeran	0	0.9346	0.0654	0
+Grüningen	Zielecice	0	0.9892	0.0108	1
+บ้านหนองผักฉีด	Ban Nong Yai Fai	0	0.9643	0.0357	0
+Ban Pak Fène	Ban Pakfen	1	0.2191	0.7809	1
+Songp’yŏng-ni	halyujeongli	0	0.9426	0.0574	0
+Wat Ban Non Chan	wad ban non can	1	0.0163	0.9837	1
+Papsomarka	Paprika-urbo	0	0.7084	0.2916	0
+Dolgij	Долгий	1	0.1164	0.8836	1
+Рейд Мерей	Mereja	0	0.8464	0.1536	0
+Hogsjo	Högsjö bruk	0	0.8213	0.1787	1
+Jenjān	Rudkhaneh-ye Jengabad	0	0.9508	0.0492	0
+syby	Sibi	1	0.1747	0.8253	1
+Rio Pumahuasi	Quebrada Pulperio	0	0.9338	0.0662	0
+rongreiyn chumchn ban rxng khem	โรงเรียนชุมชนบ้านร้องเข็ม	1	0.0093	0.9907	1
+Samil-tong	wayangdong	0	0.9956	0.0044	0
+Mikhajlovka	Михайловка	1	0.2405	0.7595	1
+Ngải Chồ	Ngai Cho	1	0.2546	0.7454	0
+Angeielu Shet'	Angelelu Shet'	1	0.1561	0.8439	1
+Bol'shoe Esiplevo	Esiplevo	1	0.2510	0.7490	0
+Kolal-e Dashti	klli payyn	0	0.9825	0.0175	1
+小野町役場	広野町役場	1	0.3287	0.6713	0
+zu bai gong	足白贡	1	0.0089	0.9911	1
+Ouying	Zhangjiachong	0	0.9999	0.0001	0
+khlxng keaa dxn	Khlong Ko Don	1	0.1050	0.8950	1
+tong cun jie	tang geng	0	0.7413	0.2587	0
+Waj Fowata	Wai Fowata	1	0.0145	0.9855	1
+Savilmiyeh	Qaryeh-e Sahin	0	0.9790	0.0210	0
+Rowobajul	Rowabadjul 1	1	0.0628	0.9372	1
+syawashabadi sy mard	Siavashabad	0	0.7606	0.2394	0
+نمار	Namār	1	0.0538	0.9462	1
+Shūrāb	Shūr Āb	1	0.4216	0.5784	0
+dulyunsan	두륜산	1	0.0593	0.9407	1
+黄白场	Jiacao	0	0.9959	0.0041	0
+Bušín	Puschein	1	0.2037	0.7963	1
+Luovtasj	Søra Breidvika	0	0.5883	0.4117	0
+Louguere Bara	Louguere Baba	0	0.5569	0.4431	1
+บ้านกระทิงตาย	Nam Tok Ton Lat	1	0.3123	0.6877	0
+Jåvnajavri	Jovnnajavri	1	0.0728	0.9272	1
+Qingping	song guang	0	0.9972	0.0028	0
+Pad’ Krivaya Kopun’	Pad' Krivaya Kopun'	1	0.0605	0.9395	1
+Makovskaja	Ostrov Mak-Nul’ta	0	0.9990	0.0010	0
+Shekherpara	Sekerpara	1	0.1391	0.8609	1
+Yégélé	Kourougé	0	0.9174	0.0826	0
+Crockavishane	Squire’s Carn	0	0.7700	0.2300	1
+Rensčiai	Repšiai	0	0.8508	0.1492	0
+Caihuaping	cai hua ping	1	0.0360	0.9640	1
+Jabal al Qaḩāţī	Wadi Qa`fur	0	0.9992	0.0008	0
+节巴勒	Jiebale	1	0.0156	0.9844	1
+Al Midan	Al Mazzah	0	0.9961	0.0039	0
+Шевањи ле Шевријер	Shevani le Shevrijer	1	0.0256	0.9744	1
+kwh mlh mazy	gl drh	0	0.9972	0.0028	0
+Doi Chang	ดอยช้าง	1	0.1603	0.8397	1
+wad thung kha phi	Wat Burapha Nok	0	0.9710	0.0290	0
+Lahavot HaBashan	Ma`aleh Habashan	1	0.1438	0.8562	1
+Bucht Grava	Grënçia	0	0.8965	0.1035	0
+Fleet Hill	Fleet’s Hill	1	0.0627	0.9373	1
+Aya-ri	Ayajil-li	0	0.7772	0.2228	0
+Ban Noen Yang	บ้านเนินยาง	1	0.0463	0.9537	1
+قراقر	Saddat al `Adhiriyah	0	0.9944	0.0056	0
+Yelovka	Elovka	1	0.2847	0.7153	1
+小户弄	li jia zhai	0	1.0000	0.0000	0
+Wonsan-si	Wŏnsan-bu	0	0.7313	0.2687	1
+Rahmatabad	rahmat abad	1	0.2024	0.7976	0
+Selseleh Kuh-e Band-e Gandeh Ab	Selsela Koh-i-Band-i-Ganda Ab	1	0.0639	0.9361	1
+Jubmanbakti	Goaskinbávttit	1	0.2172	0.7828	0
+新联四组	xin lian si zu	1	0.0165	0.9835	1
+Boekit Bain	Baimoeh	0	0.8640	0.1360	0
+Amigdhaliá	Amigdhalia	1	0.1451	0.8549	1
+Kohe Sasgal	شاشان	0	0.9758	0.0242	0
+Qassab Mahalleh	Qaşşāb Deh	0	0.7952	0.2048	1
+Баранівка	Baranovka	1	0.2529	0.7471	0
+Wâdi Maghra Hadîda	Wadi Maghrat Jadidah	1	0.0759	0.9241	1
+Deh-e Nūr Moḩammad	Deh-e Namrūdī	0	0.9729	0.0271	0
+Kemyatinova	Komjatinova	1	0.0921	0.9079	1
+Miennajåkka	Roggegiettaja	0	0.9426	0.0574	0
+Колодяжне	Kolodyazhne	1	0.0398	0.9602	1
+Tuol Vihen	Phumi Tuol Veng	1	0.4092	0.5908	0
+Sīngerd	Singerd	1	0.0997	0.9003	1
+Kusanjan	کر کوه	0	0.9828	0.0172	0
+shuang xin cun wei hui	Shuangxin Cunweihui	1	0.0195	0.9805	1
+هَسَن آباد	حسن آباد ابو الحسنی	0	0.9086	0.0914	0
+Shāh Kahūr	شاه کاهو	1	0.0808	0.9192	1
+Shoka-ri	seonghali	1	0.3291	0.6709	0
+赵村村	Zhaocuncun	1	0.0139	0.9861	1
+Hanjing	Laowan	0	0.9998	0.0002	0
+Kuh-e Dar Gardan	Kuh-e Dar Garlan	0	0.5606	0.4394	1
+alqltyn	Alt Jilhan	1	0.2710	0.7290	0
+suliman mahalih	سُلِيمان مَحَلِّه	1	0.0089	0.9911	1
+ห้วยหวาย	hwy hwa y	1	0.1401	0.8599	0
+Tri Le	Ban Chieng	0	0.9252	0.0748	1
+Felistál	Horni Pial	0	0.6905	0.3095	0
+Pandokrator Pisinondas	Παντοκράτωρας	1	0.2501	0.7499	1
+托雷亚诺	Вармо	0	0.9792	0.0208	0
+xia ping ling	下坪岭	1	0.0117	0.9883	1
+Duraykīsh Zurayb	Duraykish	0	0.9867	0.0133	0
+Arikonak	Könk	1	0.3591	0.6409	1
+Furduesti	Furdueşti	1	0.1176	0.8824	0
+أُمّ اَلْمَاء	Umm al Ma`	1	0.0064	0.9936	1
+Kashuvka	Karzhyns'ka Zatoka	0	0.8910	0.1090	0
+Malschowen	Małszewo	0	0.6552	0.3448	1
+Shueilioudong	Shui-liu-tung	1	0.3770	0.6230	0
+L'Herbraire	L’Herbrame	1	0.2305	0.7695	1
+Lok Khejven	Lorain	0	0.7769	0.2231	0
+mian hua ling	棉花岭	1	0.0095	0.9905	1
+qian tou yi	Sawama-eki	1	0.2395	0.7605	0
+Stantsiya Vysotnaya	Stantsiya Nessel’rode	0	0.6147	0.3853	1
+Wat Rat Burana Wararam	วัดไทรงาม	0	0.6157	0.3843	0
+Rahle Higle	H̱igle	1	0.1409	0.8591	1
+Soedra Aspoe	Sodra Asplangen	0	0.9884	0.0116	0
+Stacija Kangaris	Stacija Kangari	1	0.2582	0.7418	1
+Meyanodas	Kali Metro	0	0.8184	0.1816	0
+Lekenie	Lékégny	1	0.3468	0.6532	1
+บ้านหัวปากง่าม	บ้านห้วยบง	0	1.0000	0.0000	0
+Rūd-e Harzan	Harzan Rud	1	0.1646	0.8354	1
+Wat Krauch	Phumĭ Ta Kuŏn Prey	0	0.9230	0.0770	0
+Río Bani	Afon Bani	0	0.6043	0.3957	1
+Bordj ech Chîkh Bou Nâr	Koudiet Chikha	0	0.9917	0.0083	0
+Manji-dong	manjidong	1	0.0450	0.9550	1
+Chiyā-i Wēma	Dema	1	0.4507	0.5493	0
+Parque Doutor Carlos d’Assumpção	Parque Doutor Carlos d'Assumpcao	1	0.0540	0.9460	1
+Faridsar	Sikhwāla	0	0.9456	0.0544	0
+zhang bao cun	Zhangbaocun	1	0.0025	0.9975	1
+khlxngthx	hwy mæ thx	0	0.7548	0.2452	0
+drh nw	دره نو	1	0.0062	0.9938	1
+Changzhuyuan	Fujiadun	0	0.9990	0.0010	0
+Bakhyarkiyatag	Ovçulu	0	0.9399	0.0601	1
+Dallıağaç	Dalkorur	0	0.9641	0.0359	0
+Turk-Arnaut	Türk-Arnaut	1	0.0594	0.9406	1
+Luri Cuocha	Lüncun	0	0.9607	0.0393	0
+Longfu	long fu	1	0.0063	0.9937	1
+Gara Petre Luciu	Noapteşu	0	0.8740	0.1260	0
+Tres Marias	Las Calvas de Arriba	0	0.9432	0.0568	1
+Mahmud `Awwad	mhdy mhmd	0	0.7676	0.2324	0
+Bel'skij	Bel’skiy	1	0.4028	0.5972	1
+ban hnxng phuk	Ban Nong Thom	0	0.9647	0.0353	0
+Urochishche Zhanaozek	Урочище Жанаозек	1	0.0080	0.9920	1
+Saint-Jacques	Сент-Енглевер	0	0.8649	0.1351	0
+Fáranto	Canale di Farado	1	0.3957	0.6043	1
+Korovintsy	Korovayi	0	0.9353	0.0647	0
+Qarehcheh Bolaq	Qarehcheh Bolāq	1	0.1218	0.8782	1
+Zhikharëvo	Zhikhorëvo	1	0.3156	0.6844	0
+Matatio	Motātio	1	0.2068	0.7932	1
+Imgi-yok	Hyondong-yok	0	0.6870	0.3130	0
+Shimukopala	Shimukopola	1	0.0605	0.9395	1
+Kanda	かんだがわ	0	0.9593	0.0407	0
+mhmd rhym kly	Moḩammad Raḩīm Kalay	1	0.0457	0.9543	1
+Ricuenha	Rimao	0	0.7999	0.2001	0
+‘Alwat al ‘Ijlah	‘Ilwat al ‘Ijlah	1	0.0334	0.9666	1
+Panossiere, Col de	Tsena Réfien, Col de	0	0.7794	0.2206	0
+Barnack	برنك	1	0.0556	0.9444	1
+Isla de los Dos Caños	Canada Las Pozas	0	0.6040	0.3960	0
+chnaran	چناران	1	0.0399	0.9601	1
+อ่าวตะโล๊ะลีงาย	Ko Tarang	0	0.8211	0.1789	0
+Yanovo-Vedomta	Kubrinsk	0	0.7457	0.2543	1
+Mosolovskiye Vyselki	Zubovka	0	0.9573	0.0427	0
+mayan	Māyān-e Soflá	0	0.5532	0.4468	1
+Apuanische Alpen	Lago Apsoi	0	0.9103	0.0897	0
+Sin’gi	Saet’ŏ	0	0.8782	0.1218	1
+Tokkuztara Xian	Yangishar	0	0.9385	0.0614	0
+Bādurgāl	Badlrgal	1	0.0896	0.9104	1
+Cogurler	Cuku Boğazı	0	0.9426	0.0574	0
+Hegsjöfjeldet	Hegsjofjeldet	1	0.0470	0.9530	1
+Kahnūj-e Genow	Mowtowrkhanehha-ye Ab-e Mashrub-e Bandar-e `Abbas	0	0.9959	0.0041	0
+kwh thlstan	Kuh-e Tahlestan	1	0.0148	0.9852	1
+دهن گیرو	دهنٔ گيران	0	0.9213	0.0787	0
+Yamanone	shanno gen	0	0.5180	0.4820	1
+Fabrum	faburiano	0	0.5698	0.4302	0
+Rancho Santo Nino	Santo Niño	1	0.1865	0.8135	1
+Ban Bac	Ban Avao	0	0.6575	0.3425	0
+Kaji Jowz Ghar	Kajī Jawz Ghar	1	0.0975	0.9025	1
+shi ban	bai jia wan	0	0.9944	0.0056	0
+Koh-e Gizin	Kūh-e Gezīn	1	0.0892	0.9108	1
+Sayeḏān	sydan	1	0.1567	0.8433	0
+کوه محد بهرامی	kwh mhd bhramy	1	0.0017	0.9983	1
+Xiamenlugou	蛮子营	0	0.9943	0.0057	0
+Izvor	Izvorul	0	0.6983	0.3017	1
+Koliynyy Post Dibrivka	Slobodka	0	0.5945	0.4055	0
+Wai-hu-tzu	Waihuzih	1	0.2727	0.7273	1
+คลองหมื่นเทพ	ห้วยขาม	0	1.0000	0.0000	0
+Ohama	oohama	1	0.0888	0.9112	1
+บ้านกิ่วลม	บ้านกิ่วห้าง	0	0.9997	0.0003	0
+Tjuvskjæret	Tjuvskjaeret	1	0.0182	0.9818	1
+Ozero Ekurgerkel’	Ыштык	0	0.9956	0.0044	0
+Ksar Djedid	Ksar el Djedid	1	0.1883	0.8117	1
+arghsk	kwh ayr ghyly	0	0.9576	0.0424	0
+Iquilao	Isla Ivquiliac	1	0.4919	0.5081	1
+Khallet Bou Fiyad	‘Ayn Bū farrā‘ah	0	0.9985	0.0015	0
+Laowuxia	老屋下	1	0.0181	0.9819	1
+Manokwari	Menubepium	0	0.9072	0.0928	0
+mzrʿh ʿbdal abad	مزرعه عبدال آباد	1	0.0085	0.9915	1
+Ch'on-hyon	Chŏnsu-san	0	0.5387	0.4613	0
+상암동	Sangam-dong	1	0.0650	0.9350	1
+MLJ	Quan Banks	0	0.8356	0.1644	0
+Wadi Umm Zariq	Wadi Umm Zeriq	1	0.1075	0.8925	1
+Morghdari-ye Sadat	Kūh-e Balāneh	0	0.9999	0.0001	0
+Duwāzdah Hawār	Umr Efiendi	0	0.8211	0.1789	1
+Cockran’s Creek	Cobram	0	0.7754	0.2246	0
+ห้วยหนองดุ	Huai Nong Du	1	0.0270	0.9730	1
+Oued el Berka	Ain el Berka	0	0.8051	0.1949	0
+guan ding nan	関町南	1	0.0146	0.9854	1
+Правый Елизаровский	Говорливый	0	0.9962	0.0038	0
+Yonae-gol	Yŏnae-gol	1	0.0464	0.9536	1
+Uchebnoye Khozyaystvo Prigorodnyy	Severnyy	0	0.6564	0.3436	0
+Sarilar	Sarılar	1	0.1474	0.8526	1
+San Augustin	San Juan	0	0.6290	0.3710	0
+Серебряково	Serebryakovo	1	0.1339	0.8661	1
+落角塘	shi nan ping	0	0.9994	0.0006	0
+aqa mhlh	bhm br	0	0.9850	0.0150	1
+ban na pen	Ban Bun Mak	0	0.9713	0.0287	0
+Houquzi	后渠子	1	0.0275	0.9725	1
+Río La Plata	Quebrada La Pastoría	0	0.7156	0.2844	0
+Danzhengle	dan zheng lei	1	0.0097	0.9903	1
+Komariv	Komaruv	1	0.2737	0.7263	0
+Dhahrat el Qurein	Z̧ahrat al Qurayn	1	0.3108	0.6892	1
+สถานีอนามัยตำบลปากคาด	Rongrian Anuban Chakaphan	0	0.9049	0.0951	0
+Patowngay	Pātowngay	1	0.0401	0.9599	1
+Håbergsholene	Haberget	0	0.9273	0.0727	0
+新小岩駅	Shin-koiwa	1	0.4313	0.5687	1
+hwy px	ห้วยปอน้อย	0	0.9491	0.0509	0
+บ้านยางโยภาพ	ban yang yo phaph	1	0.0138	0.9862	1
+송두재	Songgang-ni	0	0.9969	0.0031	0
+Karaw	Geraw	1	0.1163	0.8837	1
+Golgīr	Golgin	0	0.8083	0.1917	0
+Mae Nong Han	Mae Naung Har	1	0.2251	0.7749	1
+shui mo tuan	chai juan	0	0.8571	0.1429	0
+Водохранилище Горкушка	Vodokhranilishche Gorkushka	1	0.0067	0.9933	1
+Lilla Rödja	Lilla Rødbaken	0	0.8898	0.1102	0
+Hoegryd	Hogryd	1	0.0946	0.9054	1
+Rembun Dua	Sumberaju 1	0	0.9040	0.0960	0
+Бјекси	bi e ke xi	1	0.0150	0.9850	1
+Arroyo Michol	San Andrés	0	0.9158	0.0842	0
+Navangoda	Nawangoda	1	0.0637	0.9363	1
+Khrebet Malyy Komandir-Musyur	Malyy Koloyar	0	0.9979	0.0021	0
+Nya Asang	Njakasang	1	0.2616	0.7384	1
+Русское	Russkoe	1	0.1739	0.8261	0
+Paso de las Yaretas	Paso de las Llaretas	1	0.0299	0.9701	1
+Jōye Jami	Jar-e Rahraw	0	0.9909	0.0091	0
+左家厦	Zuojiaxia	1	0.0111	0.9889	1
+drh mhr payyn	Kūh-e Lā Owtar	0	0.9998	0.0002	0
+Rosenlund	Bjorke	0	0.9598	0.0402	1
+Terhenanet	Turgot	0	0.9273	0.0727	0
+Романовская	Romanovskaja	1	0.1548	0.8452	1
+ماهور ورور	کلاته عباسان	0	1.0000	0.0000	0
+Nawe Khušk	Nawah-e Khoshk	1	0.3329	0.6671	1
+Pléneuf	Plened-Yugon	1	0.4259	0.5741	0
+Kuh-e Kikan	kwh kykan	1	0.0149	0.9851	1
+บ้านคลองตัน	บ้านโคกห้วย	0	1.0000	0.0000	0
+Bidak	klath bydk	1	0.2872	0.7128	1
+Ушур	Bol’shaya Ushma	0	0.9643	0.0357	0
+kwhi mwrn	Kuh-e Marun	1	0.0412	0.9588	1
+Нормье	Обтре	0	0.9732	0.0268	0
+Новый	Novyy	1	0.2361	0.7639	1
+칠룡동	Chinnyang-ni	0	0.9782	0.0218	0
+سیلم، نیوجرسی	Sejlem	1	0.1678	0.8322	1
+Nậm Khay	Thau Rou	0	0.9772	0.0228	0
+کفتر کوه	Gatae Ghar	1	0.0182	0.9818	1
+Anse de l'Antarctic	Pointe d’Anières	0	0.7577	0.2423	0
+Beduhtun	Beduhtum	1	0.1757	0.8243	1
+Kanday	shlagl	0	0.9640	0.0360	0
+Khlestovo	Хлёстово	1	0.1150	0.8850	1
+Gora Vazha	mltny	0	0.9302	0.0698	0
+Kavur	Kavuru	1	0.3114	0.6886	1
+Arshitskiy Khrebet	Таежка	0	0.9936	0.0064	0
+sha gou quan	沙沟圈	1	0.0085	0.9915	1
+Чилижный	Чилимный	0	0.9180	0.0820	0
+Sinpyeong-dong	sinpyeong2dong	1	0.3621	0.6379	1
+Jiucaigou	Laozhan	0	0.9999	0.0001	0
+重留東	Shigetome-higashi	1	0.1546	0.8454	1
+Al Abājiyyah Clinic and Mosque	msjd shahyn agha	0	0.9269	0.0731	0
+da cheng guo xiao	Ta-ch'eng Kuo-hsiao	1	0.0062	0.9938	1
+Vyshegrad	Vyshneye Vesëloye	0	0.9165	0.0835	0
+דיסנילנד	迪士尼度假區	1	0.3358	0.6642	1
+Shchedrinskiy Kanal	Shchedrinskiy	0	0.6157	0.3843	0
+Средняя Саланда	Srednjaja Salanda	1	0.0089	0.9911	1
+Koh-e Bandarak	Jare Kala-i-Khar	0	0.9984	0.0016	0
+โรงเรียนเสริมงามวิทยา	rongreiyn serimngam withya	1	0.0465	0.9535	1
+Pócuanina	Dirisaúa	0	0.9134	0.0866	0
+Wāhib Haveli	Wahāb ka Haweli	1	0.3426	0.6574	1
+평거동	chojangdong	0	0.9839	0.0161	0
+Ozero Melkoe	Ozero Melkoye	1	0.1579	0.8421	1
+Khuoi Dung	Khuoi Yen	0	0.8844	0.1156	0
+Hazukashi	羽束師	1	0.0986	0.9014	1
+Havchig Hudag	Havchig Eregiyn Sayr	0	0.9972	0.0028	0
+Tall Huwarah	Tall Huwwarah	1	0.0158	0.9842	1
+Uznatsk	Uzmëny Pervyye	0	0.9513	0.0487	0
+جزمودق	Jazmūdaq	1	0.0327	0.9673	1
+Pavlovka	Keshirovka	0	0.7811	0.2189	0
+Yukari Gemecuk	Yukarı Gemecuk	1	0.0520	0.9480	1
+nan gang gong ye qu	Li-chih-chiao	0	0.9952	0.0048	0
+ห้วยนาเหรี่ยง	hwy na he ri yng	1	0.0286	0.9714	1
+Urochishhe Glubinnoe	Urochishhe Sodom	0	0.9806	0.0194	0
+الحدبة العليا	Al Ḩadabah al ‘Ulyā	1	0.0017	0.9983	1
+Beraketa Avaratra	Beraketa	1	0.3130	0.6870	0
+Gangzhaocun	gang zhao cun	1	0.0044	0.9956	1
+wady hlyk althyb	الچعليب	0	0.5778	0.4222	0
+san fu xing de	三复兴地	1	0.0138	0.9862	1
+`Arshunih	Archouk	0	0.9320	0.0680	0
+Uadi es Sellum	Wadi as Sallum	1	0.1433	0.8567	1
+赤良峪	tai di	0	0.9899	0.0101	0
+Wonoredjo 2	Wonoredjo	1	0.1506	0.8494	1
+Taria	Tar Jualkua	0	0.8877	0.1123	0
+قرية كفشه	Qaryat Kafshah	1	0.0375	0.9625	1
+Русский Байтуган	Русский Вазям	0	0.9986	0.0014	0
+Mys Ngayap	Mys Ngayan	0	0.6914	0.3086	1
+Río Choro	Río Choricha	0	0.8709	0.1291	0
+Saetersaetra	Sætersætra	1	0.0973	0.9027	1
+kiminarita	Kiminarita Bashi	1	0.3882	0.6118	0
+Huai Nam Khun	ห้วยน้ำขุ่น	1	0.0732	0.9268	1
+mu tou yuan	三屋台	0	0.9995	0.0005	0
+Trehorningen	Trehörningen	1	0.1528	0.8472	1
+Saitova	Urochishche Segondino	0	0.9372	0.0628	0
+kwh bnd nwn	Kuh-e Band Nun	1	0.0330	0.9670	1
+郭刘村	田圩村	0	0.9999	0.0001	0
+Yuan-yang	Yüan-yang-p’u	1	0.3934	0.6066	1
+Hnj	Río Tuas-Tuás	0	0.6672	0.3328	0
+باغ سالم	Bagh-e Salem	1	0.0084	0.9916	1
+Kampung Napagang	Kampong Naka	0	0.5566	0.4434	0
+Новомихайловка	Novomikhaylovka	1	0.2414	0.7586	1
+Ban Nang	Bản Khau Hú	0	0.9018	0.0982	0
+Lifèbre	Lifebe	1	0.3225	0.6775	1
+Munyau	Tjimuntur	0	0.5788	0.4212	0
+บ้านปากหวะ	Ban Pak Wa	1	0.1096	0.8904	1
+Hsiu Shui	dao zi yuan keng	0	0.9985	0.0015	0
+البو شنندخ	Albu Shanandakh	1	0.0100	0.9900	1
+Soch’ŏng-bong	Kwittaegich'ong-bong	0	0.6198	0.3802	0
+Fossilberg	Mount Fossil	0	0.7337	0.2663	1
+da gan zi	Doujia Liangzi	0	0.8479	0.1521	0
+Kuznezovo	Kuznecovo	1	0.3812	0.6188	1
+رودخانه کلّه مکان	چاه محمّد غلامرضا	0	0.9991	0.0009	0
+Nordigard Stadsbuoye	Nordigard Stadsbuøien	1	0.1613	0.8387	1
+香田湾	bei wei dai	0	0.9998	0.0002	0
+Kasha	Qāšā	1	0.1729	0.8271	1
+Shachenghu	Zhuyingtong	0	0.9917	0.0083	0
+Çatköy	Cat Koyu	1	0.4158	0.5842	1
+二十家子	农场屯	0	1.0000	0.0000	0
+Régnier	Regner	1	0.1167	0.8833	1
+Anavryton	Αναβρυτά	1	0.2313	0.7687	0
+Квебецький університет у Монреалі	kebekku da xuemontorioru xiao	1	0.0268	0.9732	1
+Молодетский Курган	Moloden	0	0.5880	0.4120	0
+kwsh	کوش	1	0.0514	0.9486	1
+わりた	おんじゃくがわ	0	0.9996	0.0004	0
+วัดบุนนาค	wad bunnakh	1	0.0036	0.9964	1
+Sor Stolen	Stjervagen	0	0.9181	0.0819	0
+كَرنِه	Kizmya	1	0.4776	0.5224	1
+lu du shi keng	Lu-tung-ts'un	0	0.5740	0.4260	0
+Secheonjebang	세천제방	1	0.0040	0.9960	1
+Yang-ch'on	Kungnak-sa	0	0.7501	0.2499	0
+Losubunu	Laiiriiri	0	0.9192	0.0808	1
+Коті-Кяварі	Альці	0	0.9898	0.0102	0
+北昌村	Beichang Cun	1	0.0119	0.9881	1
+چاه زيارت	چاه گداری	0	0.8866	0.1134	0
+Uliga Island	Ulika	1	0.2296	0.7704	1
+Chāpūn	Chāh Āb Sīrī	0	0.9872	0.0128	0
+Лубиницина	Lubinicina	1	0.0496	0.9504	1
+wad rachphvksʹ singkhr	Wat Pho Si Ban Nong Kung	0	0.9203	0.0797	0
+San Sebastian	Atlahapa	1	0.3499	0.6501	1
+Shatt al Hizami	Burj al Ḩişār	0	0.9950	0.0050	0
+Zangīābād	zngy abad	1	0.1892	0.8108	1
+a ke ta shen	di kan er xiang mu ye	0	0.9754	0.0246	0
+榆林角	Yulin Jiao	1	0.0040	0.9960	1
+Gilcheongyohoe	sam-wonsan-eob	0	0.9983	0.0017	0
+da du	Dadu	1	0.0322	0.9678	1
+Dimos Kea	Dimos Kythnos	1	0.4630	0.5370	0
+Tell el-Torha	Tall aţ Ţurḩah	1	0.0920	0.9080	1
+As Sina’ayi	As Sikak	0	0.9755	0.0245	0
+Dangdong	dang dong	1	0.0152	0.9848	1
+Oteraa	Gorssasjohka	0	0.9168	0.0832	0
+Sainte Marie Point	Saint Mary's Point	1	0.0586	0.9414	1
+Corihon	Curichi	0	0.9847	0.0153	0
+Liangchong	liang chong	1	0.0162	0.9838	1
+Doğan Adası	Dogan	1	0.4060	0.5940	0
+Shuguang	shu guang	1	0.0279	0.9721	1
+mi gai lei te	Міньєр	1	0.4976	0.5024	0
+Przytyk	פשיטיק	1	0.1006	0.8994	1
+Rongrian Ban Tham Nop	Rongrian Ban Nong Yo Khok Puet	0	0.9841	0.0159	0
+Kamberlend	Cumberland	1	0.1785	0.8215	1
+Opština Beograd-Voždovac	Voljcince	0	0.9791	0.0209	0
+Olon Huryee	Olon Hüryee	1	0.0726	0.9274	1
+xia bu qu	Wu-ch’ia Hsien	0	0.9950	0.0050	0
+Halte de Riviere	Ancien Halte de Riviere	1	0.4222	0.5778	1
+huang ni tang	da wo li	0	1.0000	0.0000	0
+Bläcken	Blacken	1	0.1252	0.8748	1
+Beit Shāy	Bestiâs	0	0.8492	0.1508	0
+水口围	Shuikouwei	1	0.1354	0.8646	1
+童家冲	zhong men wang	0	0.9998	0.0002	0
+Sungai Televai	Sungai Talavai	1	0.0309	0.9691	1
+Arji tsmak	Arjiglux	0	0.9615	0.0385	0
+Chehel Cheshmeh	چهل چشمه	1	0.0199	0.9801	1
+Stantsiya Znam"yanka-Pasazhyrs'ke	Znam'janka	0	0.9959	0.0041	0
+Ozero Ledyanoye	Озеро Ледяное	1	0.0233	0.9767	1
+Kalomyråsen	Dromas	0	0.8559	0.1441	0
+Āqā Shāh ‘Abbās	Aqa Shah `Abbas	1	0.0215	0.9785	1
+Рамниште	Prosechenik	0	0.9388	0.0612	0
+مستشفى الجمهورية	Republic Hospital for Poor Citizens	0	0.7967	0.2033	1
+สำนักสงฆ์บ้านคลองครก	rongreiyn ban chxng ka phad	0	0.9999	0.0001	0
+Takhsil’darkala	تحصیلدار کلا	1	0.0429	0.9571	1
+Ojae	Obutsu-tō	1	0.4836	0.5164	0
+ban hwy na bx	บ้านห้วยน้ำบ่อ	1	0.0378	0.9622	1
+Ma`qarah	Al Kawmah	0	0.9631	0.0369	0
+Ovinishche Pervoye	Stancija Ovinishhe Pervoe	1	0.0683	0.9317	1
+Qāsemīyeh	dsht kfh hwd wla	0	0.9886	0.0114	0
+Beidongjia	北董家	1	0.0054	0.9946	1
+Sŏ-ri	Shō-rashin-dō	0	0.8793	0.1207	0
+An-t'ung Ch'iao	安通橋	1	0.0235	0.9765	1
+Ko Chat	Huai Cha Sup Yong	0	0.9956	0.0044	0
+albqamt	Al Baqāmah	1	0.0239	0.9761	1
+Suurijärvi	Gora Suorsapyaya	0	0.6945	0.3055	0
+Chumaj	Ciumai	1	0.1333	0.8667	1
+Longli	Xining	0	0.9959	0.0041	0
+Bissandac	Djoede	0	0.8296	0.1704	1
+`Izbat al Kawm	`Izbat al Hamamiyah	0	0.9979	0.0021	0
+Shahid Fawt	الشاهد	0	0.6177	0.3823	1
+Danacun	Mute	0	0.9404	0.0596	0
+`Izbat Ishaq	‘Izbat Isḩāq	1	0.0377	0.9623	1
+吊钩岭	fang wu li	0	0.9981	0.0019	0
+Renhedian	ren he dian	1	0.0421	0.9579	1
+dlawt	الذراع	0	0.9901	0.0099	0
+pu lei ma er tan	Pleumartin	1	0.0505	0.9495	1
+Ugol'naya	Dal'nyaya	0	0.5924	0.4076	0
+Sadki	Садки	1	0.0780	0.9220	1
+bongsanmyeonsamuso	myosanmyeonsamuso	1	0.2903	0.7097	0
+Soonlepa Asundus	Soonlepa	1	0.1761	0.8239	1
+Ban Saphan Si	ban mab talung	0	0.9979	0.0021	0
+Deh-e Ḩoseyn Mashhadī	hsyn mshhdy	1	0.1570	0.8430	1
+ایستگاه مخابراتی کریم	کوه کفتراشان	0	0.9998	0.0002	0
+wad phra kum s yesu	วัดพระกุมสเยซู	1	0.0099	0.9901	1
+Alata	Alaschehir	0	0.9831	0.0169	0
+尕措拉翁	Gacuolaweng	1	0.0312	0.9688	1
+任家沟	Shuanglongchang	0	0.9996	0.0004	0
+قدمگاه خضر	حضرت خضر	0	0.7189	0.2811	1
+Bol’shaya Rechka	Bol'shaja Rechka	1	0.3029	0.6971	0
+Xiaoxishan	小西山	1	0.0184	0.9816	1
+dsht mysh	کوه انجیری	0	0.9980	0.0020	0
+در هود	Darreh Hūd	1	0.0030	0.9970	1
+Margitha	Malo Središte	0	0.6876	0.3124	0
+Lukashivka	Lukashevka	1	0.2625	0.7375	1
+Sayyidah	Al A`bili Al Mahfuz	0	0.9769	0.0231	0
+Hūfel	Ahufal	1	0.2592	0.7408	1
+Sangdae-mot	Hwangsaemong-mot	0	0.9677	0.0323	0
+Tendl Alpe	Pölla	0	0.7270	0.2730	1
+Bi'r Khamis	‘Ayn Khamīs	0	0.9672	0.0328	0
+Nong Phratham	หนองพระธรรม	1	0.0738	0.9262	1
+Dasht-e Khākak	Dašte Khākak	1	0.0292	0.9708	0
+Phu Koi	ภูกอย	1	0.0438	0.9562	1
+大王家	zheng tun	0	0.9996	0.0004	0
+ku long re	库隆热	1	0.1014	0.8986	1
+Soltanabad	Sharif	0	0.9015	0.0985	0
+درۀ بابا مشکلال	Darah-ye Baba-Mushkilal	1	0.0004	0.9996	1
+shiroieki	Keisei Inage-eki	0	0.9916	0.0084	0
+Cheshmeh-ye Aqbolagh	چشمه آغبلاغ	1	0.0048	0.9952	1
+feng gang xiang	xu ji	0	1.0000	0.0000	0
+Sambara River	Sambara Stream	1	0.2612	0.7388	1
+Kasevere	Aoveski	1	0.4952	0.5048	0
+Darreh Gīlā	Darreh-ye Gīlā	1	0.0214	0.9786	1
+イマイズミ	イマベツマチ	0	0.9596	0.0404	0
+Podkozlovaca	Podkozlovača	1	0.0980	0.9020	1
+Darah-ye Garm Ābak	Rode Gharji	0	0.9997	0.0003	0
+Bozoro I	Bodzoro	1	0.2918	0.7082	1
+仲家槽	na yan	0	0.9993	0.0007	0
+Bezbozhnyy	Безбожный	1	0.0339	0.9661	1
+马家湾	da luo keng	0	1.0000	0.0000	0
+古里町	Furusatochō	1	0.2575	0.7425	1
+Ḩoseynābād	Mazra`eh-ye Mohammadabad	0	0.8144	0.1856	0
+Kambong Batangan	Kampong Batangan	1	0.0370	0.9630	1
+الحمة	Ar Rawd	0	0.9997	0.0003	0
+Val'gejyeh	Valgeyye	1	0.2867	0.7133	1
+Gardiner Range	Lake Gairdner	1	0.3751	0.6249	0
+Kalbkhani	Kalbi Khaneh	0	0.5077	0.4923	1
+Demiryurt Golu	Todurke	0	0.6828	0.3172	0
+Сен-Рестітю	Sen-Restitju	1	0.0180	0.9820	1
+Vasiljovo	Ozero Azarovskoye	0	0.9955	0.0045	0
+Rottovarre	Rohtovárri	1	0.2267	0.7733	1
+zhang jia lou zi	Chenjiawan	0	0.9980	0.0020	0
+Kahran	کهران	1	0.1116	0.8884	1
+Ile Lytiry	Лис-ле-Ланнуа	0	0.9180	0.0820	0
+Chia-hsien	Chia-hsien-ku-chih	0	0.5365	0.4635	1
+船湾陈屋	Shuen Wan	0	0.9796	0.0204	0
+Twala	Tubualá	1	0.3314	0.6686	1
+Douar Slâtna	Oulad Sidi Taïeb	0	0.8373	0.1627	0
+Danau Champlain	Champlainsjön	0	0.6677	0.3323	1
+Sllupçanje	Sloestica	0	0.9695	0.0305	0
+tmtraq	Tamtorab-e Qaranqu	1	0.4257	0.5743	1
+Jung-nung Ch’iao	Fufong Ciao	0	0.9986	0.0014	0
+Čaghāl Mānděh	Caghal Mandeh	1	0.0841	0.9159	1
+`Ajar Kuy	Halisa al Kabirah	0	0.9980	0.0020	0
+ドッコザン	Dokko Zan	1	0.0900	0.9100	1
+Minţaqat az Zaynabīyah	Qaryat Albu Mahdi	0	0.9993	0.0007	0
+Olon Ovoonï Hyar	A-la-ko	0	0.9623	0.0377	1
+Кричевичі	Крейдяне	0	0.9992	0.0008	0
+Korfaí	Korfai	1	0.1782	0.8218	1
+枫二村	痲疯村	0	0.9994	0.0006	0
+วัดป่าธรรมชาติบ้านโคกกลาง	wad pa thrrmchati ban khok klang	1	0.0910	0.9090	1
+كوهبل الشمالية جري	Khalaf aş Şābir	1	0.4570	0.5430	0
+Feng-kang Ch'iao	Fonggang Ciao	1	0.0385	0.9615	1
+Gunbad-e Bālā	Darya-i-Tāloqān	0	0.9893	0.0107	0
+تلمبه والفجر	Tolombeh-ye Valfajr	1	0.0018	0.9982	1
+hnxng krang	hnxngcik	0	0.9886	0.0114	0
+Comune di Arqua Polesine	Arqua Polesine	1	0.2080	0.7920	1
+Pokrov	Покров	1	0.2385	0.7615	0
+Zirabiyeh	زيرينِه	0	0.7419	0.2581	1
+song po	Shigengmu	0	0.8356	0.1644	0
+Sohrāi	Sohrai	1	0.0781	0.9219	1
+Cheongyong	Jupyeong	0	0.9804	0.0196	0
+Yotume Iwa	Firaugnutane	0	0.7619	0.2381	1
+Rudkhaneh-ye Ab Barik	Abaresh	0	0.9840	0.0160	0
+Tur‘at Kafr al Manāzilah	Tur`at Kafr al Manazilah	1	0.0298	0.9702	1
+Ban Mueang Mai	Ban Mueang Maet	0	0.6510	0.3490	0
+Ulitsa Zakharova	Ulica Zakharova	1	0.0406	0.9594	1
+Kharōṯī	Khaṟōti	0	0.5722	0.4278	0
+tao yuan	Taoyuan	1	0.0114	0.9886	1
+imaizumigawa	切明沢	0	0.5855	0.4145	0
+古谷本郷	gu gu ben xiang	1	0.0313	0.9687	1
+Levakhane	Lets'urtsume	0	0.9706	0.0294	0
+Wuduhe	wu dou he	1	0.0156	0.9844	1
+Shavits’q’ali	K’ach’k’ach’is Ts’q’ali	1	0.1627	0.8373	0
+蔡江乡	Ts'ai-chiang	1	0.1271	0.8729	1
+Mirnaya	Буда-Кошелёвский Биологический Заказник	0	0.9990	0.0010	0
+Nāḩiyat Markaz Qaḑā’ al Karkh	ناحية مركز قضاء الكرخ	1	0.0110	0.9890	1
+lao chi	bai qiao jiu dui	0	0.9751	0.0249	0
+Sŏso-ri	Soso-ri	1	0.1359	0.8641	1
+Göydağ	Ləkətağ Mineral Bulaqları	0	0.9319	0.0681	0
+Matangcun	ma tang cun	1	0.0024	0.9976	1
+sha mu guo dong lei	tu lei	0	1.0000	0.0000	0
+Ожі	ao ji	1	0.0596	0.9404	1
+Xam Xuang	Houay Xuak	0	0.9321	0.0679	0
+Talangok Kūh	Talangok Koh	1	0.0446	0.9554	1
+Guṟgak	کوه کورسنگ	0	0.9978	0.0022	0
+Mikhal'tsovo	Mikhal'covo	1	0.1887	0.8113	1
+Arroyo Arroyon	Arroyon	1	0.1980	0.8020	0
+nan jiang xia	Nanjiangxia	1	0.0134	0.9866	1
+Tiantouqi	檨仔灣	0	0.9998	0.0002	0
+Junggugyo	jung-gugyo	1	0.0244	0.9756	1
+Nonttung-mal	산해3리	0	0.9989	0.0011	0
+Badam Bogeni	Бадам Бөгені	1	0.0281	0.9719	1
+Rongrian Ban Nong Bun Chu	Wat Chai Sathan Tham	0	1.0000	0.0000	0
+وین، پنسلوانیا	Wayne	1	0.0878	0.9122	1
+ban nxy phatʹhna	ban sa pa han	0	0.9700	0.0300	0
+Jabal el Laqloûq	Jabal al Laqluq	1	0.0996	0.9004	1
+Shumunde	Quebrada Chumbo	0	0.7509	0.2491	0
+Garmekhani	grmkhany	1	0.0546	0.9454	1
+Donova	Khrebet Dongul-Tajga	0	0.8969	0.1031	0
+چشمه غلام حسين	Cheshmeh-ye Gholām Ḩoseyn	1	0.0014	0.9986	1
+Stung Banteay Thlok	Srok Babaur	0	0.9258	0.0742	0
+Bal’tromishkyay	Baltromiskiu	1	0.2036	0.7964	1
+Bīchūyeh	Pahn Chāh	0	0.7831	0.2169	0
+岡山市北区	gang shan shi bei qu	1	0.0073	0.9927	1
+Umm Muwaylat	Khabra Oum Moueil	0	0.9301	0.0699	0
+Trollskjera	Trollskjaeran	1	0.0210	0.9790	1
+Ban Nong Yang	banri khok	0	0.9885	0.0115	0
+Stephane-Gsell	Hakimia	0	0.7080	0.2920	1
+Hsia-tung-she	Siadongshe	1	0.1954	0.8046	1
+Ritsugan-do	Ibam-dong	0	0.8742	0.1258	0
+Golchan'	Goltsjan	1	0.1932	0.8068	1
+wang ge zhuang	大刁家	0	1.0000	0.0000	0
+Chợ Đồn	Cho Don	1	0.1387	0.8613	1
+Yuvesna	Asprogeia	0	0.9529	0.0471	0
+Bayt al `Ari	Bayt al ‘Ārī	1	0.0458	0.9542	1
+Ozero Chudskoye	Chudskoye	0	0.8821	0.1179	0

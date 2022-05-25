@@ -1,0 +1,20 @@
+
+# s1	s2	prediction	p0	p1	label
+Sang-e Siyah	Sang Sīāh	1	0.4626	0.5374	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+ma lian lin chang	Malian Linchang	1	0.2549	0.7451	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+Sang-e Siyah	Sang Sīāh	1	0.4626	0.5374	1
+Sang-e Siyah	Sang Sīāh	1	0.4626	0.5374	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+ma lian lin chang	Malian Linchang	1	0.2549	0.7451	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+Sang-e Siyah	Sang Sīāh	1	0.4626	0.5374	1
+Sang-e Siyah	Sang Sīāh	1	0.4626	0.5374	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+ma lian lin chang	Malian Linchang	1	0.2549	0.7451	1
+Zhangjiawobao	张家窝堡	0	0.5660	0.4340	1
+Sang-e Siyah	Sang Sīāh	1	0.4626	0.5374	1

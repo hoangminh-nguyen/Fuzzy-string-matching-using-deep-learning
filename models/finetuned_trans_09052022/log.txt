@@ -1,0 +1,73 @@
+# 05/09/2022_06:52:19
+# Current directory: /home/vanltt4/src/DeezyMatch-master
+# ------------------
+# Arguments:
+# input_file_path: /home/vanltt4/src/DeezyMatch-master/models/transformer_cn/input_dfm_rnn.yaml
+# dataset_path: /home/vanltt4/src/DeezyMatch-master/dataset/dataset-unfiltered.txt
+# model_name: finetuned_trans_09052022
+# pretrained_model_path: /home/vanltt4/src/DeezyMatch-master/models/transformer_cn/transformer_cn.model
+# pretrained_vocab_path: /home/vanltt4/src/DeezyMatch-master/models/transformer_cn/transformer_cn.vocab
+# n_train_examples: None
+# ------------------
+05/09/2022_06:54:11 -- Epoch: 1/10; Train; loss: 0.158; acc: 0.944; precision: 0.953, recall: 0.935, macrof1: 0.944, weightedf1: 0.944
+05/09/2022_06:54:34 -- Epoch: 1/10; Valid; loss: 0.143; acc: 0.951; precision: 0.966, recall: 0.934, macrof1: 0.951, weightedf1: 0.951
+05/09/2022_06:56:23 -- Epoch: 2/10; Train; loss: 0.137; acc: 0.951; precision: 0.961, recall: 0.941, macrof1: 0.951, weightedf1: 0.951
+05/09/2022_06:56:46 -- Epoch: 2/10; Valid; loss: 0.136; acc: 0.952; precision: 0.967, recall: 0.936, macrof1: 0.952, weightedf1: 0.952
+05/09/2022_06:58:34 -- Epoch: 3/10; Train; loss: 0.130; acc: 0.954; precision: 0.964, recall: 0.944, macrof1: 0.954, weightedf1: 0.954
+05/09/2022_06:58:57 -- Epoch: 3/10; Valid; loss: 0.133; acc: 0.953; precision: 0.961, recall: 0.945, macrof1: 0.953, weightedf1: 0.953
+05/09/2022_07:00:46 -- Epoch: 4/10; Train; loss: 0.125; acc: 0.956; precision: 0.966, recall: 0.946, macrof1: 0.956, weightedf1: 0.956
+05/09/2022_07:01:09 -- Epoch: 4/10; Valid; loss: 0.132; acc: 0.955; precision: 0.973, recall: 0.935, macrof1: 0.955, weightedf1: 0.955
+05/09/2022_07:02:58 -- Epoch: 5/10; Train; loss: 0.122; acc: 0.957; precision: 0.966, recall: 0.946, macrof1: 0.957, weightedf1: 0.957
+05/09/2022_07:03:20 -- Epoch: 5/10; Valid; loss: 0.129; acc: 0.956; precision: 0.972, recall: 0.938, macrof1: 0.956, weightedf1: 0.956
+05/09/2022_07:05:09 -- Epoch: 6/10; Train; loss: 0.119; acc: 0.958; precision: 0.968, recall: 0.948, macrof1: 0.958, weightedf1: 0.958
+05/09/2022_07:05:32 -- Epoch: 6/10; Valid; loss: 0.128; acc: 0.956; precision: 0.969, recall: 0.942, macrof1: 0.956, weightedf1: 0.956
+05/09/2022_07:07:20 -- Epoch: 7/10; Train; loss: 0.116; acc: 0.959; precision: 0.969, recall: 0.949, macrof1: 0.959, weightedf1: 0.959
+05/09/2022_07:07:43 -- Epoch: 7/10; Valid; loss: 0.127; acc: 0.955; precision: 0.961, recall: 0.949, macrof1: 0.955, weightedf1: 0.955
+05/09/2022_07:09:31 -- Epoch: 8/10; Train; loss: 0.114; acc: 0.960; precision: 0.969, recall: 0.950, macrof1: 0.960, weightedf1: 0.960
+05/09/2022_07:09:54 -- Epoch: 8/10; Valid; loss: 0.127; acc: 0.956; precision: 0.967, recall: 0.944, macrof1: 0.956, weightedf1: 0.956
+05/09/2022_07:11:42 -- Epoch: 9/10; Train; loss: 0.112; acc: 0.960; precision: 0.970, recall: 0.950, macrof1: 0.960, weightedf1: 0.960
+05/09/2022_07:12:05 -- Epoch: 9/10; Valid; loss: 0.126; acc: 0.957; precision: 0.971, recall: 0.942, macrof1: 0.957, weightedf1: 0.957
+05/09/2022_07:13:54 -- Epoch: 10/10; Train; loss: 0.111; acc: 0.961; precision: 0.970, recall: 0.951, macrof1: 0.961, weightedf1: 0.961
+05/09/2022_07:14:16 -- Epoch: 10/10; Valid; loss: 0.128; acc: 0.957; precision: 0.972, recall: 0.941, macrof1: 0.957, weightedf1: 0.957
+05/09/2022_07:25:11 -- Epoch: 0/0; Test; loss: 0.127; acc: 0.957; precision: 0.971, recall: 0.941, macrof1: 0.957, weightedf1: 0.957
+05/14/2022_04:13:52 -- Epoch: 0/0; Test; loss: 1.555; acc: 0.714; precision: 0.650, recall: 0.929, macrof1: 0.699, weightedf1: 0.700
+05/14/2022_04:42:30 -- Epoch: 0/0; Test; loss: 1.555; acc: 0.714; precision: 0.650, recall: 0.929, macrof1: 0.699, weightedf1: 0.700
+05/14/2022_04:43:10 -- Epoch: 0/0; Test; loss: 1.555; acc: 0.714; precision: 0.650, recall: 0.929, macrof1: 0.699, weightedf1: 0.700
+05/14/2022_07:21:13 -- Epoch: 0/0; Test; loss: 1.555; acc: 0.714; precision: 0.650, recall: 0.929, macrof1: 0.699, weightedf1: 0.700
+05/14/2022_08:23:28 -- Epoch: 0/0; Test; loss: 0.268; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:23:30 -- Epoch: 0/0; Test; loss: 1.922; acc: 0.400; precision: 0.000, recall: 0.000, macrof1: 0.286, weightedf1: 0.571
+05/14/2022_08:23:32 -- Epoch: 0/0; Test; loss: 0.290; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:23:34 -- Epoch: 0/0; Test; loss: 0.469; acc: 0.600; precision: 0.000, recall: 0.000, macrof1: 0.375, weightedf1: 0.750
+05/14/2022_08:23:36 -- Epoch: 0/0; Test; loss: 0.525; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:23:38 -- Epoch: 0/0; Test; loss: 0.652; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:23:40 -- Epoch: 0/0; Test; loss: 0.543; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:23:42 -- Epoch: 0/0; Test; loss: 0.994; acc: 0.400; precision: 0.000, recall: 0.000, macrof1: 0.286, weightedf1: 0.571
+05/14/2022_08:23:45 -- Epoch: 0/0; Test; loss: 1.057; acc: 0.200; precision: 0.000, recall: 0.000, macrof1: 0.167, weightedf1: 0.333
+05/14/2022_08:23:47 -- Epoch: 0/0; Test; loss: 0.532; acc: 0.600; precision: 0.000, recall: 0.000, macrof1: 0.375, weightedf1: 0.750
+05/14/2022_08:23:49 -- Epoch: 0/0; Test; loss: 1.365; acc: 0.000; precision: 0.000, recall: 0.000, macrof1: 0.000, weightedf1: 0.000
+05/14/2022_08:23:51 -- Epoch: 0/0; Test; loss: 1.731; acc: 0.400; precision: 0.000, recall: 0.000, macrof1: 0.286, weightedf1: 0.571
+05/14/2022_08:23:53 -- Epoch: 0/0; Test; loss: 0.238; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:23:56 -- Epoch: 0/0; Test; loss: 0.173; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:23:58 -- Epoch: 0/0; Test; loss: 0.823; acc: 0.400; precision: 0.000, recall: 0.000, macrof1: 0.286, weightedf1: 0.571
+05/14/2022_08:24:00 -- Epoch: 0/0; Test; loss: 0.509; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:24:02 -- Epoch: 0/0; Test; loss: 0.658; acc: 0.400; precision: 0.000, recall: 0.000, macrof1: 0.286, weightedf1: 0.571
+05/14/2022_08:24:04 -- Epoch: 0/0; Test; loss: 0.877; acc: 0.200; precision: 0.000, recall: 0.000, macrof1: 0.167, weightedf1: 0.333
+05/14/2022_08:24:07 -- Epoch: 0/0; Test; loss: 0.987; acc: 0.600; precision: 0.000, recall: 0.000, macrof1: 0.375, weightedf1: 0.750
+05/14/2022_08:24:09 -- Epoch: 0/0; Test; loss: 0.151; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:28:15 -- Epoch: 0/0; Test; loss: 0.268; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:28:17 -- Epoch: 0/0; Test; loss: 1.922; acc: 0.400; precision: 0.000, recall: 0.000, macrof1: 0.286, weightedf1: 0.571
+05/14/2022_08:28:19 -- Epoch: 0/0; Test; loss: 0.290; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:31:02 -- Epoch: 0/0; Test; loss: 0.268; acc: 1.000; precision: 0.000, recall: 0.000, macrof1: 1.000, weightedf1: 1.000
+05/14/2022_08:31:04 -- Epoch: 0/0; Test; loss: 0.614; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:34:23 -- Epoch: 0/0; Test; loss: 0.614; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:34:58 -- Epoch: 0/0; Test; loss: 0.614; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:35:37 -- Epoch: 0/0; Test; loss: 0.614; acc: 0.800; precision: 0.000, recall: 0.000, macrof1: 0.444, weightedf1: 0.889
+05/14/2022_08:37:12 -- Epoch: 0/0; Test; loss: 0.385; acc: 0.857; precision: 1.000, recall: 0.500, macrof1: 0.788, weightedf1: 0.840
+05/14/2022_08:39:23 -- Epoch: 0/0; Test; loss: 0.403; acc: 0.765; precision: 0.000, recall: 0.000, macrof1: 0.433, weightedf1: 0.714
+05/14/2022_08:39:49 -- Epoch: 0/0; Test; loss: 0.358; acc: 0.818; precision: 0.000, recall: 0.000, macrof1: 0.450, weightedf1: 0.777
+05/14/2022_08:41:32 -- Epoch: 0/0; Test; loss: 0.295; acc: 0.917; precision: 1.000, recall: 0.500, macrof1: 0.810, weightedf1: 0.905
+05/14/2022_08:47:10 -- Epoch: 0/0; Test; loss: 1.555; acc: 0.714; precision: 0.650, recall: 0.929, macrof1: 0.699, weightedf1: 0.700
+05/14/2022_08:50:00 -- Epoch: 0/0; Test; loss: 1.756; acc: 0.500; precision: 1.000, recall: 0.500, macrof1: 0.333, weightedf1: 0.667
+05/14/2022_08:52:18 -- Epoch: 0/0; Test; loss: 0.760; acc: 0.500; precision: 0.000, recall: 0.000, macrof1: 0.333, weightedf1: 0.667
+05/14/2022_08:53:10 -- Epoch: 0/0; Test; loss: 1.555; acc: 0.714; precision: 0.650, recall: 0.929, macrof1: 0.699, weightedf1: 0.700
+05/14/2022_09:05:30 -- Epoch: 0/0; Test; loss: 0.760; acc: 0.500; precision: 0.000, recall: 0.000, macrof1: 0.333, weightedf1: 0.667

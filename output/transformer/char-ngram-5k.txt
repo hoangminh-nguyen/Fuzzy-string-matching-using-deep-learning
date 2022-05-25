@@ -1,0 +1,19 @@
+# 04/05/2022_14:11:44
+# Current directory: d:\KLTN\DeezyMatch-master
+# ------------------
+# Arguments:
+# input_file_path: d:\KLTN\DeezyMatch-master\inputs\input_dfm_notebook_001.yaml
+# dataset_path: d:\KLTN\DeezyMatch-master\dataset\dataset-string-matching_train.txt
+# model_name: test001
+# n_train_examples: None
+# ------------------
+04/05/2022_14:11:58 -- Epoch: 1/5; Train; loss: 0.797; acc: 0.486; precision: 0.484, recall: 0.419, macrof1: 0.483, weightedf1: 0.483
+04/05/2022_14:11:59 -- Epoch: 1/5; Valid; loss: 0.710; acc: 0.499; precision: 0.499, recall: 0.976, macrof1: 0.351, weightedf1: 0.351
+04/05/2022_14:12:09 -- Epoch: 2/5; Train; loss: 0.694; acc: 0.525; precision: 0.525, recall: 0.524, macrof1: 0.525, weightedf1: 0.525
+04/05/2022_14:12:11 -- Epoch: 2/5; Valid; loss: 0.696; acc: 0.483; precision: 0.478, recall: 0.379, macrof1: 0.477, weightedf1: 0.477
+04/05/2022_14:12:21 -- Epoch: 3/5; Train; loss: 0.683; acc: 0.561; precision: 0.561, recall: 0.566, macrof1: 0.561, weightedf1: 0.561
+04/05/2022_14:12:23 -- Epoch: 3/5; Valid; loss: 0.695; acc: 0.499; precision: 0.499, recall: 0.544, macrof1: 0.498, weightedf1: 0.498
+04/05/2022_14:12:33 -- Epoch: 4/5; Train; loss: 0.675; acc: 0.608; precision: 0.610, recall: 0.598, macrof1: 0.608, weightedf1: 0.608
+04/05/2022_14:12:35 -- Epoch: 4/5; Valid; loss: 0.696; acc: 0.499; precision: 0.499, recall: 0.523, macrof1: 0.498, weightedf1: 0.498
+04/05/2022_14:12:45 -- Epoch: 5/5; Train; loss: 0.670; acc: 0.581; precision: 0.585, recall: 0.561, macrof1: 0.581, weightedf1: 0.581
+04/05/2022_14:12:46 -- Epoch: 5/5; Valid; loss: 0.704; acc: 0.500; precision: 0.500, recall: 0.901, macrof1: 0.404, weightedf1: 0.404
