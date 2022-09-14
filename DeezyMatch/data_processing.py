@@ -194,7 +194,7 @@ def test_tokenize(dataset_path, train_vocab,missing_char_threshold=0.5,
         dataset_pd = dataset_path
     else:
         cprint('[INFO]', bc.dgreen, 'read CSV file: {}'.format(dataset_path))
-        ds_fio = open(dataset_path, "r")
+        ds_fio = open(dataset_path, "r", encoding="utf8")
         df_list = ds_fio.readlines()
         for i in range(len(df_list)):
             tmp_split_row = df_list[i].split(csv_sep)
@@ -408,8 +408,8 @@ def m_split_dataset(dataset_path, train_prop=0.7, val_prop=0.15, test_prop=0.15,
     # if any remainder, assign to train
     train = train.append(dataset_pd[n_train+n_val+n_test:])
     
-    train.to_csv(r'./dataset/finetuned-train.txt', header=None, index=None, sep=csv_sep, mode='w')
-    valid.to_csv(r'./dataset/finetuned-test.txt', header=None, index=None, sep=csv_sep, mode='w')
-    test.to_csv(r'./dataset/finetuned-valid.txt', header=None, index=None, sep=csv_sep, mode='w')
+    train.to_csv(r'./dataset/wiki-train.txt', header=None, index=None, sep=csv_sep, mode='w')
+    valid.to_csv(r'./dataset/wiki-test.txt', header=None, index=None, sep=csv_sep, mode='w')
+    test.to_csv(r'./dataset/wiki-valid.txt', header=None, index=None, sep=csv_sep, mode='w')
     
     return train, valid, test

@@ -1,0 +1,1216 @@
+Liszt Ferencz	Liszt-Brugnoli	0	0.9594	0.0406	1
+Singelaer	Cingelaar Melchior	0	0.8261	0.1739	1
+Britto Giovanni	Breit Johannes	0	0.8207	0.1793	1
+Pēkšēns Konstantīns	Hohenleiter y de Castro Francisco de P.	1	0.3406	0.6594	0
+Konstantīns Pēkšēns	Hohenleiter de Castro Francisco	1	0.4395	0.5605	0
+Association suisse pour châteaux et ruines	Schweizerischer Burgenverein	0	0.8413	0.1587	1
+Milward Mary	William Archie	1	0.4419	0.5581	0
+Malecha Marvin J.	Arn Michael	1	0.3934	0.6066	0
+Marsh Miss	Eisner Mark	1	0.2803	0.7197	0
+Robin Louise (maiden name)	Louise Adélaide Desnos	0	0.9138	0.0862	1
+Heinz Plank	Jones John Paul	1	0.3450	0.6550	0
+Giovanni da Caravaggio	Giovanni Mangone	0	0.7510	0.2490	1
+Theodorus Derk Bennes	Barker Thomas Jones	1	0.1825	0.8175	0
+b 720 Arquitectura Barcelona Spain	Compagno Di Bicci	1	0.3613	0.6387	0
+De la Torre Mónica	Corneille Max	1	0.2405	0.7595	0
+Fles Thecla	Fles Margaretha Tekla Johanna	0	0.8754	0.1246	1
+Carlos Puente Fernández	Liberti Francesco	1	0.0750	0.9250	0
+Raoul Kuffner de Diószegh Baron	Lexden Lewis Pocock	1	0.1647	0.8353	0
+Wall Terry	Terence Wall	0	0.7881	0.2119	1
+Simone M. Dettmeijer	Wap Simone	0	0.9755	0.0245	1
+Balaginaia T.	Nanninga Jacob	1	0.3416	0.6584	0
+Newman Abner	ניומן ארנולד	0	0.5888	0.4112	1
+Elefthérios Amilitos	Eller Tomas	1	0.0607	0.9393	0
+mrs j. clendenin ryan	Jean Harder Ryan	0	0.7235	0.2765	1
+Modaress Fateh	Mudarris Fātih	0	0.5770	0.4230	1
+Gatine Jean	Georges Jacques Gatine	0	0.5967	0.4033	1
+Museum Centre of Turku	Åbo museicentral	0	0.7006	0.2994	1
+Pasmore Victor	Edwin John Victor Pasmore	0	0.9121	0.0879	1
+Looijschelder Aloysius Johannes Wilhelmus Maria	John Hussey Delaval	1	0.1497	0.8503	0
+Mirella Ricciardi	Rocco Mirella	0	0.6490	0.3510	1
+Tan Kay Ngee	KOCA	1	0.4832	0.5168	0
+Tholentinus	Francesco da Tolentino	0	0.8330	0.1670	1
+Ace Architects	Ace Design	0	0.8714	0.1286	1
+San Lúcar Duque de	Olivares Conde-Duque de	0	0.5745	0.4255	1
+Guardolino	Carlo Natali	0	0.9387	0.0613	1
+Eastlake Charles H.	Spetz och Holst Arkitekter	1	0.0758	0.9242	0
+OSA	Kenji Oki	1	0.1329	0.8671	0
+Roelof Lambertus Elzinga	Panton Alexander	1	0.4968	0.5032	0
+Valvassori Gabriele	Grob Walter Oscar	1	0.2971	0.7029	0
+Kaunitz Wenzel Anton Dominik Graf	Kounic-Rietberku Václav Antonín z kníže	0	0.8072	0.1928	1
+Gassel	Lucas van Hellmont	0	0.9816	0.0184	1
+Isabel Codina de Pedro	Alfonso Bejarano	1	0.4724	0.5276	0
+J. welsch	Julius Maria Jakob Welsch	0	0.9952	0.0048	1
+Regional Plan Association	RPA	0	0.7110	0.2890	1
+Collignon Jean Baptiste	Colignon François	0	0.6058	0.3942	1
+Carl Hambuck	Jordi Bellmunt Chiva	1	0.4444	0.5556	0
+Wegier Bayla	Vilsgaard Birgitte	1	0.0429	0.9571	0
+Hsiung-nu	Tia Lessin	1	0.4968	0.5032	0
+Musée Départemental du Prieuré	Bratislava. Slovenské nárdné múzeum	1	0.1577	0.8423	0
+University of Western Australia School of Architecture	Vielfraet	1	0.0798	0.9202	0
+Duller Yolande C.M.	Wijngaard Yolanda Carla Marijke van de	0	0.9364	0.0636	1
+Harding Nicholas	李禹煥	1	0.1707	0.8293	0
+U-Fan Lee	U-hwan Yi	0	0.6270	0.3730	1
+Nicholas Harding	李禹煥	1	0.1370	0.8630	0
+New York NY USA. Robert Lehman Foundation Inc.	Inc. Lehman Foundation	0	0.6700	0.3300	1
+obermullner adolf	William Craven 2nd Baron	1	0.0686	0.9314	0
+Clark	Benton H. Clark	0	0.8698	0.1302	1
+Clark Benton H.	Clark	0	0.6585	0.3415	1
+Kunimatsu Noboru	Kaiser Wortmann Johannes	1	0.2465	0.7535	0
+Arup Advanced Gemometry Unit	AGU	0	0.8633	0.1367	1
+D+S	Elizabeth Diller and Ricardo Scofidio	0	0.5829	0.4171	1
+D + S	Elizabeth Diller and Ricardo Scofidio	0	0.9052	0.0948	1
+Massachusetts Institute of Technology Hayden Gallery	MIT Hayden Gallery	0	0.7438	0.2562	1
+James Campbell	Bep Amesz	1	0.2348	0.7652	0
+Drevin' Aleksandr Davidovitsj	Drewing Alexander	0	0.6576	0.3424	1
+Zijlmans Sylivie	Zijlmans Sylvia Johanna Roberta Josepha	0	0.5036	0.4964	1
+Joan Molyneux Stannard	Zijlmans Sylvia Johanna Roberta Josepha	1	0.2203	0.7797	0
+Numa François Gillet	Gillet Numa	0	0.7546	0.2454	1
+Horatio Gordon Robley	Moore Derry	1	0.4941	0.5059	0
+Bragg Steven William	Billy Bragg	0	0.5645	0.4355	1
+Ammirato Domenico	Muto da Ficarolo	1	0.2488	0.7512	0
+Claude Simard	Smerck Daniel	1	0.4789	0.5211	0
+Polk Brigit	Berlin Brigid	0	0.7169	0.2831	1
+Comte Charles	Pierre-Charles Comte	0	0.5850	0.4150	1
+Clappers Joop	Polenoff Jelena	1	0.1926	0.8074	0
+Architektengruppe U-Bahn	Holzbauer Marschalek Ladstätter Gantar	0	0.6908	0.3092	1
+Valaitis Teodoras Kazimieras	Holzbauer Marschalek Ladstätter Gantar	1	0.1628	0.8372	0
+Klein-Monquay Rotraut	Meucheron	1	0.3945	0.6055	0
+Antelani Benedetto	Mestre Annette de	1	0.4562	0.5438	0
+Hidemark och Stintzing Arkitekter	Matts Leiderstam	1	0.1902	0.8098	0
+Nzama	Hopman Machiel	0	0.6603	0.3397	1
+Zick Alexander	a. zick	0	0.6418	0.3582	1
+Zick	Zick Alexander	0	0.7408	0.2592	1
+Emmanuel Louis Masqueray	Jiménez María José Zamora	1	0.3817	0.6183	0
+Lodius Iacobus active 17th century	Lodi Giacomo 17th cent.	0	0.5251	0.4749	1
+THAPE	Hatsue Yamada	1	0.2401	0.7599	0
+Draxler Pamela	Elmar Trenkwalder	1	0.4894	0.5106	0
+Alcañiz the Younger Miguel	Alcañiz II Miguel	0	0.7123	0.2877	1
+Chardin Jean-Baptiste	Chardin John	0	0.8351	0.1649	1
+John Chardin	Chardin Jean-Baptiste	0	0.9590	0.0410	1
+Giovanni Battista Gherardini	Jean Dubois	1	0.3024	0.6976	0
+Tarsia Antonio	Tisse-Sarrus	1	0.3201	0.6799	0
+Jeanine Cohen	John d'Ianga	1	0.1864	0.8136	0
+Carlos Ferdinand-Louis-Marie-Francois d'Assise King of Portugal	Bragança Carlos de	0	0.9698	0.0302	1
+Joshi Munish C.	Jośī Munīśa Candra	0	0.9856	0.0144	1
+卡内基安德鲁	Karnegi Endriu	0	0.9542	0.0458	1
+A. Carnegie	卡内基安德鲁	0	0.9987	0.0013	1
+卡内基安德鲁	Huub Dorscheidt	1	0.1510	0.8490	0
+Speckner Johanna	Johanna Weil	0	0.9954	0.0046	1
+Vlaamse Raad	Vlaams Parlement	0	0.7775	0.2225	1
+Bornefeld Julia	Jeuffrain Paul	1	0.0576	0.9424	0
+Clayton & Parys	Messrs Clayton & Parys	0	0.5631	0.4369	1
+Antonio Cassi Ramelli	Casamor de Espona Antoni	1	0.3912	0.6088	0
+Antonio Casamor de Espona	Casamor Anton	0	0.6758	0.3242	1
+Cassi Ramelli Antonio	Casamor de Espona Antonio	1	0.0315	0.9685	0
+Champ	Champney James Wills	0	0.5371	0.4629	1
+Aranda Felipe Abas	Abaelard Peter	1	0.0948	0.9052	0
+Eusebius Pope	Εὐσέβιος	0	0.5445	0.4555	1
+Beaumont and Laurin	Emellrood	1	0.3717	0.6283	0
+John James Trumbull Arnold	Rombauts Jan I	1	0.4824	0.5176	0
+Zichy van Zich-Vasonkeö Rafael (graaf)	Aho Aarne Rafael	1	0.0505	0.9495	0
+Aedes Galerie für Architektur und Raum	Galerie Aedes West	0	0.6491	0.3509	1
+Gamard Christophe French	Frampton Lady George	1	0.2642	0.7358	0
+Chiesa de' Santi Silvestro e Martino de' Monti	R B Architect	1	0.3123	0.6877	0
+Boguet Didier	גולדברג צבי	1	0.0358	0.9642	0
+HAB Weimar	Hochschule für Architektur und Bauwesen Weimar	0	0.8248	0.1752	1
+Ch Guérin	Mingus Charlie	1	0.3300	0.6700	0
+British Archaeological Trust	Rescue (Trust)	0	0.5328	0.4672	1
+I. Tsvelykh	Eliška Bartek	1	0.1578	0.8422	0
+Bartek Eliska	Barak Nachsholi	1	0.0743	0.9257	0
+Ungava (unknown)	Quebec Inuit (unknown)	0	0.8937	0.1063	1
+Robert John Bennetts	Bennetts Rab	0	0.5342	0.4658	1
+Billio Giovanni	John Bill	0	0.5986	0.4014	1
+Plock	Coppée Henry	1	0.3557	0.6443	0
+Allen Gower Huggins and Meikeljohn	Gruen John	1	0.4690	0.5310	0
+Casa N. d. la (Nicolò)	Dale William Nichols	1	0.3492	0.6508	0
+Ὁ Πυθαγόρας ὁ Σάμιος	Pitágoras	0	0.7758	0.2242	1
+Miroslav Stojanovic	Varèse Louise McCutcheon	1	0.2318	0.7682	0
+Puget	Freminet Louis De	1	0.4334	0.5666	0
+Badalementi Alberto	Andrea Pantaleo	1	0.4010	0.5990	0
+Tim Donahue	Yamanashi Kenritsu Kōko Hakubutsukan	1	0.2143	0.7857	0
+Johann Däubler	Hubertus von Hohenlohe	1	0.1804	0.8196	0
+Puigaudeau Ferdinand Loyen du	Paul J.	1	0.3665	0.6335	0
+Cristoforo dell'Altissimo allievo del Bronzino	Cristofano dell'Altissimo	0	0.5525	0.4475	1
+Barois	Minas Avetisyani Tun-T'angaran	1	0.3876	0.6124	0
+Halder Christoph	Charles Echard	1	0.2751	0.7249	0
+Schayck Ernst van (II)	Scayck Prime van	0	0.7430	0.2570	1
+Hayet Jacques	Hayet Louis	0	0.7263	0.2737	1
+Hassam Frederick Childs	Hassam	0	0.5916	0.4084	1
+Kheĭzinga Ĭ.	هويزنجا، يوهان،	0	0.6382	0.3618	1
+Edward S. Porter	Dieter and Ann Vorberg-Kirchhofer	1	0.3057	0.6943	0
+Gertrud Fiala	Warwick Henry Richard Greville 3rd Earl of	1	0.4021	0.5979	0
+Baratta Alessandro	National Association of Home Builders	1	0.4252	0.5748	0
+Yáñez de Santa Cruz Marta	Mata Duque Juan de la	1	0.4299	0.5701	0
+Hanura Hosea	אנונימי	1	0.1450	0.8550	0
+Aldwin Saint	Dado Saint	0	0.7059	0.2941	1
+Katherine Hill Kuhn	Leroy	1	0.1238	0.8762	0
+Mohr Jean	Mohr Hans Adolf	0	0.8598	0.1402	1
+Made Wijaya	James Mowry	1	0.2294	0.7706	0
+L'Ammogliato Mariotto di Zanobi Folfi	Folfi Zanobi	0	0.6438	0.3562	1
+Haroldo Gonzalez	Llorens Duran José Ignacio de	1	0.4678	0.5322	0
+מילשטיין צבי	Zwy Milshtein	0	0.8713	0.1287	1
+Tabgatch dynasty	Pei Wei dynasty	0	0.9125	0.0875	1
+Achten Gobhardt	Achten Govert van	0	0.5475	0.4525	1
+Pei-kʻo-tʻe Sa-miao-erh	Beckett Samuel	0	0.9368	0.0632	1
+Peia Giampiero	Mangin Marcel Paul Maurice Stéphane	1	0.3818	0.6182	0
+Gagakusai	Bunchō	0	0.6369	0.3631	1
+Ordre des Urbanistes du Quebec	OUQ	0	0.6002	0.3998	1
+Alexandra Caroline Marie Charlotte Louise Julia Queen of the United Kingdom and the British Dominions and Empress of India.	Hrh Princess Alexandra	0	0.9728	0.0272	1
+Imhoff Baron Carl C. A. von	Bartholomäus Joh. van Hove	1	0.1648	0.8352	0
+Pol Deliege	Boudevyns le fils	1	0.3230	0.6770	0
+Adrien de Pauger	Groves-Raines Partnership	1	0.1487	0.8513	0
+hermann Göhler	Morrell (John) and Son	1	0.1274	0.8726	0
+Steinlein Elke	Lee Klim	1	0.2701	0.7299	0
+J. Jos. Taillasson	Selmoni Paolo	1	0.3241	0.6759	0
+Thrall Soby James	Bastien Alfred Theodore Joseph	1	0.3275	0.6725	0
+Garstens A. J.	Asmus Carstens	0	0.9689	0.0311	1
+Giol Draper Pere	Pierre Adrien Graillon	1	0.0128	0.9872	0
+fr. mirus	Lina Mirus	0	0.6759	0.3241	1
+Brustlein Janice	J. Biala	0	0.9553	0.0447	1
+Yasuko Okamoto	Asaoka Keiko	1	0.0002	0.9998	0
+Greek Popular Art Museum	Aquila	1	0.3023	0.6977	0
+Díez Martín	Liatzasolo Martín Díez de	0	0.8167	0.1833	1
+o. brioschi	Gilberto Battocchio	1	0.1704	0.8296	0
+Deutsches Historisches Institut	German Historical Institute	0	0.8753	0.1247	1
+Schultze Joachim	Chaya Shilo	1	0.4359	0.5641	0
+Rikman Tamara	Mathieu Marie Alexandrine	1	0.1003	0.8997	0
+Centre national d'art et de culture Georges Pompidou	Centre Beaubourg	0	0.9402	0.0598	1
+Schidlo Johanna	Riedl Johanna	0	0.6642	0.3358	1
+Johanna Schidlo	Riedl Johanna	0	0.9231	0.0769	1
+Uehlein Polykarp	Pierre Francois Charles Leroy	1	0.1610	0.8390	0
+Polykarp Uehlein	Leroy Pierre Francois Charles	1	0.0589	0.9411	0
+Andrei Onnipovich Zhdanov	Heddy-John Appeldoorn	1	0.4220	0.5780	0
+Herakleitos	Johannes Alcherius	1	0.1957	0.8043	0
+Heraklitos	Alcherius Johannes	1	0.1839	0.8161	0
+Franco Guzmán Jaime Alberto	Fontana Mabel	1	0.4819	0.5181	0
+Soulier Charles ca. 1840-ca. 1876	Charles Soulier approximately 1840-approximately 1876	0	0.6967	0.3033	1
+Nikos Stavroulakis	Wendy Stavrianos	1	0.2008	0.7992	0
+Geria Master (Master of the Claveles)	J. M. De Casseres	1	0.4663	0.5337	0
+Il'ja Čičkan	Tschitschkan Ilja	0	0.6677	0.3323	1
+Casarin Alexander	Alonso Casarin	0	0.6756	0.3244	1
+Selmoser Josef	Sert Josep Lluis	1	0.2818	0.7182	0
+Jones Captain	Jones Adrian	0	0.9547	0.0453	1
+Urban Design Assistance Team	American Institute of Architects. Rio Salado Chapter. Urban Design Assistance Team	0	0.7350	0.2650	1
+Mouls	Pietro Mola	0	0.6633	0.3367	1
+Bird Charles Sumner Mrs.	Bird Julia Appleton	0	0.9951	0.0049	1
+Sarah Howgate	Joshua Scott	1	0.3264	0.6736	0
+Prasch	Brouse	0	0.8943	0.1057	1
+Mario Dyyon	Gregorio Dumaine	1	0.0715	0.9285	0
+J. Heda	heda gerrit willem	0	0.8276	0.1724	1
+paul	John Samuel Paul	0	0.7150	0.2850	1
+Frisius Theodorus	Vrijes Dirck de	0	0.9621	0.0379	1
+Breugel Ambrosius	Southerland Barbara	1	0.3359	0.6641	0
+Germes Jacques de	Coperslaghere De	0	0.7111	0.2889	1
+Spriment Charles-Louis-Auguste	Christian Pottgiesser	1	0.4986	0.5014	0
+Chuha Chung	Halen Aquila	1	0.3219	0.6781	0
+Chung Chuha	Aquila	1	0.2900	0.7100	0
+Aquila	Etsuo Tanda	1	0.4329	0.5671	0
+a. arnz	alb. arnz	0	0.5889	0.4111	1
+Kikuo Atarashi	Corita Kent (Sister Mary Corita)	1	0.1304	0.8696	0
+zi Bonian	Ren Yi	0	0.6070	0.3930	1
+New English Art Club	NEAC	0	0.5290	0.4710	1
+Veyren Jean Baptiste	Vivarais Jean	0	0.7711	0.2289	1
+Stannus James Gordon Dawson	Gordon Anthony	0	0.9810	0.0190	1
+Axline Jackie	Axline Lela	0	0.8615	0.1385	1
+Robert Clutterbuck	Willem Breuker	1	0.4718	0.5282	0
+De Padova Maddalena	Pablo Manes	1	0.0277	0.9723	0
+Courtauld Stephen Lewis	French David	1	0.3554	0.6446	0
+Eberle Martin and Katia Sitko	Marinos of Neapolis	1	0.3034	0.6966	0
+Martin and Katia Sitko Eberle	Marinos	1	0.1953	0.8047	0
+Sorensen Kurt Trampedach	Kurt Trampedach	0	0.7500	0.2500	1
+Chandler Vesta E.	Callowhill Mrs. Sidney T.	0	0.7853	0.2147	1
+J. Versfelt	Schrötter Alfred Von	1	0.1386	0.8614	0
+Versfelt Johan	Schrotter Alfred Von	1	0.1831	0.8169	0
+Chabannes Jean-Frédéric de marquis de Curton	ʻAbdurrahmān Cugẖtā'ī Muhammad	1	0.1711	0.8289	0
+Organization of World Heritage Cities	OWHC	0	0.5814	0.4186	1
+Bergenstråhle-De Geer Marie-Louise	Geer Marie-Louise De	0	0.8159	0.1841	1
+Geer Marie-Louise De	Edgar Meyer	1	0.2966	0.7034	0
+Meyer Edgar	egon meyer	0	0.5966	0.4034	1
+Bonnat Jean	Betancourt Ernesto	1	0.4401	0.5599	0
+Wysong John J. Mrs.	Stryowski Wilhelm August	1	0.1861	0.8139	0
+Johannes Snickares	Johannes Sculptor	0	0.8187	0.1813	1
+monsieur Arrigo Comer	Comer H.	0	0.6153	0.3847	1
+Odescalchi Baldassare Erba	Lose Johann Jacob de	1	0.4769	0.5231	0
+Birley Oswald Hornsby Joseph	Vladimir Grigorevich Weisberg	1	0.4659	0.5341	0
+Urquhart Gordon	G Urq.t	0	0.6513	0.3487	1
+Wheeler Juliet	Asher Bilu	1	0.4438	0.5562	0
+Nicolaus Georg Gewe	Gewe	0	0.5738	0.4262	1
+Felice Riccio	Felice Brusasorci	0	0.9493	0.0507	1
+Reza Aliabadi	rzlbd	0	0.9738	0.0262	1
+Lisitsky Lazar Markovich	Lisitsḳi Eliʻezer	0	0.6702	0.3298	1
+Hilda Trevelyan	Trevelyan Miss	0	0.9163	0.0837	1
+Ltd. Nakayamafuku Company Osaka	Fomin Ivan Aleksandrovič	1	0.1099	0.8901	0
+Nakayamafuku Company Ltd. Osaka	Ivan A. Fomin	1	0.3846	0.6154	0
+Kenoyuak	Ho Francis	1	0.0805	0.9195	0
+Baker Eve	Hank Ebes	1	0.3512	0.6488	0
+Satonoya	Louis Petit	1	0.4484	0.5516	0
+Nadar Jeune	Adrien Alban Tournachon	0	0.7778	0.2222	1
+J. Gurney	Rodrigo Joaquim	1	0.1106	0.8894	0
+Iona Kleinhaut	Einosuke	1	0.4152	0.5848	0
+née Rowat Jessie	Jessie Newbery	0	0.6228	0.3772	1
+Preziosi Leandro	Ruopposi	1	0.0238	0.9762	0
+James Catherine Young	Young Mrs.	0	0.5478	0.4522	1
+Settignano Amedeo da	Meo da Caprino	0	0.8982	0.1018	1
+Girolamo Canavesi	Rossi Nicola Maria	1	0.1628	0.8372	0
+Canavesi Girolamo	Nicola Maria Rossi	1	0.0716	0.9284	0
+זולה אמיל	ЗОЛЯ ЭМИЛЬ	0	0.6910	0.3090	1
+Hans-Peter Klein + Wolf-Dieter Breucha	Klein + Breucha	0	0.8218	0.1782	1
+Bigotti Trophime	Troffamondi Trophime	0	0.8574	0.1426	1
+Yuri Stanislavovich Podliasky	Kutz Rafi	1	0.3926	0.6074	0
+Museu da República	Palácio do Catete	0	0.7309	0.2691	1
+Hooker Philip	Kent Floeter	1	0.4405	0.5595	0
+Hayakawa Hiroshi	Sortais Louis-Marie-Henri	1	0.3045	0.6955	0
+Sheridan Louisa	Louisa Green-Emmott	0	0.9601	0.0399	1
+Nadal Ferreras Carlos	Carlos Nadal	0	0.5617	0.4383	1
+Roschker Horst	Arthur Roessler	1	0.1454	0.8546	0
+Biddulph General Sir	Michael Biddulph	0	0.9785	0.0215	1
+H.G. Olds	Grant Olds Harry	0	0.5450	0.4550	1
+Tregear C.	Gabriel Shire Tregear	0	0.8995	0.1005	1
+Marriott Frank Pickford	Kratzer	1	0.3059	0.6941	0
+DNW	Dix Noonan Webb	0	0.5975	0.4025	1
+Lefèvre Rodrigo Brotero	Potoff Reeva	1	0.3871	0.6129	0
+Goitia Francisco	Pietro da Cagliari Ayres	1	0.0775	0.9225	0
+M. de Troye	Otis Barton Jr.	1	0.3738	0.6262	0
+Edmund Kalb	Zijl Wilhelmina Hendrika van	1	0.2779	0.7221	0
+Averoldi Count	Averoldi family	0	0.8082	0.1918	1
+Senior Bryan	Ernst Birke	1	0.4284	0.5716	0
+hugo havenith	c. j. havenith	0	0.6794	0.3206	1
+Da Hooghe	pieter de hoock	0	0.6866	0.3134	1
+Gerald Allen & Jeffrey Harbison	Allen & Harbison	0	0.6171	0.3829	1
+Loris Dominic-Fabien	Fabien Loris	0	0.6219	0.3781	1
+Wesleyan College	Macon GA. Wesleyan College	0	0.9034	0.0966	1
+John (John Kenneth) Humble	Du Pont H. F.	1	0.4074	0.5926	0
+Ko Shibata	Museum of Contemporary Art San Diego	1	0.4397	0.5603	0
+Harbers Rhea	Jonathan Berkh	1	0.3498	0.6502	0
+Lanzerick	Anserich	0	0.5170	0.4830	1
+Healy Brian	Charles Barry Junior	1	0.1096	0.8904	0
+Moorsel Marijke van	Asperslag Marijke	0	0.9003	0.0997	1
+Bernard Kohn	ברנסטיין ס'	1	0.0512	0.9488	0
+Nadorp Franz Johann Heinrich	Hansen Peter (1868-1928)	1	0.2900	0.7100	0
+ARX Portugal Arquitectos	Fox Fontaine Talbot	1	0.4362	0.5638	0
+Sousa José Pedro	Atha Joseph Samuel	1	0.3737	0.6263	0
+Lagercrantz Eva Hedvig Gustavia	Augustus Peck	1	0.1537	0.8463	0
+Angelica Garnett	Bell Angelica	0	0.8873	0.1127	1
+Domenico Gilardi	Zhilyardi Dementy Ivanovich	0	0.7275	0.2725	1
+Zeegers Wilhelmus Clemens Maria	Sutherland George Granville William Sutherland-Leveson-Gower 3rd Duke of	1	0.0245	0.9755	0
+DeGlehn Oswald	Van Glehn	0	0.5272	0.4728	1
+Klein Dytham architecture	Huntington Library Art Collections and Botanical Gardens	1	0.3075	0.6925	0
+James Milford Zornes	Ferrand de Monthelon Jacques Philippe	1	0.2874	0.7126	0
+Lucia Casilini bolognese moglie del pittor Felice Torelli	Casilini Lucia (unidentified)	0	0.5575	0.4425	1
+Preston Mrs. James M.	Preston May Wilson	0	0.7338	0.2662	1
+Elsen Patries van	Patries	0	0.7919	0.2081	1
+White and Partners	Elsen Patries van	1	0.4242	0.5758	0
+Pozzo Ugo	Juan De Parada	1	0.2411	0.7589	0
+Heinz Müller-Tosa	S. John O'Leary	1	0.3192	0.6808	0
+John O'Leary S.	יחיאלי חיה	1	0.0296	0.9704	0
+Benjamin Vautier the Elder	Vautier Marc Louis Benjamin	0	0.5077	0.4923	1
+Meschtscherin Nikolaï Vassiliewitch	Nikolaj Vasil'evič Meščerin	0	0.5310	0.4690	1
+Malavena	Jonathan Calm	1	0.4726	0.5274	0
+prete Farnesiano	Alessandro Mattia da Farnese	0	0.8578	0.1422	1
+Henry Bertram Bucher	Beer Christiane	1	0.4804	0.5196	0
+Plumier Theodore Aimond	Plegnier Edmond	0	0.7895	0.2105	1
+Hendrie	Edmond Plumier	1	0.0574	0.9426	0
+Andri	Theodore Aimond Plumier	1	0.0904	0.9096	0
+Bosset	Toshiko Okanoue	1	0.4317	0.5683	0
+Cohen George Marshall	Cohen George	0	0.7404	0.2596	1
+Commoy Pierre	Pierre	0	0.8822	0.1178	1
+Leugner	Heinrich Leichner	0	0.8583	0.1417	1
+Leichner so gut wie Schalcken	Gilbert-Hughes Kate Elizabeth	1	0.4885	0.5115	0
+Herbert Jacob	Seligmann Herbert Jacob	0	0.8019	0.1981	1
+Enterline Sandra	SSA	1	0.2649	0.7351	0
+Humbert de Superville David Pièrre Giottino	Butterworth Clare	1	0.3577	0.6423	0
+Jambon Michel	Hayman Alan B.	1	0.1314	0.8686	0
+ANCE	Associazione nazionale costruttori edili	0	0.5869	0.4131	1
+Cadiot Noémie	Claude Vignon (pseudonym)	0	0.9861	0.0139	1
+Jon Árnason J.	Eriksson Carl Johan	1	0.3477	0.6523	0
+Gerard Manley Hopkins	Mlle Garnier	1	0.4543	0.5457	0
+Kessinger-Petitpierre Friedly	Cavendish-Bentinck George Augustus Frederick Rt. Hon.	1	0.0247	0.9753	0
+Bertram A.	Raymond Thibesart	1	0.1391	0.8609	0
+Permoser Baltzar	Baldassare Fiammingo	0	0.8016	0.1984	1
+Aertsz Faes	Johann Franz Demess	1	0.4108	0.5892	0
+Foschi (unidentified)	Abbate Foschi (unidentified)	0	0.8827	0.1173	1
+Edward Parker Esq	Pkr	0	0.5143	0.4857	1
+Daniel Auguste Joseph Martin	Martin Daniel	0	0.7414	0.2586	1
+Krauss Helene Von	Krausz Baronin	0	0.9559	0.0441	1
+Evans Tony	Potens	1	0.3424	0.6576	0
+B.H. Thier	Van Thier	0	0.5017	0.4983	1
+Batz and Co.	Batz Georges de	0	0.6782	0.3218	1
+LCP Associates	LCP Bess Graphic Design	0	0.9367	0.0633	1
+A. Bennewitz	Bowerman Ralph Justin	1	0.4404	0.5596	0
+Shkol'nik Iosif	Suomen Koulumuseo	1	0.2624	0.7376	0
+Raffaellino Da Reggio	R. reggio	0	0.9952	0.0048	1
+Niccolo	Association des conservateurs de la région Provence-Alpes-Côte d'Azur	1	0.4869	0.5131	0
+Sibylle Kretschmar	Charles H. Kalbfleisch	1	0.3663	0.6337	0
+Kimura Seinosuke	Kashmiri (unknown)	1	0.0047	0.9953	0
+Crafty Victor	Victor Geruzez	0	0.9233	0.0767	1
+Philippe Canot	Canot	0	0.7145	0.2855	1
+Bhikṭoriẏā	Victoria Queen	0	0.5162	0.4838	1
+Harry A. Atwell	Welsh	1	0.4503	0.5497	0
+Balzac Edme-Pierre	Campbell James (1825-1903)	1	0.0236	0.9764	0
+Arcangelo di Leonardo Salimbeni	Il Guadagnino	1	0.2247	0.7753	0
+Fleury Jean-Damien	Delafens	1	0.0170	0.9830	0
+The Silex Company Boston MA (now Silex & Equipment Div. Bloomfield Industries New York NY)	Benois Albert Nikolayevich	1	0.4358	0.5642	0
+oscar graf krockow	o. v. krockow	0	0.5121	0.4879	1
+בען	Rosenberg Benjamin	0	0.8703	0.1297	1
+Wertmüller von Elgg Spanol von Braueich Arcangela Felice Assunta	Lina Wertmüller	0	0.8906	0.1094	1
+Berthelsen Johann	Henriette Bresster	1	0.1620	0.8380	0
+Jakob Johannes Walop	Jacobides	1	0.4854	0.5146	0
+Baker T. Mark	Kairkby	1	0.1904	0.8096	0
+Ifa-Galerie Friedrichstrasse	Ifa-Galerie Berlin	0	0.7521	0.2479	1
+וואלקאוויטש א.	Elso Schiavo	1	0.3762	0.6238	0
+Akbar II Mughal emperor of India	Henry Marriott Paget	1	0.4576	0.5424	0
+Mie̜dzynarodowe Centrum Kultury	Centre international de la culture Cracovie	0	0.8866	0.1134	1
+International Cultural Centre Cracow	Mie̜dzynarodowe Centrum Kultury	0	0.9311	0.0689	1
+Jean Gerson	Jean Charlier	0	0.9774	0.0226	1
+Bunny Matthias & Co.	Matthias & Co.	0	0.6256	0.3744	1
+Mrs. Don Blair	Bamberger Louis	1	0.4828	0.5172	0
+Charlemagne-Baudet Joseph	Iosif Adolfovich Charlemagne	0	0.9962	0.0038	1
+Ludvig Eugene Carl	Karl XV koning van Noorwegen en Zweden	0	0.6556	0.3444	1
+Beeldemaker Dirk the younger	Hamilton [8th] Duke of	1	0.1573	0.8427	0
+Möller Max	Zorn Salomon	1	0.4293	0.5707	0
+Gustavo Rocha	Mervart Augustin	1	0.4188	0.5812	0
+Geusau Willem Arnold Alting Lamoraal von	Holstein Álvaro de Sousa	1	0.2000	0.8000	0
+Spengler	Charles-Quint empereur germanique	1	0.0153	0.9847	0
+David Brown Milne	Dmitriev Vladimir Vladimirovič	1	0.3777	0.6223	0
+Lachen Ulrich von	Ulrich Rosenstain	0	0.9529	0.0471	1
+Gönüllülerodlu Aype	Giovan Andrea Rusteghello	1	0.3026	0.6974	0
+Lübeck Master of 1518	Antwerp Master	0	0.8604	0.1396	1
+Meister von 1518	Lübeck Master of 1518	0	0.6298	0.3702	1
+Kate Earle	Thallemer Axel	1	0.2823	0.7177	0
+de Ramitz	Sebastiaan Mattheus Sigismund De Ranitz	0	0.8862	0.1138	1
+Koasqui Polonois	Kokarski Alexander	0	0.9840	0.0160	1
+Couasky Alexander	Koasqui Polonois	0	0.9104	0.0896	1
+Lucas Y Padilla Eugenio	Eugenio Lucas Velazquez	0	0.6882	0.3118	1
+Shanghai Putuo Qu wen hua ju	Tatehiko Suga	1	0.4283	0.5717	0
+Sánchez Diego Peris	Peris Diego	0	0.8623	0.1377	1
+Corrodi Ermanno Davide Salomone	Corrodi Hermann	0	0.7854	0.2146	1
+Heydeck Alexander von	Daniele Verucchi	1	0.1170	0.8830	0
+Solomans Estella Frances	Solomons Starkey	0	0.6420	0.3580	1
+Estella Frances Solomons	Solomons Starkey	0	0.5142	0.4858	1
+Hipólito Rovira Brocandel	Rovira y Meri Hipólito	0	0.5838	0.4162	1
+Rawlings John Wilsey	Risani	1	0.3795	0.6205	0
+James Wilson	Wilson Associates	1	0.3044	0.6956	0
+John D. Milner	Riley John	1	0.3875	0.6125	0
+Mary De Lautour	吴家林	1	0.1587	0.8413	0
+De Lautour Mary	吳家林	1	0.1629	0.8371	0
+John Charles Lewis Sparkes	J. Kuster	1	0.1511	0.8489	0
+Tommaso	Antonio Harrison Menéndez	1	0.0849	0.9151	0
+Mörs Jakob the elder	Mores Monogrammist I. M.	0	0.5025	0.4975	1
+Vogtherr Heinrich (der Jüngere)	Hannsjörg Voth	1	0.3261	0.6739	0
+Viruly Willem	Guillaume Vivuli	0	0.8625	0.1375	1
+Peter & Jörg Quarella	Quarella und Quarella	0	0.9935	0.0065	1
+Rosemary Butcher Dance Company	Saarbrücken Hochbauamt	1	0.4161	0.5839	0
+AV62	Vicente Cortés Sotelo	1	0.0174	0.9826	0
+Hemp & Son	Monogrammist H.B.	1	0.4526	0.5474	0
+Fonseca Fernando	López de Vinuesa Fernando Fonseca	0	0.6520	0.3480	1
+Dondi	López de Vinuesa Fernando Fonseca	1	0.4969	0.5031	0
+So-ky	László Sós	0	0.8883	0.1117	1
+Browne Turner	Narodni muzej Beograd. Odeljenje za preventivnu zaštitu	1	0.3596	0.6404	0
+Heide van der	Desn	1	0.1251	0.8749	0
+Boris Dittrich	Proctor Patrick	1	0.3749	0.6251	0
+casto foix un gran pintor flamenco de Roma	Foix Casto (unidentified)	0	0.8115	0.1885	1
+Lluìs Jubert	Witier Eliane	1	0.0654	0.9346	0
+Dhannu	John Deakin	1	0.0321	0.9679	0
+Rouse (Gent)	Roosa	0	0.5021	0.4979	1
+Williams Lance-Sergeant	Williams John	0	0.9380	0.0620	1
+Dufoure	Goor F. van	1	0.4636	0.5364	0
+Snoeck Jacques Cornelis	Langen Hendrikus Johannes Franciscus Van Den	1	0.1050	0.8950	0
+Flavius Magnus	Aurelius	0	0.9836	0.0164	1
+Jacob Reichel	Jakob Jakowlewitsch Reichel	0	0.5179	0.4821	1
+Gilbert van Drunen	Holland Gilbert van	0	0.7506	0.2494	1
+da Alatri Antonio	Abrahamina Arnolda Louisa Hubrecht	1	0.1720	0.8280	0
+Design Collaborative	TBC	0	0.5844	0.4156	1
+P.H. Rogers	Philip Hutchings Rogers	0	0.6382	0.3618	1
+Camberere Bertelmees	Bartholomeus Camere	0	0.5121	0.4879	1
+Tripe John Rev.	Swete Reverend John	0	0.9236	0.0764	1
+Eduardo Beotas Lalaguna	Lore Jean de	1	0.0901	0.9099	0
+Garrett Fergus	Priwitzer	1	0.0268	0.9732	0
+Pegi Ballister Howells	Güres  Nilbar	1	0.4283	0.5717	0
+Laird & Associates	Latvian Academy of Art	1	0.0144	0.9856	0
+William Harris Weatherhead	Wilm Eberhard	1	0.1582	0.8418	0
+Fischer Arno	Asta Francesco	1	0.2774	0.7226	0
+Schmisek Johann	Swischegg	0	0.9215	0.0785	1
+Langlois Vincent Marie	Langlois le jeune	0	0.6703	0.3297	1
+Matt Glavin	Vagliengo Maria Cristina	1	0.2426	0.7574	0
+Lorsay Lampsonius	Lorsay Louis Alexandre Eustache	0	0.5306	0.4694	1
+Lebanese Company for the Reconstruction of Beirut Central District	Solidere	0	0.7402	0.2598	1
+A. V. Kunzendorf	Anna Gritschker-Kunzendorf	0	0.7211	0.2789	1
+Brandenburgh House	Elizabeth Anspach Margravine of	0	0.9393	0.0607	1
+Tunstall	Constable Marmaduke Cuthbert	0	0.5763	0.4237	1
+Richmond and Lennox Charles Lennox Duke of	John Henry Leonard	1	0.4687	0.5313	0
+Friedmann Cornell	Carl Ferdinand Stelzner	1	0.2561	0.7439	0
+John MacWhinnie	Vansomer John	1	0.4633	0.5367	0
+Paris Compagnie de L'Esthétique Industrielle (CEI) - Raymond Loewy	Spode Samuel	1	0.3936	0.6064	0
+Marmittis Lodovico de	Maeda Corporation	1	0.2372	0.7628	0
+François-Louis de Brauwere	Azurmendi Luis	1	0.4775	0.5225	0
+Confortini Jacopo	Choquet de Lindu Antoine	1	0.1798	0.8202	0
+A. Kalraad	Calraat Abraham Pietersz. van	0	0.7797	0.2203	1
+Charles-Louis Constant	Elants Cornelis	1	0.0337	0.9663	0
+Victor Loret	White Charles Wilbert	1	0.3454	0.6546	0
+Don Hendry Fulton	Soun	1	0.0755	0.9245	0
+Daniel Soreau	andreas dirks	1	0.3183	0.6817	0
+Ravenzwaay Adriana van	Morrison Ivan	1	0.3725	0.6275	0
+John Young	Huszar	1	0.0310	0.9690	0
+Heywood-Lonsdale Henry Heywood Lieut. Col.	Taylor Woodrow Stephen	1	0.1220	0.8780	0
+Schmalen I.C.H. von	Angell Mrs. Henry C.	1	0.1763	0.8237	0
+Rookwood Pottery Cincinnati OH	J. D. Okhai 'Ojeikere	1	0.2943	0.7057	0
+Christopher D. Harrison	Hory André	1	0.3680	0.6320	0
+Uncini Giuseppe	Pseudo-Longinus	1	0.0331	0.9669	0
+Giuseppe Uncini	Longinus	1	0.4256	0.5744	0
+Crawford Earl Stetson	H.R.H. the duke of Gloucester	1	0.0648	0.9352	0
+Bailon Angel Coriz	Angel Coriz	0	0.9513	0.0487	1
+John Henry Franks	Franks Esq	0	0.8640	0.1360	1
+K. Tonny	טוני קריסטיאנס	0	0.7696	0.2304	1
+Master B. F.	Peter Moravcik	1	0.1162	0.8838	0
+Feders Yuly Bogdanovich	Feders Jūlijs Voldemars	0	0.7530	0.2470	1
+Yokin Vladimir	William Wood Prince Mrs.	1	0.4404	0.5596	0
+Frankfurt Braun AG Germany est. 1921	Riegel H. P. (Hans Peter)	1	0.1295	0.8705	0
+Goçalves Nuno	Gvs	0	0.9893	0.0107	1
+Galerije Grada Zagreba	Municipal Art Gallery	0	0.9745	0.0255	1
+Peter S. Jones	George Stevens	1	0.2388	0.7612	0
+Ehud Tal	Deroche and Heyland	1	0.4887	0.5113	0
+Ellesmere [4th] Earl of	John Francis Granville Scrope Egerton Ellesmere 4th Earl of	0	0.8150	0.1850	1
+pallizi	Sachsen-Koburg-Gotha Amalia von	1	0.4799	0.5201	0
+Bayezid I Sultan of the Turks	Yun Sŭng-uk	1	0.1469	0.8531	0
+Augustus imperatore romano	Gaius Julius Caesar Octavianus Augustus	0	0.7543	0.2457	1
+Michele Schiavone	Chiozzotto	0	0.8931	0.1069	1
+Pittore di Ascoli Satriano	Theotónio of Braganza	1	0.2092	0.7908	0
+H.O.H. Associates	Shamshad Husain	1	0.4382	0.5618	0
+Lane Miss	Lane F.	0	0.8288	0.1712	1
+Harvey Smith Ladew	Waite Edward Wilkins	1	0.1009	0.8991	0
+Hennig-Meissen Artur	Hennig Artur	0	0.5585	0.4415	1
+Moffat Captain	W. Moffat	0	0.6819	0.3181	1
+Johann Winterburger	B. J. Neyburgh	1	0.2772	0.7228	0
+Noni Lichtveld	Lichtveld Maria Johanna Francisca Renée (Noni)	0	0.6124	0.3876	1
+Phoenix Pottery Kaolin and Fire Brick Company	Griffen Smith & Hill	0	0.9954	0.0046	1
+Sondaar Lambertus Hendrik	Huybrecht de Keyser	1	0.4756	0.5244	0
+Susanne Ritter	Wesleyan University Center for the Arts Zilkha Gallery	1	0.2375	0.7625	0
+Center for the Arts Wesleyan University Zilkha Gallery	Stiphout Rederij	1	0.3848	0.6152	0
+Bestürling	Arnold von Westvelling	0	0.9318	0.0682	1
+Zee-Osinga Gerrie van der	Regina Rodrigues	1	0.0347	0.9653	0
+Ferdinand Andri the Younger	Gennaro	1	0.2154	0.7846	0
+Ernst Wehrli	Whittier John Greenleaf	1	0.2802	0.7198	0
+Vejarano Alicia	Constantino Arias	1	0.4362	0.5638	0
+Sibylle Lorsbach	Sally Ducksbury	1	0.2634	0.7366	0
+Kurkhaus-Müller Gisela	Helmut Sturm	1	0.3413	0.6587	0
+Tait John	Oudin	1	0.0485	0.9515	0
+Menpes Mortimer L.	Berliner Metallgewerbe Joseph Müller Germany	1	0.0617	0.9383	0
+Zelone	Bernardino Zelone	0	0.5226	0.4774	1
+Dantzig Rachel Margaretha van	Charlotte Grimston	1	0.4890	0.5110	0
+Edison Laurie Toby	Bobrov Vasilii Dmitrievich	1	0.4397	0.5603	0
+James Jennings	J. D. Saint	1	0.4439	0.5561	0
+Bosco	Van Heuve	1	0.4161	0.5839	0
+Morven	Jacob Cyprien-Max	0	0.9532	0.0468	1
+UJAP	Joseph Savina	1	0.1519	0.8481	0
+Grosbois Louise de	il Vecchio di San Bernardo	1	0.1624	0.8376	0
+Park Jonathan	ranson p.	1	0.1507	0.8493	0
+Edmund Dolbeare	Meerle Abraham van	1	0.2140	0.7860	0
+Isamu	高橋 介州	0	0.6215	0.3785	1
+Monogrammist B. (1799)	Passauer Monogrammist B.	0	0.6767	0.3233	1
+Kalev Riva	Alicja Szubert-Olszewska	1	0.1068	0.8932	0
+Pocock	Grey de Wilton Thomas Egerton 1st Viscount	1	0.4176	0.5824	0
+Hisatomi Mitsugu	UK Housing Trust	1	0.1107	0.8893	0
+Kassák Louis	Husam al-Din Lagin	1	0.2250	0.7750	0
+Ioannes X	John X Pope	0	0.7595	0.2405	1
+Ryôji Arai	Juraj Bartusz	1	0.3857	0.6143	0
+Phillips R.A.	Fabron Luigi	1	0.2577	0.7423	0
+Simons	Théofilos	1	0.3035	0.6965	0
+Goethe-Museum	Anton-und-Katharina-Kippenberg-Stiftung	0	0.5510	0.4490	1
+Augustinus de Florentia	Agostino di Duccio?	0	0.8185	0.1815	1
+Neranus A.	Arna Mathiesen	1	0.1817	0.8183	0
+Buchta Siegfried	Charoux Siegfried Joseph	0	0.8297	0.1703	1
+Cowdin Katherine Andrea Parker Berens	Bos Bernardus	1	0.0285	0.9715	0
+Coote James	Auguste Péquégnot	1	0.1171	0.8829	0
+González Francisco Asorey	Francisco Asorey	0	0.6024	0.3976	1
+f. albert kornek	kornek a.	0	0.7831	0.2169	1
+Pfoser Reinhard	Alison Harper	1	0.4013	0.5987	0
+Jitamitra Malla	जितामित्र मल्ल	0	0.9971	0.0029	1
+nicol. lancret	Landcriess	0	0.5014	0.4986	1
+Henry Douas	Edward Hulse Sir 3rd Bart.	1	0.3548	0.6452	0
+Benjamín Jiménez Blanco	Beijel Daniel	1	0.4161	0.5839	0
+anonymous Lake Chad (African)	Zoumpoulidis Nikolaos	1	0.4260	0.5740	0
+Sir Francis Palgrave	Cohen Sir Francis	0	0.9838	0.0162	1
+Baker Harry	Talavera y Heredia Juan	1	0.4074	0.5926	0
+Planungsgruppe Alte Windkunst	Alte Windkunst	0	0.7330	0.2670	1
+Giovanni Da Rimini	Johanes Franciscus de Arimino	0	0.6817	0.3183	1
+Hans Ochs I	Haller von Hallerstein Johann Carl Christoph Joachim (Freiherr)	1	0.1314	0.8686	0
+Perkins (Swallow St.)	Coeke van Aelst Peeter	1	0.0336	0.9664	0
+Theosophische Gesellschaft der Schweiz	Société théosophique de Suisse	0	0.5644	0.4356	1
+Silicon Systems Inc.	Tod Williams and Associates	1	0.3574	0.6426	0
+Lachowicz Rachel	לקוביץ רייצ'ל	0	0.6046	0.3954	1
+Bordelet Louis	Hourde	0	0.8022	0.1978	1
+Armand Gustave	Gustaaf Leonardus Adolf Amand	0	0.7889	0.2111	1
+Mooney John D.	Thomas Kennedy	1	0.1864	0.8136	0
+Susanne William Rasmussen	University of Miami Lowe Art Museum	1	0.2223	0.7777	0
+Kathleen Ferguson	Carl Freiherr von Vittinghof	1	0.3570	0.6430	0
+prof. fritz baer	Baer Friedrich August	0	0.6457	0.3543	1
+Karl Martin von Stegmann	Senator W. A.. Clark	1	0.4821	0.5179	0
+Dowling James	James Dowling Herbert	0	0.8016	0.1984	1
+John Renton Young	Nocken Wilhelm Theodor	1	0.4986	0.5014	0
+Philibert Benoit De II Larue	De la Rue frere de Louis Felix	0	0.7108	0.2892	1
+Atkinson Captain	Atkinson George Franklin	0	0.7712	0.2288	1
+Galleria Masieri	Fondazione A. Masieri. Galleria di Architettura	0	0.9594	0.0406	1
+De Koninck	Salomon Coninck	0	0.9374	0.0626	1
+Deconing Salomon	De Koninck	0	0.6760	0.3240	1
+Rathbone P. H.	Folkestad Bernhard Dorotheus	1	0.3704	0.6296	0
+James Salisbury Burt	burt j.	0	0.8167	0.1833	1
+James Salisbury Burt	Seberth Wilhelm Jakob	1	0.0510	0.9490	0
+Pearson Wright Stuart	Stromer von Reichenbach Jakob Wolfgang	1	0.3291	0.6709	0
+Hofoper	Staatsoper	0	0.6868	0.3132	1
+Weathercock James (pseudonym)	Wainewright Thomas Griffiths	0	0.5967	0.4033	1
+International Federation of Library Associations and Institutions. Sekt︠s︡ii serialʹnykh izdaniĭ	Group of the St. Louis Pelike	1	0.3616	0.6384	0
+Luciano Borzone	Borson di Genova	0	0.9922	0.0078	1
+Borsone	Luciano Borzone	0	0.5399	0.4601	1
+V. A. Shreter	Schröter Viktor	0	0.7237	0.2763	1
+Dutch School 17th - 18th Century	Horst Catharina Louisa van der	1	0.4710	0.5290	0
+Jacob Heusch	J. de Heus	0	0.8490	0.1510	1
+Deetman Adriana Gerarda	Ans Luttge-Deetman	0	0.8195	0.1805	1
+Scottish Arts Council. Fruit Market Gallery	Proletkult Leningrad	1	0.2315	0.7685	0
+Pitt-Rivers Augustus	Fox Augustus Henry Lane	0	0.9692	0.0308	1
+Judy Bankhead	Jean Bony	1	0.1681	0.8319	0
+Castleford Pottery Manufactory	Alvarez Arquitecto y Asociados	1	0.3361	0.6639	0
+טומסי מרסלו	Marcello Tommasi	0	0.9598	0.0402	1
+Evalde Maurice-Bernard	Brøndum Anna	1	0.4498	0.5502	0
+Urbino Antonio María Esquivel Suárez de	Andrea Biancho	1	0.1921	0.8079	0
+Koichi Hara	Ado	1	0.2370	0.7630	0
+Reynier van der Laeck	Laeck	0	0.6384	0.3616	1
+Jacques-Antoine Delaistre	Seiter Daniele Fiammingo	1	0.2888	0.7112	0
+Edwards Peter Douglas	Vardaunis Edgar	1	0.4855	0.5145	0
+M. Brassaiur	Brasjauw Melsen	0	0.9194	0.0806	1
+Buriticá Diego	Pinguente Giovanni Orifici da	1	0.4294	0.5706	0
+Dantyn	Dentyn Lambrecht	0	0.7313	0.2687	1
+Waters Denise	Brown Denise Lebreton	0	0.9335	0.0665	1
+Tetar van Elven Paul Constantin Dominique	Tetar van Elven Paul	0	0.6382	0.3618	1
+Hans Finsler	Jean L.S.	1	0.0772	0.9228	0
+כהן ראובן (3)	Bone Herbert	1	0.1258	0.8742	0
+Francesco Bettio	S. Proutt	1	0.3906	0.6094	0
+Prout	Germany Deutsche Werkstätten für Handwerkskunst	1	0.0461	0.9539	0
+Hawelski Franciszek Ignacy	Francesco Ignazio Bavarese	0	0.9972	0.0028	1
+F.C.G.	Fundação Calouste Gulbenkian	0	0.9669	0.0331	1
+KCHO	Leyva Machado Alexis	0	0.9288	0.0712	1
+Ross Fish Duschenes and Barrett Architects	D. Burnett	1	0.4952	0.5048	0
+Werkgroep 5x5	Stichting Werkgroep 5x5	0	0.7731	0.2269	1
+Norman Denholm Davies	Leonardo Miani	1	0.3406	0.6594	0
+De Vuet	Arnold de Vues	0	0.7737	0.2263	1
+Blackloe	Carlos Buxadé	1	0.1627	0.8373	0
+Belgique. Eglise de Sainte-Walburga Antwerpen	St. Walburga's Church	0	0.9075	0.0925	1
+Eglise de Sainte-Walburga Antwerpen	St. Walburga's Church	0	0.8863	0.1137	1
+Matuschka Joanne	Monsù Cristians	1	0.4352	0.5648	0
+Orlando Busarello	Ilona Lénárd	1	0.3074	0.6926	0
+osler	Carl Theodor Protzen	1	0.3539	0.6461	0
+Christian Friedrich Boëtius	A + I Design Corp.	1	0.2649	0.7351	0
+Paul Julius Arter	Mrs. Walter P. Bliss	1	0.1149	0.8851	0
+Shanxi Provincial Museum	Musée Bastien-Lepage	1	0.0974	0.9026	0
+ウエスチングハウスインダストリープロダクツインターナショナルカンパニー	Markus Draper	1	0.4115	0.5885	0
+Alexander Olch	Hall Debra Jane	1	0.2689	0.7311	0
+Albert Roosenboom	Luis Rebelo de Andrade	1	0.3002	0.6998	0
+Offiener	Allemand Offienier	0	0.5484	0.4516	1
+Valerii Kokurin	Kokurin V. G.	0	0.8036	0.1964	1
+Jeggli Hans (II)	Angel Jove	1	0.4595	0.5405	0
+Appel Marlies	Boxel Marlies van	0	0.6846	0.3154	1
+Il Dentone	Padovano Zuan da Milano	0	0.9165	0.0835	1
+Maatsch Thilo	Maatsch. Friedrich Thilo	0	0.8023	0.1977	1
+Juan Bautista Vázquez de Arce y Ceballos	Bappert Johan Jacob	1	0.2921	0.7079	0
+נרינסקי שלמה	Narinsky S.	0	0.7142	0.2858	1
+Marina Berti	Bertolini Elena Maureen‏	0	0.5247	0.4753	1
+Scott MacLeay	Quintana Simonetti Antonio Luis	1	0.2293	0.7707	0
+Shanshou Huang	Natan Zahavi	1	0.0760	0.9240	0
+P. G. Lazaridis	Felice dai Fiori	1	0.0253	0.9747	0
+Docker Edward Alexander	Adler Nick	1	0.0683	0.9317	0
+Sohm Hanns	Susanne Hofer	1	0.1794	0.8206	0
+Nuscheler Christoph	Skinner	1	0.3341	0.6659	0
+M. J. Zadovechi	Cazin Jean-Baptiste-Louis	1	0.2307	0.7693	0
+Zadovechi M.J.	M. Cazin	1	0.2176	0.7824	0
+G. Assueretti	Axareto Giovacchino	0	0.9396	0.0604	1
+Herrera Hinestrosa the Younger Francisco de	Franz	1	0.2733	0.7267	0
+Clyde Maggi	Guido De Carolis	1	0.3642	0.6358	0
+Commr Inglefield	John Nicholson Inglefield	0	0.9698	0.0302	1
+R. P. Noble	Noble Richard Pratchett	0	0.9352	0.0648	1
+Solon Francis Montecello Badger	Badger Samuel F. M.	0	0.9781	0.0219	1
+Japan Cultural Institute in Rome	Istituto giapponese di cultura	0	0.6252	0.3748	1
+Yann Beauvais	Burino	1	0.0076	0.9924	0
+FLA Florida Architects	Voigtel Karl Eduard Richard	1	0.2308	0.7692	0
+Orléans - duc d'Aumale Henri Eugène Philippe Louis d'	Diez Fabrizio León	1	0.0412	0.9588	0
+Wijkerslooth van Grevenmachern Hendricus Theodorus van	Wilson Don	1	0.1100	0.8900	0
+luca di tomi	Master Of Quintanilla De La Cueza	1	0.1185	0.8815	0
+Andrea di Niccolò da Durazzo	Alesi Andrija	0	0.9045	0.0955	1
+Ellsworth and Associates Landscape Architects	Assadour Harutyuni Bezdikyan	1	0.4411	0.5589	0
+Pztikean Asatur	Assadour Bezdikian	0	0.7885	0.2115	1
+Fidel Margarete	Fidel Grete	0	0.6915	0.3085	1
+Salomé Wolfgang Ludwig	Wolfgang Cilarz	0	0.9296	0.0704	1
+Berardo da Teramo	Cedeño Omar	1	0.4649	0.5351	0
+Campbell Zogolovitch Wilkinson and Gough	CZWG	0	0.6904	0.3096	1
+Mapylton Thomas	MAR	1	0.2965	0.7035	0
+Martuinov Andrei Evthimievich	Andrej Martynoff	0	0.6501	0.3499	1
+Yermolayeva Vera Mikhaylovna	Urbach Marianne Yampolsky	1	0.3937	0.6063	0
+Norbert Zeitler	Tilton John Havemeyer Jr.	1	0.1961	0.8039	0
+Caylar	Quella	0	0.5054	0.4946	1
+Schivo Giovanni Marco	Cesaretti Gusmano	1	0.2222	0.7778	0
+Brown Christopher	Hurn P.S.	1	0.1586	0.8414	0
+Griswold Boyden Wylde & Ames	Blume-Siebert Ludwig	1	0.2351	0.7649	0
+Clotaire III re di Neustria e di Borgogna	Hlothar III	0	0.5385	0.4615	1
+Agin Richard Shane	Agin Shane	0	0.5220	0.4780	1
+Peter Gitschaler	Kappeler Eric	1	0.3548	0.6452	0
+Moretti I.	Emil Hostettler	1	0.3350	0.6650	0
+Louis H. Boynton	Duboulloir Antoine	1	0.4302	0.5698	0
+אסכולת טימור	anonymous Timurid	0	0.9524	0.0476	1
+Serra Eudaldo	Eudald Serra Guell	0	0.5409	0.4591	1
+Laurent Cars	Cars	0	0.6828	0.3172	1
+Richard Boyle 1st Earl of Burlington	Leonard Haber	1	0.3040	0.6960	0
+Donald J. Stanzione Associates	De Sosa Norah Cano	1	0.4713	0.5287	0
+Schlüter Torsten	Specht Wilhelm Emile Charles Adolphe de	1	0.1744	0.8256	0
+Stundre Jean Jacques	Johann Jakob Stunder	0	0.6394	0.3606	1
+Samuels Emerson	Marisel Jiménez	1	0.1952	0.8048	0
+Nicholas Hilda Rix	Rix Miss Emily Hilda	0	0.5818	0.4182	1
+Schnebli Dolf	Daphné Charles	1	0.2994	0.7006	0
+Bernd Berner	Barthélemy-Prosper Enfantin	1	0.2560	0.7440	0
+Berner Bernd	Barthelemy-Prosper Enfantin	1	0.1631	0.8369	0
+Friedli Bendicht	Eric Ebbinge	1	0.4101	0.5899	0
+Eric	Erickson Carl	0	0.7557	0.2443	1
+Arden Carmello	Alves Oyarzum Carmelo (birth name)	0	0.9934	0.0066	1
+Julia Antonine Girardet	Guarienti Carlo	1	0.1443	0.8557	0
+Boris Frödman-Cluzel	Roche-Rabell Arnaldo	1	0.4742	0.5258	0
+Milani	Cesare Milani	0	0.5034	0.4966	1
+Doucun	梁树年	0	0.8415	0.1585	1
+Cosmas II	Cosmatus de Petrus Mellini	0	0.8429	0.1571	1
+Ivan Peter Chlumsky	P. Shukin	1	0.0462	0.9538	0
+Tahoe-Sierra Preservation Council	Salvatore Silkscreen Co. Inc.	1	0.2568	0.7432	0
+Greil Johann Peter	Josep Llorens Artigas	1	0.2568	0.7432	0
+Antpöhler Hajo	Paul Putzhoven-Hambüchen	1	0.0174	0.9826	0
+Piet Zijp	Guidi Pietro	1	0.0317	0.9683	0
+Zondelevich David	Fieldhouse Ken	1	0.1295	0.8705	0
+草間彌生	Nusama Yayoi	0	0.8630	0.1370	1
+Lodewyck Jansz. van den Bosch	de (Leuven) Neef	1	0.2238	0.7762	0
+Vierpeyl Jan Carel	Vigers Allan Francis	0	0.9787	0.0213	1
+Jean Cotelle the Elder	De Bourke Edmond comte	1	0.4463	0.5537	0
+Neuhaus Karl August Friedrich	Neuhaus	0	0.9478	0.0522	1
+Rajesh Dongre	John Stone Craig	1	0.2709	0.7291	0
+Capeski Müller	Sch^D	0	0.9961	0.0039	1
+Friedrich Bouvier	Verbruggen Gaspar Peeter II	1	0.3132	0.6868	0
+Hughes Robert	Harper Peter	1	0.4576	0.5424	0
+Nishioka Hiroshi	Jansana de Anzizu José Oriol	1	0.1891	0.8109	0
+Hiroshi Nishioka	Anzizu Josep Oriol Jansana de	1	0.4131	0.5869	0
+Louis Eckhardt	M. Ekart	0	0.9554	0.0446	1
+Georg Ludwig Eckhardt	M. Ekart	0	0.9848	0.0152	1
+Robbia Luca Di Simone Di Marco Della	robbiawerkstatt	0	0.6715	0.3285	1
+Gemarius de Kepper Peter	St. Germain Jean-Joseph de	1	0.2365	0.7635	0
+פרבר הרברט	Silvers Herbert	0	0.8992	0.1008	1
+Giovanna Piraina	Bassegio	1	0.3086	0.6914	0
+Joseph-Daniel Naudou	Jacop Adriaensz	1	0.4005	0.5995	0
+Cambier Louis-Gustave	BAILA (Black Artists in Los Angeles)	1	0.3055	0.6945	0
+Bissucio	Leonardo Da Besozzo	0	0.5916	0.4084	1
+Enghelrhams Cornelius	Carl Ehlers	1	0.3988	0.6012	0
+Franco di Bonavita	Franco Bolognese	0	0.6600	0.3400	1
+Deneer Catharina Henriëtte	Deneer Karin	0	0.5530	0.4470	1
+Marville Jean de	Hennequin de Manreville	0	0.5520	0.4480	1
+Yelin Rudolf	Feind	1	0.1725	0.8275	0
+The Phillips gallery	Phillips Memorial	0	0.8170	0.1830	1
+Barry Charles Derek Brown	N. E. Urry	1	0.4414	0.5586	0
+Hammershoi Ida	Ida Ilsted	0	0.9879	0.0121	1
+Barraclough James P.	Pablo Carvajal y de Urquijo	1	0.2905	0.7095	0
+Kaplan Sid	Silk Guild (Florence Italy)	1	0.2907	0.7093	0
+Jean-Claude Naigeon	Néjau	0	0.6678	0.3322	1
+Pfleghard Otto	Porter Donald A.	1	0.1838	0.8162	0
+Sassone	Sophia König	1	0.2615	0.7385	0
+Rob Aardse	Miranda Evany Cardoso	1	0.2540	0.7460	0
+Jacobello del Fiore	Pedro Vallone	1	0.0607	0.9393	0
+Meester van de Verheerlijking van Maria	master of the glorification	0	0.7660	0.2340	1
+Minella Pietro Di Tommaso Del	Bartomeu	1	0.3645	0.6355	0
+Ovase	Houasse Miguel-Angel	0	0.5140	0.4860	1
+Lenique de Francheville Andrée	Miss Andrée Lenique	0	0.8604	0.1396	1
+USA Hudson Fixtures	Master of the Troyes Missal	1	0.3684	0.6316	0
+Magd. Moreels	Hayes Margaret Calder	1	0.1791	0.8209	0
+c. gobl	Camilla Göbl	0	0.7654	0.2346	1
+Jiří Danék	Dyk Yolanda van	1	0.0896	0.9104	0
+Σόλων	Monika Hellmuth-Claus	1	0.2546	0.7454	0
+Giovanni Battista Duguet	Songxuezhai	1	0.1641	0.8359	0
+Dughé	Zhao Wenmin	1	0.0941	0.9059	0
+Martino il Veronese	Cignaroli Il Veronese	0	0.6872	0.3128	1
+Bourmestre	Eritrean Orthodox	1	0.4813	0.5187	0
+Forrest Associates	Ottorino Stefani	1	0.1362	0.8638	0
+Cooper Susan	Unesco. Division of Cultural Heritage	1	0.3714	0.6286	0
+Backer Hendrik Herman	bac	0	0.6125	0.3875	1
+van Lint	P.V. Lint	0	0.5891	0.4109	1
+Ring	Ludger Tom Ring der Ältere	0	0.6454	0.3546	1
+Maes Canini Jean Baptiste Lodewijk	Benjamin Marcos Coelho	1	0.0777	0.9223	0
+ICOMOS France	Section française de l'ICOMOS	0	0.7047	0.2953	1
+Lanfant de Metz	Lanfant Francois Louis	0	0.8394	0.1606	1
+Mackenzie Mrs.	Mackenzie Phyllis	0	0.8034	0.1966	1
+Stefano Novo	Osis Jan Janovič	1	0.4439	0.5561	0
+Strek Blå	Balkow Margret	1	0.3715	0.6285	0
+Juanita Lecaros Izquierdo	Gédéon Légaré	1	0.2762	0.7238	0
+Billmyer Nieves Marshaleck	Charles Hamilton Sabin	1	0.3947	0.6053	0
+County Museum of National Topography	Nunes	1	0.3867	0.6133	0
+Lord Mary	Molyneux Robert	1	0.4953	0.5047	0
+Bauer Luigi	Luigi Agricola	0	0.7704	0.2296	1
+L'Estache Pierre	Per II Krafft	1	0.0987	0.9013	0
+Adel Martin	Millian Thaddaus	1	0.4552	0.5448	0
+Fulcher Barney	Fulcher Colin	0	0.9565	0.0435	1
+Broussonet Stella	Bouzonnet-Stella (unidentified)	0	0.7631	0.2369	1
+anonymous Huron	W. Hewison	1	0.4414	0.5586	0
+Cullèn Carmen	Cullén Carmen Pérez Seoane	0	0.5307	0.4693	1
+Aramendía de San Segundo María Victoria	Bienaimi	1	0.2287	0.7713	0
+Bienaimi	Bush	1	0.4146	0.5854	0
+薮明山	Tikkeetok	1	0.0576	0.9424	0
+Tikkeetok	Tadeusz Zieliński	1	0.0539	0.9461	0
+Tikito	Tadeusz Zielinski	1	0.0154	0.9846	0
+Düsseldorf. Kunstsammlung Nordrhein-Westfalen	Landesgalerie	0	0.9201	0.0799	1
+Elliott Rita	Lizerant Domique	1	0.4977	0.5023	0
+Clisorius	Castel	1	0.4494	0.5506	0
+Golsh Larry	Lawrence G. Golsh	0	0.6278	0.3722	1
+Lorenzo Ghiberti	Bartoluccio Lorenzo di	0	0.7623	0.2377	1
+Bartolo Michele Lorenzo di	Lorenzo Ghiberti	0	0.6534	0.3466	1
+Jan Aerntsz	Henrik Jais-Nielsen	1	0.2610	0.7390	0
+Fincke Edith Gilbert Clark	Pittore di Leida	1	0.3388	0.6612	0
+professor august heyn	august heyn	0	0.7968	0.2032	1
+Lake (Native American) (unknown)	Pat O'Sullivan	1	0.2831	0.7169	0
+Matthäus Böblinger	Matthäus von Esslingen	0	0.6711	0.3289	1
+Woods Marcia Jean	Hafif Marcia	0	0.9917	0.0083	1
+Giovanni Pezzoli	Pisenti Giuseppe	1	0.1647	0.8353	0
+Johannes Capistranus Saint	Inka Atahualpa Emperador Quiteño del Tahuantinsuyo	1	0.3416	0.6584	0
+Atao Wallapa	Amato Paul D'	1	0.1617	0.8383	0
+Moretti-Larese Eugenio	Metropolitan Design Group Inc.	1	0.2321	0.7679	0
+Björn Dahlem	Ben Joe Jr.	1	0.1530	0.8470	0
+Lethbridge Julian	Kitty Dillen	1	0.4850	0.5150	0
+Bleker	Gerrit Claesz Blaker	0	0.5114	0.4886	1
+Quaglio Simon	Toltz King Duvall Anderson & Associates	1	0.3120	0.6880	0
+Rutter	Carl Ruthards	0	0.8144	0.1856	1
+J. A. Henckels Zwillingswerk	J. A. Henckels International	0	0.5045	0.4955	1
+Hart Leo	Johannes Theodore Baargeld	1	0.4869	0.5131	0
+Janet Cross	Turcan Jean	1	0.0975	0.9025	0
+Man and his Work Museum	'Adam ve-Amalo'	0	0.9815	0.0185	1
+Andrea Chiesa	Eyl Johannes Jacobus Jozef Maria van	1	0.4053	0.5947	0
+Louis the Prudent	Louis XI re di Francia	0	0.5899	0.4101	1
+Borghese House of	Borghese Prince	0	0.7024	0.2976	1
+Roma Italia. Palazzo Borghese	Borghese Prince	0	0.9958	0.0042	1
+APT	Patijn Wytze	1	0.4752	0.5248	0
+Munda	Musée des Beaux-Arts Université Laval	1	0.0433	0.9567	0
+John Erich Wilhelm	John Erich	0	0.5060	0.4940	1
+Barreiro Fernando Casqueiro	BIC	1	0.4600	0.5400	0
+Maryssa La Rose	mr rob.t l. stuart	1	0.2396	0.7604	0
+Hunt Cecil Arthur	Louis Charles Hellart	1	0.0512	0.9488	0
+טמאיו רופינו	Rufino Tamayo	0	0.7223	0.2777	1
+Costa Pietro	De Coster Pieter	0	0.9771	0.0229	1
+Pissarro Félix	Australia. Australian Greenhouse Office	1	0.3103	0.6897	0
+Jeremiah Ford	J. J. Fernand Hamar	1	0.3461	0.6539	0
+Natural History Museum	Tampereen Luonnontieteellinen Museo	0	0.8007	0.1993	1
+Olivier Stanislas Perrin	Lodovico Perini	0	0.9256	0.0744	1
+Sorin Saveli Abramovich	Carse William	1	0.2012	0.7988	0
+Master With The Mouse Trap	Monogrammist T N	0	0.5444	0.4556	1
+jacob leisten	i. leisten	0	0.9207	0.0793	1
+Luis Llach Llostra	Sotelo	1	0.0353	0.9647	0
+Henry Collins Bispham	Licht Vision	1	0.4642	0.5358	0
+Bohler and Steinmeyer	F. Steinmeyer c/o Lucerne Fine Art Co	0	0.7364	0.2636	1
+Sig.r Marchese Carlo Gerini	Carlo Francesco Gerini	0	0.8447	0.1553	1
+Fielding Theodore Henry Adolphus	Theirling H. J.	1	0.3575	0.6425	0
+Mitarakis Jean	Jesuit	1	0.4446	0.5554	0
+Fonhave Hinrich	Funghoff Heinrich	0	0.5397	0.4603	1
+J.F. Talmage	Gail Matthias Joseph	1	0.0471	0.9529	0
+Reza	Riza Abbasi	0	0.8237	0.1763	1
+Al-Ghoussein Tarek	Stockholm. Dramatiska teatern.	1	0.4488	0.5512	0
+Frymeier G.	Jacob Frymire	0	0.8911	0.1089	1
+Minguez José	Egmond Dirk Wilhelmus Johannes	1	0.3419	0.6581	0
+Raibolini Giacomo di Francesco	Giacomo Francia	0	0.6386	0.3614	1
+nigg	josef nigg	0	0.6207	0.3793	1
+Latvian Open-Air Museum of Ethnography	Latvijas Etnografiskais Brivdabas Muzejs	0	0.7223	0.2777	1
+Susanna Baer and Caroline Ingram	Pushkin Museum of Fine Arts	1	0.4736	0.5264	0
+Grossing Gerhard	research architecture design	1	0.1207	0.8793	0
+Likka Paajanen	Radonich Bazilka Stepanova	1	0.3764	0.6236	0
+Sutton Palmer	Michel-Tourre Valentin-Tourret Architects	1	0.4896	0.5104	0
+Adams KC	S. O. Khan-Magomedov	1	0.1875	0.8125	0
+Canters Huybrecht	Catherine Bizouard	1	0.0340	0.9660	0
+Maillet Jacques-Léonard	il Vecchietta	1	0.3584	0.6416	0
+Vignen	Alexandre Vigneux	0	0.8366	0.1634	1
+H. Delpierre	Peter Lindbergh	1	0.3034	0.6966	0
+אשר מוריס קורנליס	M. C. Escher	0	0.9521	0.0479	1
+fratello di Cornelio de Valle	L. de Waal	0	0.9880	0.0120	1
+Schievelbein Hermann	Lenney Leah	1	0.4714	0.5286	0
+Jacobsen Antonio Nicolo Gasparo	Juan Ignacio Mera	1	0.3258	0.6742	0
+Margaret Wharton	Margaret Smith	0	0.6505	0.3495	1
+Cavalier Bernin	Bernini Lorenzo	0	0.9525	0.0475	1
+Jones Horace (Sir)	Bergonzoni	1	0.2641	0.7359	0
+Ulla Procope	Vicente Pollarollo	1	0.3726	0.6274	0
+Belcher John	Belcher Sir	0	0.5573	0.4427	1
+Tazawa Hiroyuki	Yokoyama Matsusaburo	1	0.0732	0.9268	0
+Isman	Carlo Eismann	0	0.7240	0.2760	1
+Reuben Cox	Tee Corinne	1	0.2624	0.7376	0
+Ross (unidentified)	Baroness Robert de Domecy	1	0.3591	0.6409	0
+謝孝德	De Hsieh Hsiao	0	0.6132	0.3868	1
+Stuart John	Uwe Häntsch	1	0.4395	0.5605	0
+Brise Bar	Hruby-Sperker Evelyn	1	0.0690	0.9310	0
+Planungsgruppe HASS Freiraum und Landschaft	HASS	0	0.7846	0.2154	1
+John Matthews	HASS	1	0.0385	0.9615	0
+Hannibal Choate	Baedts Alphonse Johannes Maria Bernardus de	1	0.4199	0.5801	0
+Mikko Leppo	Ippei Takahashi	1	0.4424	0.5576	0
+Cornelis Clemlemburg	J. Van Lelinberg	0	0.9419	0.0581	1
+STV / Silver & Ziskind Architects Planners	Harding Steve	1	0.3006	0.6994	0
+Willers-Cocke Anna	Cocke Anna	0	0.8606	0.1394	1
+Willers-Cocke Anna	Watts Ken	1	0.2916	0.7084	0
+Butterfield Leroy Taylor	Pittore di McDaniel	1	0.3252	0.6748	0
+unknown New Guinea	川内倫子	1	0.4448	0.5552	0
+SPEA	Gruppo IRI-Italstat	0	0.5778	0.4222	1
+William Hastings	Weekly	1	0.1967	0.8033	0
+Krajské muzeum východních Čech v Hradci Králové	Museum Reginaehradecensis	0	0.8686	0.1314	1
+Francesco da Volterra	Capriani Francesco	0	0.8681	0.1319	1
+Bodleian Library. Manuscript. Bodley 764	Liber bestiarum	0	0.5009	0.4991	1
+Tsekolis Rafail	Ceccoli Raffaello	0	0.9852	0.0148	1
+Gérard-Joseph Christian	M. Christian	0	0.6231	0.3769	1
+Markus Baldegger	Kuhn-Bergander-Bley Germany	1	0.0418	0.9582	0
+Stuart Carson Edie	Edie Stuart	0	0.5550	0.4450	1
+James Hamilton	Mauldin Helen T.	1	0.1856	0.8144	0
+Jean Laurent Legeay	Le Geay Architecte	0	0.8417	0.1583	1
+Knoll & Co.	Walter Knoll & Co.	0	0.5644	0.4356	1
+Hugues Heide	D'Aujourd'Hui August Otto	1	0.2202	0.7798	0
+Eiko Fan	Folk Art Museum	1	0.4631	0.5369	0
+Ambrogio Bono	Bainbridge Holborn	1	0.4938	0.5062	0
+Croÿ Peter Severin	Perkins E.W.	1	0.1714	0.8286	0
+felicetto scolaro di Giacinto Brandi	Ottini Felice	0	0.8806	0.1194	1
+Department of Publications and Urban Design Organizing Committee of the XIX Olympiad	Benno Adam	1	0.1741	0.8259	0
+Pilgram Anton II	Pilchramb Anton	0	0.8817	0.1183	1
+Dirk Versteegh	Guervos Luis Enrique de Santiago	1	0.4828	0.5172	0
+H. E. Hartolt	Thieriot Charles H.	1	0.1243	0.8757	0
+Pipolo Oreste	Lopez Andres	1	0.0748	0.9252	0
+Gallizzioli Vettoria (unidentified)	Pellicciaio Jacopo di Mino del active 14th century	1	0.1225	0.8775	0
+Henry Bainbridge Mccarter	Henry McCarter	0	0.7879	0.2121	1
+Hsiao-hsiao	Wen Tong	0	0.6521	0.3479	1
+Oliver Kruse	John Oliver	1	0.3148	0.6852	0
+Tillerand	Tisserand	0	0.5938	0.4062	1
+Duch Christian	אנדריה ז'קלין	1	0.4607	0.5393	0
+Harry Elsas	Elsas Heinz Hugo Erich	0	0.5521	0.4479	1
+Gill Watkiss	Walker	1	0.3331	0.6669	0
+Marta Sierra Delage	Adelaide Astori	1	0.4965	0.5035	0
+Zwanenburgh	Pieter Swanenburg	0	0.5196	0.4804	1
+Le vieux Rysbrack	Rijsbregts	0	0.9513	0.0487	1
+Saulnier Jules	李林俐	1	0.1165	0.8835	0
+Ulrich Findeisen	Louis Pierre Lucien Leydet	1	0.1766	0.8234	0
+T. Willekens	Willigen Claes Jansz. van der	0	0.7437	0.2563	1
+Quinckhardt	J.M. Quinkhard	0	0.7054	0.2946	1
+Rebekka Stalder	Kretzschmer Albert	1	0.0093	0.9907	0
+De Guevara Francisco Rizi	Francisco Rizi	0	0.5004	0.4996	1
+Ricci Francisco	De Guevara Francisco Rizi	0	0.7983	0.2017	1
+Merodack-Jeaneau Alexis	La Hire Louis de	1	0.3963	0.6037	0
+Granby Charles Cecil John Marquess of	Rutland Charles Cecil John Duke of	0	0.8497	0.1503	1
+Rutland Charles Cecil John Manners 6th Duke of	Granby Charles Cecil John Marquess of	0	0.5085	0.4915	1
+Agasse Jacques Laurent	Castro Llamas José	1	0.1515	0.8485	0
+Rens Alta	Walter Francis Montagu-Douglas-Scott 5th Duke of Buccleuch	1	0.4959	0.5041	0
+Novello Enrico	Caloen Véronique van	1	0.0157	0.9843	0
+סולומון רוזלינד	Solomon Rosalind	0	0.7230	0.2770	1
+Christian Zacho	Peter Morch Christian Zacho	0	0.8825	0.1175	1
+Lode De Preter	Pollak Benedikt Fred	1	0.1174	0.8826	0
+Iturriaga del Campo Sandra	Ispīnūzā	1	0.4995	0.5005	0
+Lallerstedt Erik	Internationale Akademie für Architektur	1	0.2015	0.7985	0
+אלפי זמירה	Mühlethaler Rolf	1	0.4062	0.5938	0
+Jean-Baptiste Adam	Adam	0	0.7815	0.2185	1
+robert zund	Zund	0	0.7856	0.2144	1
+Danish Rehabilitation Group	DRG	0	0.5437	0.4563	1
+Clusolo Adamo Conte	Chiusole Adam	0	0.8894	0.1106	1
+Moser Alex	Padina-Moser Alex	0	0.5316	0.4684	1
+Eremita Richardus	Hampole Richardus	0	0.9917	0.0083	1
+Johannes van de Putte Nicolaasz.	Putte	0	0.5536	0.4464	1
+Schoone Adrianus Gerardus van	Swedish National Committee of ICOM	1	0.4870	0.5130	0
+Simon Maria	Wasserman Simon	1	0.2977	0.7023	0
+Vermejo	Cárdenas Bartolomé de	0	0.9786	0.0214	1
+Verspronck Jan Cornelisz.	G. Sprong	0	0.6875	0.3125	1
+Fattah al-Turk	Potter Julia K.	1	0.3501	0.6499	0
+CEDR	University of California Berkeley. Center for Environmental Design Research	0	0.8489	0.1511	1
+Meyer-Eßlinger Johann Jakob	Ib Rasmussen	1	0.2347	0.7653	0
+Battista di Niccolì di Luteri	Dossi Lutero	0	0.7660	0.2340	1
+Thomas Lussi	L. Stuart	1	0.1455	0.8545	0
+Miel Francis	Vernay Miel	0	0.9492	0.0508	1
+Michele Cossyro	Alek	1	0.2797	0.7203	0
+Alek	Hans Gangoly	1	0.4191	0.5809	0
+Ing. C. Olivetti & C. S.p.A. Ivrea Italy	Painter of Bologna 571	1	0.2454	0.7546	0
+Italy. Servizio musei e parchi archeologici	Rossi Tullio	1	0.1282	0.8718	0
+Bruno Saint	Bonagrazia Giovanni	1	0.1135	0.8865	0
+Young Aestean P.	Kouichi	1	0.0915	0.9085	0
+Aestean P. Young	Teshigahara Sōfū	1	0.4118	0.5882	0
+Ephraim-Marcus Käthe	Master of the Klosterneuburg Saint Stephen Altar	1	0.0418	0.9582	0
+Master of the Klosterneuburg St. Stephen Altar	Eikenboom	1	0.1380	0.8620	0
+Ulrich Wolfhartshauser	Schweizer Till	1	0.4491	0.5509	0
+Janssen Antonius Johannes Leonardus	Janssen Twan	0	0.6324	0.3676	1
+Constant Mayer	mayer c.	0	0.6849	0.3151	1
+HausdorfHeinz	Joannes Fra'	1	0.4699	0.5301	0
+Thoresen Peder Andersen	Balke Peder Andersen	0	0.8474	0.1526	1
+Ciardi Giuseppe (1786)	Canada/UK Architects Group	1	0.4862	0.5138	0
+ברואר וייל דוד	Ronaldo Racy	1	0.4944	0.5056	0
+Rijsbrack Pieter Andreas	Bass Pinky	1	0.3815	0.6185	0
+Friese Nathaniel	Freese N.	0	0.7579	0.2421	1
+Kempen van (unidentified)	M. Bunge	1	0.4626	0.5374	0
+William Satchwell Leney	Leney William	0	0.5549	0.4451	1
+nic. bern. lepicie	M. Lepicié	0	0.7843	0.2157	1
+Stroukoff Eumie Imm	Imm Eumie	0	0.6285	0.3715	1
+Mansion André Léon Larue	Larue Leon I	0	0.8695	0.1305	1
+Alerdincg Hermann	Alerinck H.	0	0.9534	0.0466	1
+RSM Design	Redmond Schwartz Mark Design	0	0.6318	0.3682	1
+ICOMOS International Specialized Committee for the Conservation of Wooden Structures and Constructions	ICOMOS Wood Committee	0	0.5775	0.4225	1
+alfr. heide	a. heide	0	0.5567	0.4433	1
+Böll Aloys	Ajolfi Elia	1	0.4569	0.5431	0
+Wilhelmina Princess consort of William V Prince of Orange	Oranje-Nassau Frederika Sophia Wilhelmina	0	0.5249	0.4751	1
+Sam Butnik	Birney Imes III	1	0.3863	0.6137	0
+Bingham H. V.	Frederick V. Bingham	0	0.9256	0.0744	1
+i. a. knip	j. augustus knip	0	0.8724	0.1276	1
+Hermann Pfaff	Häeffner Margarethe	1	0.2779	0.7221	0
+Le Tourneur Etienne-François-Louis-Honoré	John Tremenheere	1	0.4851	0.5149	0
+William C. Hayes 1903-1963  Etyptologist  renderer	T.H. van Willigen	1	0.4898	0.5102	0
+Henri Frédéric prince de Galles	Jongers Alphonse	1	0.3702	0.6298	0
+Henry de Gray Nicolas l'Ancien	Lin-su-lao-jen	1	0.2362	0.7638	0
+Nicolas Henry De Gray	hao Linsu Laoren	1	0.3707	0.6293	0
+江本 義理	Yoshimichi Emoto	0	0.6681	0.3319	1
+Casorati Maugham Daphne	Hardy Daphne (1897)	0	0.9918	0.0082	1
+Rini Dado	Dado Catharina Gerarda Maria	0	0.6483	0.3517	1
+Bearden Romy	Div. of Revere Copper and Brass Rome Manufacturing Co. Inc. Rome NY	1	0.4773	0.5227	0
+Gay Jean Joseph Pascal	Zapiain Luis Antonio	1	0.3141	0.6859	0
+P. F. Storgue	Storck P.F. (unidentified)	0	0.7880	0.2120	1
+P.F. Storgue.	Storck P.F. (unidentified)	0	0.7971	0.2029	1
+Dall	Müller-Jontschewa Alexandra	1	0.0267	0.9733	0
+Melo Marcelo Luiz Silveira de	Kozma Lajos	1	0.3854	0.6146	0
+Valmore Marceline Desbordes-	Desbordes Marceline Félicité Josèphe	0	0.7143	0.2857	1
+Jean de Liège ii	Nagy Balogh Janos	1	0.0472	0.9528	0
+Jean de Liège	Balogh János Nagy	1	0.0669	0.9331	0
+Wu Chiafang	Kim Young L.	1	0.4008	0.5992	0
+Kim Young L.	Hugo Konig	1	0.3901	0.6099	0
+Bang & Olufsen of America Mount Prospect IL	Musegai Bōin Jūzan	1	0.1245	0.8755	0
+Edwin A. Ulrich Museum of Art Wichita State University	Vito Michele de	1	0.2618	0.7382	0
+Wichita State University Edwin A. Ulrich Museum of Art	Vito Michela de	1	0.1299	0.8701	0
+Richard S. Requa	Krajewski Andrzej	1	0.4206	0.5794	0
+Garbisch Bernice Chrysler	col. mrs. edgar garbisch	0	0.8189	0.1811	1
+Hall Frederick	Sherlock	1	0.0785	0.9215	0
+Jacobi	Antonio Donati	1	0.4948	0.5052	0
+Mulinaretto	piane giov. maria dalle	0	0.7599	0.2401	1
+Kautz Amelie	Lacepede Amelie de nee Kautz	0	0.9730	0.0270	1
+Austrian Gallery Belvedere	Belvedere Vienna	0	0.9913	0.0087	1
+Albagini Filippo	Carlo Albacini II	0	0.9043	0.0957	1
+TARL	קווסטלר גרטרוד	1	0.3916	0.6084	0
+Keep Albert	Blakeslee	1	0.0040	0.9960	0
+Alfonso Mercurio Architetti	AMA Group	0	0.9494	0.0506	1
+Donato da San Luca	Marcus Antonius Gordianus Sempronianus Romanus	1	0.4891	0.5109	0
+Marcus Antonius Gordianus Sempronianus Romanus Africanus I Emperor of Rome	Antonio Chedráui Chaparro	1	0.3304	0.6696	0
+CPRE	Christopher Hyland	1	0.3655	0.6345	0
+Hergé (ps.)	Georges Remy	0	0.7774	0.2226	1
+Santos Tostões Ana Cristina dos	Giacomo Soffiantino	1	0.4599	0.5401	0
+Beady-thyrsus Group	Groupe du Thyrse Perlé	0	0.7070	0.2930	1
+Dal Friso	Alvise Benfatto	0	0.9385	0.0615	1
+Saveliev Slava	Alvise Benfatto del Friso	1	0.1536	0.8464	0
+Catherina de Hen	Snap Catharina van der	0	0.8831	0.1169	1
+Knipbergen Catherina van	Catherina de Hen	0	0.9890	0.0110	1
+Loes van Waalwijk van Doorn	Goedewaagen Louise	0	0.7707	0.2293	1
+Luetkemeyer Molly	Kyūkei	1	0.4985	0.5015	0
+J. Sempel	Bassenge Paul	1	0.3603	0.6397	0
+Gerhild Diesner	Levinge Richard G. A.	1	0.4896	0.5104	0
+De Koning	David de Koninck	0	0.7886	0.2114	1
+Locatelly Giovanni Francesco	J.-F. Lucatelli	0	0.7001	0.2999	1
+Lucatelli Giovanni Francesco	J.-F. Lucatelli	0	0.6053	0.3947	1
+Z'Graggen Maria Magdalena	Master of the Marble Madonnas	1	0.2936	0.7064	0
+Johnson Inc.	Bernard Johnson Inc.	0	0.5621	0.4379	1
+Bateman Lucy	Žemajtis Al'bert Danilovič	1	0.2070	0.7930	0
+Mr. Wright	Martin Grover	1	0.0936	0.9064	0
+Rathe Joanne	Sartorius John Nott	1	0.3261	0.6739	0
+Joanne Rathe	Sartorius John N.	1	0.1529	0.8471	0
+Augusto Perez	Cause	1	0.3748	0.6252	0
+Nilus Petr Aleksandrovich	Nilouss Pierre	0	0.6159	0.3841	1
+Paulino Gómez	Giuseppe fiammengo	1	0.1095	0.8905	0
+Robert Quijada	Robert James Foose	1	0.3905	0.6095	0
+André Silvius	André du Bois	0	0.9785	0.0215	1
+Eva Siao	Ye Hua W.-G	0	0.9102	0.0898	1
+Archeworks	Austin Parkinson & Martin United States firm	1	0.4737	0.5263	0
+Huytens	François Bernard Huyttens	0	0.6608	0.3392	1
+Schwezge	Mathias Czwiczek	0	0.7218	0.2782	1
+Cwiczeck Mathias	Schwezge	0	0.9648	0.0352	1
+Wewoke Mynour	Waywike Maynard	0	0.8973	0.1027	1
+Académie de théâtre radio cinéma et télévision	Univerza v Ljubljani. Akademija za gledališče radio film in televizijo	0	0.6971	0.3029	1
+Jacobson Arthur	Arhiv Tošo Dabac	1	0.4866	0.5134	0
+Jacobson Art	Tošo Dabac Archives	1	0.0692	0.9308	0
+Fu-chien sheng po wu kuan	Schiefferstein Ernest	1	0.4823	0.5177	0
+Palco Franz Carl	Palcko	0	0.5918	0.4082	1
+mrs chas s. munson	Munson Marjorie Oatman	0	0.8461	0.1539	1
+Berry Judith	Beyer Gerd	1	0.0889	0.9111	0
+Gabler Lothar	Appelrath Ludwig	1	0.1512	0.8488	0
+Peter Auer	James Edward the Old Pretender	1	0.0913	0.9087	0
+Eastlake Mary	M. Semmler	1	0.0341	0.9659	0
+Wilson Architects	Sauerweid Alexander Iwanowitsch	1	0.1235	0.8765	0
+Yi Kye-ho	Das Sujoy	1	0.0255	0.9745	0
+Szathmari Carol Pop de	Szathmari Karl	0	0.9381	0.0619	1
+Ths. Agnew & Sons London	Thomas Agnew	0	0.9059	0.0941	1
+Thos Agnew & Sons London	Thomas Agnew	0	0.9084	0.0916	1
+Fredou Marie Catherine (maiden name)	Mary Catherine François	0	0.6860	0.3140	1
+Arminio (unidentified)	Sig. Arminio	0	0.9181	0.0819	1
+Beechey Miss Frances Ann	Frances Ann Hopkins	0	0.8932	0.1068	1
+Wiener Schottenmeister	Master of the Schotten Altar II	0	0.7092	0.2908	1
+Estudio Korn-Lopatín	Johann Kaspar Augustin Odendahl	1	0.0985	0.9015	0
+Poultier Jean	Paul Louis Brown	1	0.2522	0.7478	0
+Marvins Sonia	Keulen Simon van	1	0.4567	0.5433	0
+José Milner Cajahuaringa	Salam Rana	1	0.2312	0.7688	0
+Eileen Forrester Agar	Agar Eileen	0	0.5153	0.4847	1
+Petrus Johannes de Engelsen	Reysschoot De Engelschman	0	0.9729	0.0271	1
+Raymond René Aiffre	Mayer and Pierson	1	0.0824	0.9176	0
+DCM	Denton Corker Marshall	0	0.7789	0.2211	1
+John Wilhite	Olivier Johann Heinrich Ferdinand	1	0.2079	0.7921	0
+Tiffany Glass & Decorating Company	Marcellus Wright Cox and Smith	1	0.3480	0.6520	0
+Hans Seiler	Sharon Shein	1	0.3731	0.6269	0
+Albert Anatole Martin Ernest Lambron Des Piltieres	Eisenman/Trott Architects	1	0.2477	0.7523	0
+Nicoll Craig	James Craig Nicoll	0	0.6086	0.3914	1
+Frai Felicita	Frajova Felice	0	0.7533	0.2467	1
+Squire Smith	Tom Smith	0	0.5129	0.4871	1
+Fragua Glendora	Daubs Glendora	0	0.9576	0.0424	1
+Andry-Farcy	Harcourt et d’Armagnac Henri de Lorraine comte d’	1	0.4904	0.5096	0
+Harcourt et d’Armagnac Henri de Lorraine comte d’	Cornewall Sir George Amyand 2nd Bart.	1	0.0108	0.9892	0
+Ryerson and Burnham Libraries	Art Institute of Chicago Ryerson and Burnham Libraries	0	0.5302	0.4698	1
+Ranucci Giuseppe	Rega Filippo	1	0.3512	0.6488	0
+Cap Nairne	Fasham Nairn	0	0.7926	0.2074	1
+Konrad von Soest	Conrad	0	0.7354	0.2646	1
+Konrad von Soest	Tisnado Rodo	1	0.3142	0.6858	0
+Charles Hunt II	Toner Rochelle	1	0.4596	0.5404	0
+David K. Gately	Kelly James Design Group	1	0.2034	0.7966	0
+Bofill Levi Ricardo	Echeverria Pedro Vallenilla	1	0.0469	0.9531	0
+Nystad Antiquairs N.V.	Neys	1	0.0660	0.9340	0
+Siegwitz Jan Albrecht	Sügwitz Johann	0	0.8422	0.1578	1
+van der Voort	Verbockhoven	1	0.2452	0.7548	0
+Lewis Aletta M.	Dunlop Mrs. D. C.	0	0.9967	0.0033	1
+Brandt Karl	Luther Standing Bear	1	0.3048	0.6952	0
+Kappe Ray	Kappe Raymond L.	0	0.5348	0.4652	1
+Ostergaard Birgit Skovfoged	Painter of Vienna 1072	1	0.4873	0.5127	0
+Emor Radio Company Ltd. England	Mission archéologique française de Saqqarah	1	0.3116	0.6884	0
+Wallis & Co.	wallis & son london	0	0.7542	0.2458	1
+Wallis & Co.	Cervi	1	0.0973	0.9027	0
+Thomas Livingstone Mitchell	Mitchell Sir T.	0	0.5447	0.4553	1
+Mensing & Zoon	Mensing&Fils	0	0.6130	0.3870	1
+Hugo Verena von	Mensing	1	0.2735	0.7265	0
+herring	Schouten Gerrit	1	0.2384	0.7616	0
+The Mail Queen	Junge	1	0.2497	0.7503	0
+Dörte Ahrenkiel	Attar Helene	1	0.1081	0.8919	0
+Yoly Gerardo	Yoli Villa-Mario Gabriel	0	0.8801	0.1199	1
+Edwin Bent Walker	Pieter van Liendert	1	0.3310	0.6690	0
+Ceramano	Charles Ferdinand Ceramano	0	0.7004	0.2996	1
+Zynnth Mathis	Mathis Zündt	0	0.5569	0.4431	1
+Peter John Wallace Ware	Pierre-Hervé Walbaum	1	0.4130	0.5870	0
+Zaborszky Gabor	Balthasar Richard De Hooghe	1	0.3493	0.6507	0
+Cesare Fiori	Fiori C.	0	0.6795	0.3205	1
+Gustave Dick & Alexander H. Bauer	Dick & Bauer	0	0.5178	0.4822	1
+Olczyk-Koczykowa Anna	Kawai Hiroaki	1	0.1843	0.8157	0
+Robert Grange	Ganter Bernard	1	0.2065	0.7935	0
+Koning Edzard	Koning Edzard Willem	0	0.5851	0.4149	1
+Marco Sanmartin	Marco napolitano	0	0.8072	0.1928	1
+Larson Leslie Norman	Samartin	1	0.4087	0.5913	0
+Diesen Jan Pieter van	James D. Burnett	1	0.2258	0.7742	0
+Karl Friedrich Rumohr	Rumohr Freiherr Von	0	0.6584	0.3416	1
+Espínola R.G.	Ramón García Espínola	0	0.6009	0.3991	1
+García Espínola Ramón	Espínola R.G.	0	0.5317	0.4683	1
+Charles Israel	Israel Chip	0	0.5789	0.4211	1
+RHA	Erwin Panofsky	1	0.4340	0.5660	0
+Terry Kilbane	Peteers	1	0.4211	0.5789	0
+Senan Eynullayev Ehedoglu	Johnson Floyd E.	1	0.4256	0.5744	0
+Scott John III	Toonoo Jutai	1	0.3901	0.6099	0
+Lannée de Betrancourt Louis-Philippe de	Urbanus Architecture and Design	1	0.1920	0.8080	0
+Wilson Richard [of Birmingham]	Wilson	0	0.8735	0.1265	1
+Josephine Empress of the French	Josephine Frankreich Kaiserin	0	0.8980	0.1020	1
+Bonaparte Joséphine	Josephine Empress of the French	0	0.8994	0.1006	1
+Orangerie--Reinz (Firm)	Galerie Orangerie Köln	0	0.7136	0.2864	1
+Genlis Stéphanie Félicité Comtesse de	Genlis Madame de	0	0.7541	0.2459	1
+Félicité Madame la Comtesse de Lancy	Genlis Madame de	0	0.8635	0.1365	1
+Elias Boonen	Renate Köhne-Lindenlaub	1	0.0710	0.9290	0
+Du Brouecq Jacques	Cardot Jean	1	0.0459	0.9541	0
+Heyda Christine	Devine Christne	0	0.9048	0.0952	1
+Museum of Fine Arts of Tatarstan	Torner Master Martín	1	0.1086	0.8914	0
+Deutschen Architektur Museum	Jinushi Teisuke	1	0.2640	0.7360	0
+DAM	Hakudo	1	0.4884	0.5116	0
+Vodoz Jacqueline	Danese Jacqueline	0	0.6134	0.3866	1
+John VI	Giovanni VI papa	0	0.5305	0.4695	1
+Reinhard Bödeker	Bourdillon Frank W.	1	0.2786	0.7214	0
+Mackay Patty	Aberigh-Mackay Miss	0	0.9403	0.0597	1
+Martí Ramon	Jrma Bamert	1	0.4782	0.5218	0
+Hans Keynooghe	Kaynat Jan	0	0.5333	0.4667	1
+Catharina van Hemessen	Sanders Catharina	0	0.6662	0.3338	1
+Spakler Johannes Christiaan	Landtsheer Jan de	1	0.3702	0.6298	0
+John Joseph of the Cross Saint	Croce Giovan Giuseppe della Saint	0	0.7956	0.2044	1
+Erbbauverein Moabit	EVM	0	0.5122	0.4878	1
+François Nicolas Augustin Feyen	Feyen Perrin	0	0.9988	0.0012	1
+Sullivan Henry Sir 2nd Bart.	Von Dardel Nils Elias Christoffer	1	0.3119	0.6881	0
+Dardels Nils	Von Dardel Nils Elias Christoffer	0	0.5550	0.4450	1
+Valley House	Valley House Gallery and Sculpture Garden	0	0.6088	0.3912	1
+Sibrexe	Cibrack	0	0.7319	0.2681	1
+Cibrack	Chiapory Bernard-Charles	1	0.0808	0.9192	0
+MNAC	Pannonio	1	0.4933	0.5067	0
+nic. maes	Maas Nicholas	0	0.5267	0.4733	1
+Pieter Lodewijk Kramer	olivier debre	1	0.4152	0.5848	0
+Stephane Huitmere	Wittmer Stephan	0	0.5663	0.4337	1
+g. burklein	Gottfried Bürklein	0	0.5443	0.4557	1
+Claeszon Aris	Claesz. van Delft Aris	0	0.9868	0.0132	1
+Angelo Trevisani	Trevisani A.	0	0.7287	0.2713	1
+Seymour W. (unidentified)	Rysman Yocheved	1	0.1141	0.8859	0
+Michael D. Levin	Marcel Beaudin	1	0.3591	0.6409	0
+Daniel Dumonstier l'ancien	Daniel Dumoutier	0	0.5716	0.4284	1
+Rüdiger Mönnikes	Gore Atkinson Marilyn	1	0.0648	0.9352	0
+Digges Elizabeth	Carroll Elizabeth Digges	0	0.7771	0.2229	1
+Carroll Elizabeth Digges	Ceccarelli Naldo	1	0.4168	0.5832	0
+Brown J. Carter	Burton James	1	0.2788	0.7212	0
+Poole Carew	Reginald Pole-Carew	0	0.6330	0.3670	1
+Museo Glauco Lombardi	MGL	0	0.7890	0.2110	1
+Michael H. Gilbert	Berchett	1	0.3448	0.6552	0
+Gross Nitsche Maria do Carmo	Gross Carmela	0	0.6090	0.3910	1
+Croos W. (unidentified)	W. Kroos	0	0.7276	0.2724	1
+Claudia Juana de la Asunción Sor	Claudia Mena y Bitoria	0	0.9595	0.0405	1
+Oskar Brazda	Arko Datta	1	0.2965	0.7035	0
+Hendrikje and Beat Klein Kühne	Ainsley Bell + Murchison	1	0.2973	0.7027	0
+Fabisch Joseph Hugues	Ja'far	1	0.1749	0.8251	0
+Fabisch Joseph-Hugues	Ja`far	1	0.2282	0.7718	0
+Bob Davis	Davis Robert James	0	0.7739	0.2261	1
+Moses Anna Mary Robertson	Moses Grandma	0	0.7376	0.2624	1
+Austin Harrelson	Eldar Sharon	1	0.0562	0.9438	0
+menajgo	Maniago Silvestro	0	0.8759	0.1241	1
+Morten Kleppan	Knoop E	1	0.3766	0.6234	0
+Jacquet A.	Fantonus Joannes Baptista	1	0.4226	0.5774	0
+Studium Generale Marcianum. Istituto di diritto canonico San Pio X	Patrick Tom (Eat It Up)	1	0.1585	0.8415	0
+Adams R.H.	Demarco Richard	1	0.3478	0.6522	0
+Azabu Bijutsukan	Azabu Arts and Crafts Museum	0	0.6957	0.3043	1
+Sánchez Elía Peralta Ramos	SEPRA SCA	0	0.7539	0.2461	1
+Thompson Francis	Association of American Geographers	1	0.4674	0.5326	0
+Passemirs	Benoît Joseph Passeniers	0	0.5438	0.4562	1
+Bichkoff Erik	Byčkov Israel	0	0.8316	0.1684	1
+Cesare Ciani	Ciani Cesare Ferdinando Giovanni Battista	0	0.5852	0.4148	1
+Chapman Minerva Joséphine	Pechmann Peter	1	0.4911	0.5089	0
+Johan dan Maler	Johan	0	0.5581	0.4419	1
+Brooke Janet	Irene Kubota	1	0.0012	0.9988	0
+Andrej Gürtler	M. E. Arden	1	0.3143	0.6857	0
+Okumura Akio	Gregorio‏ I‏ papa	1	0.4990	0.5010	0
+Florence Zerffi Caldecott	Zerffi Florence	0	0.5120	0.4880	1
+De Maeyer Louis	LOD	0	0.5862	0.4138	1
+Schoenfeld Eduard	Hughes (Fludyer St.)	1	0.0729	0.9271	0
+Giuseppe Maria Terenni	Simon Pierre le jeune	1	0.2445	0.7555	0
+Forbes Malcolm	Forbes Steve	0	0.9993	0.0007	1
+Alison Brungart	Gardiner William Nelson	1	0.3657	0.6343	0
+Meyers Joseph Jean	Jerome Bushyhead	1	0.2208	0.7792	0
+Lorenzi F.	Francesco Lorenzi	0	0.5122	0.4878	1
+Dutch Institute	Istituto Olandese	0	0.5605	0.4395	1
+Weymann R.	Weinmann Rudolf	0	0.6067	0.3933	1
+Kōetsu Hon'ami	Mizuki Youtaro	1	0.0096	0.9904	0
+Brentano Giuseppe	Johannes Baptista van Aerde	1	0.4090	0.5910	0
+friedrich amling	Amling Franz	0	0.7406	0.2594	1
+the anderson galleries inc.	Anderson Auction Co.	0	0.8689	0.1311	1
+Anderson Art Galleries	Anderson Auction Co.	0	0.9256	0.0744	1
+Hans Haecht	Shu Yang	1	0.3614	0.6386	0
+Jan van der Kaa	Silva Henrique Jose da	1	0.4518	0.5482	0
+George Luks	Luks George Benjamin	0	0.8783	0.1217	1
+Franciszka Themerson	Weinles Franciszka	0	0.9912	0.0088	1
+Jane Garland Lucas Interiors	JGL Interiors	0	0.7999	0.2001	1
+JGL Interiors	Master of Virgo inter Virgines	1	0.3860	0.6140	0
+New York Heifetz Mfg. Co. NY	Boon F.	1	0.4042	0.5958	0
+Mertois Jacob	Cruz López Bobby M.	1	0.3682	0.6318	0
+Gutai Group	Gutai Art Association	0	0.5850	0.4150	1
+Rousseel Theodore	Gregorio di Lorenzo	1	0.4459	0.5541	0
+Master of 1473	Brügger Meister von 1473	0	0.9131	0.0869	1
+Ribicoff Irving S.	Giovenone the Younger Giuseppe	1	0.4851	0.5149	0
+Boston Center for the Arts	Politistiko Kentro Thessalonikēs	1	0.2718	0.7282	0
+Boston. Boston Center for the Arts	Thessaloniki Cultural Centre of the Cultural Foundation of NBG	1	0.3518	0.6482	0
+Feliciano Felice	Felix Antiquarius	0	0.5583	0.4417	1
+Centre national de la recherche scientifique (France). Groupement de recherche	publics Groupement de recherche	0	0.6949	0.3051	1
+Aldobrandini Collection	Aldobrandinus Petrus	0	0.5123	0.4877	1
+Herk Arne van	Rosenkrantz Baron	1	0.1215	0.8785	0
+Camac-Machi Keramiek Atelier	Maarten Damen	0	0.9760	0.0240	1
+Bertsch Alexander	Bernard Beck	1	0.4448	0.5552	0
+Koether Jutta	Hosetsu	1	0.0771	0.9229	0
+גודווין פיי	Simmonds Fay	0	0.6900	0.3100	1
+P van Braam	Braam Pieter	0	0.8560	0.1440	1
+Tytler R. C. Major	Tytler Robert Christopher	0	0.7716	0.2284	1
+Judith Asher	אשר ג'ודית	0	0.6277	0.3723	1
+Meinhof Ulrike	Hoffmann Heinrich	1	0.3275	0.6725	0

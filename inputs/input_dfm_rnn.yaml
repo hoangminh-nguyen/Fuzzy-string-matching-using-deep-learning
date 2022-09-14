@@ -67,14 +67,14 @@ gru_lstm:
   # Add bias to all learnable parameters
   bias: True
 
-  rnn_hidden_dim: 60
-  max_seq_len: 120
-  embedding_dim: 256 #60
+  rnn_hidden_dim: 64
+  max_seq_len: 50
+  embedding_dim: 64
   output_dim: 2
 
   learning_rate: 0.001    # 3e-4
   optimizer: adam
-  epochs: 10
+  epochs: 5
   batch_size: 256
   # shuffle when creating DataLoader
   dl_shuffle: True 
@@ -99,7 +99,9 @@ gru_lstm:
   create_tensor_board: False
 
   # Layers to freeze during fine-tuning
-  layers_to_freeze: ["emb", "rnn_1", "attn"]
+  #layers_to_freeze: ["emb", "rnn_1", "transformer"]
+  layers_to_freeze: ["word_embedding", "positional_embedding"]
+  #layers_to_freeze: ["transformer"]
 
 inference:
  # Output predictions and save the results in output_preds_file

@@ -1,0 +1,197 @@
+Formanteij Hendrik de	H. Dromantion	1	0.1560	0.8440	1
+Renard F. T.	Fredericus Theodorus Renard	1	0.1468	0.8532	1
+Samuel Begg	Begg S.	1	0.0670	0.9330	1
+Artus Quellinus	A. Quillien	1	0.2508	0.7492	1
+Seah-Vrielink Jeane	Seah Jeane V.	1	0.0090	0.9910	1
+Benard Ch. J.	Bénard Charles Joachim	1	0.0030	0.9970	1
+Huysmans P. J.	P. Huysmans de Bruxelles	1	0.4644	0.5356	1
+Legendre George L.	Liaropoulos-Legendre George	1	0.0083	0.9917	1
+Capadose Hendrika Jacoba	Capadose J. (mejuffrouw)	1	0.2413	0.7587	1
+f. schubert	Schubert Ferdinand	1	0.0016	0.9984	1
+Etude Gros-Delettrez	H. Gros G. Delettrez (Firm)	1	0.0445	0.9555	1
+Lewis J. F.	Spanish Lewis	1	0.1704	0.8296	1
+f. w. Schiertz	Schiertz Franz Wilhelm	1	0.0131	0.9869	1
+Arosa G.	Gustave Arosa	1	0.0300	0.9700	1
+Berg Simon Van Den	S. Van. Den. Berg	1	0.0010	0.9990	1
+s. v. de berg	Berg Simon Van Den	1	0.0062	0.9938	1
+G. F. Watts	George Frederic Watts	1	0.0302	0.9698	1
+Warren C. J.	Clinton J. Warren	1	0.0862	0.9138	1
+Osterwyk Susanna	S. Osterwijk	1	0.0829	0.9171	1
+Susanna Osterwyk	S. Osterwijk	1	0.3171	0.6829	1
+Minas Avetisyani Tun-T'angaran	Masterskaya M. Avetisian Museum	1	0.1333	0.8667	1
+Henry E. L.	Henry Edward Lawson	1	0.4714	0.5286	1
+Febres Yll P.	Pau Febrés III	1	0.1785	0.8215	1
+e. hunten	prof. emil hunten	1	0.0466	0.9534	1
+young e.	Young Eduard	1	0.0310	0.9690	1
+a. bastien	Bastien Alfred Theodore Joseph	1	0.2647	0.7353	1
+Le Brun J. B. P. (Jean-Baptiste-Pierre)	LeBrun Stk	1	0.3885	0.6115	1
+Wintter F. Georg	Wintter Johann Georg	1	0.0531	0.9469	1
+E.N. Gibbs	Gibbs Edward N.	1	0.0132	0.9868	1
+Custer Edward L.	Custer	1	0.0050	0.9950	1
+William Channing Whitney	Whitney W. C.	1	0.1263	0.8737	1
+Jundt Gustave-Adolphe	g. a. jundt	1	0.0076	0.9924	1
+J. Jundt	Jundt Gustave-Adolphe	1	0.0465	0.9535	1
+neu l.	Ludwig Neu	1	0.2889	0.7111	1
+Prideaux Sarah Treverbian	S. T. Prideaux	1	0.0416	0.9584	1
+Virgona Henry P.	Virgona Hank	1	0.1642	0.8358	1
+c. tomba	Tomba Casimiro	1	0.1341	0.8659	1
+Bayard Emile	E. Bayard	1	0.0226	0.9774	1
+Bayard Emile Antoine	E. Bayard	1	0.1443	0.8557	1
+Vaucher-Crémieux Samuel	Vaucher Jean Marc S.	1	0.0044	0.9956	1
+Samuel Vaucher	Vaucher Jean Marc S.	1	0.0401	0.9599	1
+Pybus Mrs.	Pybus A. Nellie	1	0.3504	0.6496	1
+George Balthazar Gardner	Gardner G. B.	1	0.0073	0.9927	1
+B: V: S:	Monogrammiert B. v. S.	1	0.2491	0.7509	1
+Siegfried Enkelmann	S. Enkelmann	1	0.1145	0.8855	1
+Herdtle Hermann	h. herdtle	1	0.0142	0.9858	1
+essfeld a.	Alexander Essfeld	1	0.0033	0.9967	1
+Pohle Hermann	H. pohle	1	0.0142	0.9858	1
+Jean-Baptiste Marie Pierre	pierre j. b. m.	1	0.0002	0.9998	1
+Fortner Georg	c. fortner	1	0.1115	0.8885	1
+Millet J. F.	Jean François Millet.	1	0.0775	0.9225	1
+Romualdo Moscioni	Musconi R.	1	0.1789	0.8211	1
+anton v. stadler	t. stadler	1	0.4228	0.5772	1
+Moore Ernest Carroll b. 1871	Ernest Carroll Moore	1	0.0005	0.9995	1
+Hokin Edwin E.	Edward E. Hokin	1	0.0351	0.9649	1
+Charnay Armand	a. charnay	1	0.3757	0.6243	1
+Paget Henry	Paget H. M.	1	0.2914	0.7086	1
+Anderson Col. A. A.	Anderson Abraham A.	1	0.3100	0.6900	1
+A. W. Andree	Andree Adolphus William	1	0.1314	0.8686	1
+Pomeroy James C.	Pomeroy James Calwell	1	0.0149	0.9851	1
+Guillén Josep Simont	Simont J.	1	0.1639	0.8361	1
+Deming W. M.	Deming Wilber Merton	1	0.0539	0.9461	1
+J.F. Mansinger (unidentified)	J. F. Mansinger 1783	1	0.0008	0.9992	1
+Verschuur C.	Cornelis Wouter Bouter	1	0.2526	0.7474	1
+findlay galleries inc	david b. findlay galleries	1	0.0274	0.9726	1
+Patiño Antonio	Patiño A. García	1	0.3451	0.6549	1
+Broome A. N.	Brown Hattie	1	0.4120	0.5880	1
+Alexander-François Loemans	Loemans F.	1	0.0578	0.9422	1
+S. Spode	Spode Samuel	1	0.0336	0.9664	1
+Rutlinger Johannes	Rut J. Van Der	1	0.4770	0.5230	1
+w. schreyer	Schreyer Wilhelm	1	0.0208	0.9792	1
+Master B. F.	Hippolyta Master	1	0.1131	0.8869	1
+Denneulin Jules François	denneulin j.	1	0.0011	0.9989	1
+Kalnyn Eduards	Edwards F. Kalnynsh	1	0.0550	0.9450	1
+Pigozzi Jean-Christophe	Jean C. Pigozzi	1	0.0007	0.9993	1
+Christoforo Allori detto il Bronzino	C. Allori	1	0.1476	0.8524	1
+Cristoforo Allori	C. Allori	1	0.0287	0.9713	1
+Georges E. F.	Eduard François Georges	1	0.0137	0.9863	1
+Ernst Ferdinand Oehme	Oehme E. F.	1	0.1044	0.8956	1
+K. L. J. Rosenfelder	Ludwig Rosenfelder	1	0.4475	0.5525	1
+a. von rossler	Röessler Adalbert von	1	0.0181	0.9819	1
+Neranus A.	Neer Abraham van der	1	0.0598	0.9402	1
+A. Neranus	Neer Abraham van der	1	0.0516	0.9484	1
+Wightman Eugene Pickney Dr.	Wightman Dr. E. P.	1	0.0202	0.9798	1
+Monogrammist I.B. (1580)	I. B. venezianischer Meister um 1580	1	0.0355	0.9645	1
+Arman Armand P.	Armand Fernandez	1	0.0022	0.9978	1
+horner f.	Horner-Müller Friedrich	1	0.0036	0.9964	1
+Young-Jackson Alexander	A. Y. Jackson	1	0.4457	0.5543	1
+Luce Henry R.	Henry Robinson Luce	1	0.3286	0.6714	1
+Seibert Edward J.	Seibert Tim	1	0.2542	0.7458	1
+Werner Forrest Salmon	Salmon W. F.	1	0.0317	0.9683	1
+Dielaert Christiaen van	C. van Dielaert	1	0.0147	0.9853	1
+William G. Jun. Coesvelt Esq.	William Gordon Coesvelt	1	0.0282	0.9718	1
+f. c. baer	Baer Friedrich August	1	0.0284	0.9716	1
+sen. w. a. clark	William Andrews Clark	1	0.0631	0.9369	1
+Inc. Weyhe Art Books	E. Weyhe Inc.	1	0.0262	0.9738	1
+Wright of Liverpool	R. Wright	1	0.0650	0.9350	1
+Hall D. J.	Hall Debra Jane	1	0.3240	0.6760	1
+Tommaso Aroldi	t. aroldi	1	0.3423	0.6577	1
+Vianna de Lima Arthur	A. Vianna de Lima	1	0.0056	0.9944	1
+Jean-Baptiste-Louis Cazin	j. b. cazin	1	0.0148	0.9852	1
+J. Jopling	Joplin J.	1	0.0003	0.9997	1
+Mitchell G. B.	George Bertrand Mitchell	1	0.1448	0.8552	1
+Oliani Alfredo	Oliani A.	1	0.2918	0.7082	1
+Romborus	T. Rombaut	1	0.0200	0.9800	1
+mathias ranftl	ranftl j. m.	1	0.0249	0.9751	1
+Librairie L.D. Rossignol	L. Daniel Rossignol (Firm)	1	0.0301	0.9699	1
+Lombard‏ Warren Plimpton	Warren P. Lombard	1	0.0172	0.9828	1
+Pozo Aurelio del	Serrano A. del Pozo	1	0.0211	0.9789	1
+eduard kaiser	e. kaiser	1	0.0009	0.9991	1
+Frederick Joseph Butler Lines	Lines F. J. B.	1	0.0942	0.9058	1
+johann b. wengler	joh. bapt. wengler	1	0.0158	0.9842	1
+Rebentisch Hermann	H. Rebentisch	1	0.1372	0.8628	1
+professor hans gude	gude h. fr.	1	0.1755	0.8245	1
+J. Boulther	Boultbee	1	0.0010	0.9990	1
+E. Duvivier	Pierre Simon Benjamin Duvivier	1	0.3341	0.6659	1
+Hewison William Coltman	W. Hewison	1	0.1981	0.8019	1
+Johnston Mary Elizabeth	Miss Mary E. Johnston	1	0.0042	0.9958	1
+professor w. friedenberg	Friedenberg Wilhelm	1	0.4968	0.5032	1
+Antonio Pucci	pucci c. a.	1	0.3454	0.6546	1
+s. quaglio	Quaglia Simon	1	0.0031	0.9969	1
+Belin Jacques	J. Belin	1	0.0218	0.9782	1
+Lombard F.	François Lombard	1	0.0068	0.9932	1
+e. spitzer	emanuel spitzer	1	0.0805	0.9195	1
+Johann Friedrich Hennings	Hennings J.	1	0.0083	0.9917	1
+Francisco D. Van-Dúnem	Van (nickname)	1	0.4651	0.5349	1
+Benno Sachs	sachs b.	1	0.0463	0.9537	1
+L. de Waal	Wael Lucas De	1	0.0281	0.9719	1
+Florian M. A. N.	Florian Mircea	1	0.0609	0.9391	1
+Signé P. ko	Monogrammist P. Ko	1	0.1931	0.8069	1
+j. schertel	schertel joseph	1	0.0060	0.9940	1
+Hans Heinrich XVII 4th Prince of Pless H. S. H.	Hansel Pless	1	0.3381	0.6619	1
+Barnes G. J.	Barnes Gertrude Jameson	1	0.0005	0.9995	1
+Bell & Brother	Partnership: Francis H. Bell & Brother	1	0.0450	0.9550	1
+Jannechen San Jan (unidentified)	Janneken S. Jan	1	0.0118	0.9882	1
+Lane S. Hart	Hart Lane Schofield II	1	0.1237	0.8763	1
+chas. h. thieriot	Thieriot Charles Henschel	1	0.0985	0.9015	1
+Capponi Lorenzo b. 1733	Capponi L.	1	0.0564	0.9436	1
+Steele T. C.	Theodore Clement Steele	1	0.0074	0.9926	1
+Thomas Skynner	Skynner T.	1	0.0208	0.9792	1
+Antonio Ermolao Paoletti	a. paoletti	1	0.2907	0.7093	1
+Garretson Frank	Garretson Francis M.	1	0.0119	0.9881	1
+Wood E. S.	Eleanor Stuart Wood	1	0.1413	0.8587	1
+Christian Leimberger	Leinberg J. Christian	1	0.2247	0.7753	1
+Abot E.	Abot Joseph	1	0.0100	0.9900	1
+Meyer-Eßlinger Johann Jakob	Meyer J. J.	1	0.0662	0.9338	1
+Green William Curtis	Green W. Curtis	1	0.0013	0.9987	1
+Mez a.	Alfred Mez	1	0.2110	0.7890	1
+David A. Crane and Partners	Crane and Partners	1	0.0452	0.9548	1
+Härtung R.	Rolf Hartung	1	0.2349	0.7651	1
+Nicolas Bernard Lepeié	M. Lepicié	1	0.4784	0.5216	1
+Canif Milton A.	Milton Arthur Canif	1	0.0177	0.9823	1
+ant. v. werner	prof. ant. von werner	1	0.0167	0.9833	1
+Hans Anton Williard	williard h. a.	1	0.1604	0.8396	1
+Firma Katz	d. katz	1	0.0805	0.9195	1
+Marcus Antonius Gordianus Sempronianus Romanus Africanus I Emperor of Rome	Gordian I. Römisches Reich Kaiser	1	0.4595	0.5405	1
+Schagen Gillis	G. Schagen	1	0.0570	0.9430	1
+Arnoud C.	Charles Victor Arnoud	1	0.0116	0.9884	1
+Monogrammist P.M.S.	Deutscher Monogrammist P. M. S.	1	0.0252	0.9748	1
+Bredael J. Van	J.V. Breda	1	0.0124	0.9876	1
+Anthony Henry Tiebout	Henry T. Anthony	1	0.0047	0.9953	1
+Polk Prentice H.	P. H. Polk	1	0.0046	0.9954	1
+Community House Palacký Room	Obecní Dum F. Palackého Místnost	1	0.0056	0.9944	1
+Erich Kahn	Kahn Erich F. W.	1	0.1307	0.8693	1
+J. N. Höchle	Johann Nepomuk Höchle	1	0.0145	0.9855	1
+Ramón M. Grandal	Grandal	1	0.2195	0.7805	1
+A. S. Boyd	Boyd A. D.	1	0.0137	0.9863	1
+E.B. Wall	E. Berry Wall	1	0.0301	0.9699	1
+Hamm H. (unidentified)	H. Hamm	1	0.0016	0.9984	1
+M. Conte	Michelangelo Conte	1	0.0902	0.9098	1
+Gifford C. H.	Charles Henry Gifford	1	0.0790	0.9210	1
+Sage William Henry	wm. h. sage	1	0.0713	0.9287	1
+h. Knöfler	Knösler Heinrich H.	1	0.1015	0.8985	1
+Knösler Heinrich	h. Knöfler	1	0.0716	0.9284	1
+Forel O. M.	Forel Oscar	1	0.2449	0.7551	1
+Georges Drains	Drains Géo A.	1	0.0605	0.9395	1
+Raymond M. Hood	Raymond Mathewson	1	0.0401	0.9599	1
+Edwin Scott	E. Scott	1	0.0255	0.9745	1
+A. Lamme	Arie Johannes Lamme	1	0.0908	0.9092	1
+Jachna Joe	Joseph D. Jachna	1	0.0818	0.9182	1
+Cundell Nora Lucy Mowbray	Cundell Nora L. M.	1	0.0407	0.9593	1
+Jean Joseph Pottekens-Verhaghen	J. Pottengen	1	0.0267	0.9733	1
+W. A. Netscher	Netscher Wilhelm Adrian	1	0.0359	0.9641	1
+Osgood S. S.	Osgood Samuel Stillman	1	0.1346	0.8654	1
+Doorne Firma J. van	Fotografie Joh. van Doorne	1	0.1839	0.8161	1
+William Mitchell	Mitchell W. F.	1	0.0342	0.9658	1
+Conant Hezekiah	H. Conant	1	0.1064	0.8936	1
+W. Aveman	Avemann Wolfgang	1	0.3006	0.6994	1
+Møller Christian Frederick	C. F. Møller	1	0.0271	0.9729	1
+Master G. Z.	Monogrammist G. Z.	1	0.0019	0.9981	1
+prof. h. f. kruger	Krüger Heinz Ferdinand	1	0.0837	0.9163	1
+Steinhouse Tobie Thelma	Steinhouse Tobie T.	1	0.0010	0.9990	1
+b x g Master	Monogrammist b. g.	1	0.0179	0.9821	1
+pletsch o.	Oskar Pletsch	1	0.0228	0.9772	1
+Barnes C.	Barnes Culmer	1	0.0275	0.9725	1
+F. de Neeve	Neue Frans de	1	0.0312	0.9688	1
+Boon Daniël	D. Boon	1	0.0129	0.9871	1

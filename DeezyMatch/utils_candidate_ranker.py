@@ -110,7 +110,7 @@ def candidate_conf_calc(query_candidate_pd, model, train_vocab, dl_inputs, cutof
                            evaluation=True,
                            output_state_vectors=False, 
                            output_preds=True,
-                           output_preds_file=False,
+                           output_preds_file="test.txt",
                            csv_sep=dl_inputs['preprocessing']['csv_sep'],
                            print_epoch=False
                            )

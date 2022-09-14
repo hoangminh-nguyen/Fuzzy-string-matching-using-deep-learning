@@ -1,0 +1,18 @@
+Michael Jackson	Michael Jackson	TRUE
+Michael Jackson	Micheal Jackson	TRUE
+Michael Jackson	MichaelJackson	TRUE
+Michael Jackson	Michael-Jackson	TRUE
+Michael Jackson	Michael Joseph Jackson	TRUE
+Michael Jackson	Michael Joe Jackson	TRUE
+Michael Jackson	Jackson, Michael	TRUE
+Michael Jackson	Jackson, Michael Joseph	TRUE
+Michael Jackson	Майкл Джексон	TRUE
+Michael Jackson	Μάϊκλ Τζάκσον	TRUE
+Michael Jackson	マイケルジャクソン	TRUE
+Michael Jackson	M. J.	TRUE
+Michael Jackson	M. Jackson	TRUE
+Michael Jackson	Michael J. Jackson	TRUE
+Michael Jackson	M. J. Jackson	TRUE
+Michael Jackson	Mr. Jackson	TRUE
+Michael Jackson	MJ	TRUE
+Michael Jackson	King of Pop	TRUE

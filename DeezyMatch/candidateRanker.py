@@ -239,13 +239,15 @@ def candidate_ranker_trans(model_name, input_file_path="default", query_scenario
         len_vecs_query = len(vecs_query)
 
     # --- start FAISS
-    faiss_id_candis = faiss.IndexFlatL2(vecs_candidates.size()[1])   # build the index
+    faiss_id_candis = faiss.IndexFlatIP(vecs_candidates.size()[1])   # build the index
     print("Is faiss_id_candis already trained? %s" % faiss_id_candis.is_trained)
     faiss_id_candis.add(vecs_candidates.detach().cpu().numpy())
 
     # Empty dataframe to collect data
     output_pd = pd.DataFrame()
     for iq in range(len_vecs_query):
+        
+
         print("=========== Start the search for %s" % iq, vecs_items_query[iq][1])
         collect_neigh_pd = pd.DataFrame()
         num_found_candidates = 0
@@ -261,42 +263,23 @@ def candidate_ranker_trans(model_name, input_file_path="default", query_scenario
                 break
     
             found_neighbours = faiss_id_candis.search(vecs_query[iq:(iq+1)].detach().cpu().numpy(), id_1_neigh)
-            # print("found_neighbours: ", found_neighbours)
+
             # Candidates
             orig_id_candis = found_neighbours[1][0, id_0_neigh:id_1_neigh]
             all_candidates = vecs_items_candidates[orig_id_candis][:, 0]
             all_candidates_orig = vecs_items_candidates[orig_id_candis][:, 1]
             
-            # print("orig_id_candis: ", orig_id_candis)
-            print("all_candidates: ", all_candidates)
-            # print("all_candidates_orig: ", all_candidates_orig)
+            # print("all_candidates: ", all_candidates)
         
             # Queries
             orig_id_queries = vecs_ids_query[iq].item()
             all_queries = [vecs_items_query[orig_id_queries][0]]*(id_1_neigh - id_0_neigh)
             all_queries_no_preproc = [vecs_items_query[orig_id_queries][1]]*(id_1_neigh - id_0_neigh)
-
-            # print("vecs_ids_query: ", vecs_ids_query)
-            # print("orig_id_queries: ", orig_id_queries)
-            # print("all_queries: ", all_queries)
-            # print("all_queries_no_preproc: ", all_queries_no_preproc)
     
             query_candidate_pd = pd.DataFrame(all_queries, columns=['s1'])
             query_candidate_pd['s2'] = all_candidates
             query_candidate_pd['s2_orig'] = all_candidates_orig
             query_candidate_pd['label'] = "False"
-
-            ## save s1, s2 to file .txt
-            # with open("./dataset/query_candidate_pd.txt", "w", encoding="utf-8") as f:
-            #     for i in range(len(query_candidate_pd)):
-            #         f.write(vecs_items_query[iq][1])
-            #         f.write("\t")
-            #         f.write(query_candidate_pd.iloc[i]["s2_orig"])
-            #         f.write("\t")
-            #         f.write(query_candidate_pd.iloc[i]["label"])
-            #         f.write("\n")
-                    
-            # print("query_candidate_pd: ", query_candidate_pd)
 
             # Compute cosine similarity
             cosine_sim = cosine_similarity(vecs_query[iq:(iq+1)].detach().cpu().numpy(), 
@@ -310,21 +293,12 @@ def candidate_ranker_trans(model_name, input_file_path="default", query_scenario
                                                 dl_inputs, 
                                                 cutoffs=(id_1_neigh - id_0_neigh))
 
-                # all_preds = inference(model_path=pretrained_model_path, 
-                #                     dataset_path="./dataset/query_candidate_pd.txt", 
-                #                     train_vocab_path=pretrained_vocab_path, 
-                #                     input_file_path=input_file_path, 
-                #                     test_cutoff=None, 
-                #                     inference_mode="test", 
-                #                     scenario=None, 
-                #                     dl_inputs=dl_inputs)
-
                 query_candidate_pd['dl_match'] = all_preds.detach().cpu().numpy()
     
             else:
                 query_candidate_pd['dl_match'] = [None]*len(query_candidate_pd)
     
-            print("all_preds:", all_preds)
+            #print("all_preds:", all_preds)
             query_candidate_pd['faiss_dist'] = found_neighbours[0][0, id_0_neigh:id_1_neigh]
             query_candidate_pd['cosine_dist'] = cosine_dist[0] 
             query_candidate_pd['s1_orig_ids'] = orig_id_queries 

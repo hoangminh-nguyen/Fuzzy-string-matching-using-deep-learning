@@ -1,0 +1,3 @@
+08/29/2022_14:10:19
+Current directory: d:\KLTN\DeezyMatch-master
+python C:\Users\ASUS TK\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\site-packages\ipykernel_launcher.py --ip=127.0.0.1 --stdin=9003 --control=9001 --hb=9000 --Session.signature_scheme="hmac-sha256" --Session.key=b"b6112542-504d-419f-a2aa-d9ac7bfb4bb6" --shell=9002 --transport="tcp" --iopub=9004 --f="c:\Users\ASUS TK\AppData\Roaming\jupyter\runtime\kernel-v2-18228G2hDzxL6XNgh.json"

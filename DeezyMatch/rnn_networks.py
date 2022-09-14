@@ -104,7 +104,7 @@ def gru_lstm_network(dl_inputs, model_name, train_dc, valid_dc=False, test_dc=Fa
         do_validation = int(do_validation)
     
     # --- create the model
-    cprint('[INFO]', bc.dgreen, 'create a two_parallel_rnns model')
+    # cprint('[INFO]', bc.dgreen, 'create a two_parallel_rnns model')
     # model_gru = two_parallel_rnns(main_architecture, vocab_size, embedding_dim, rnn_hidden_dim, output_dim,
     #                               rnn_n_layers, bidirectional, pooling_mode, rnn_drop_prob, rnn_bias,
     #                               fc1_out_features, fc_dropout, att_dropout)
@@ -174,6 +174,10 @@ def fine_tuning(pretrained_model_path, dl_inputs, model_name,
     
     pretrained_model = torch.load(pretrained_model_path, map_location=torch.device(device))
     
+    # Set all layers to be trainable
+    for name, param in pretrained_model.named_parameters():
+        param.requires_grad = True
+
     layers_to_freeze = dl_inputs['gru_lstm']['layers_to_freeze']
     for one_layer in layers_to_freeze:
         for name, param in pretrained_model.named_parameters():
@@ -520,7 +524,7 @@ def test_model(model, test_dl, eval_mode='test', valid_desc=None,
                                           pred_softmax.T.cpu().data.numpy(), 
                                           y.cpu().data.numpy().T])
                 if output_preds_file:
-                    with open(output_preds_file, "a+") as pred_f:
+                    with open(output_preds_file, "a+", encoding="utf8") as pred_f:
                         if first_dump:
                             np.savetxt(pred_f, pred_results.T, 
                                     fmt=('%s', '%s', '%d', '%.4f', '%.4f', '%d'), delimiter=csv_sep, 
@@ -1073,7 +1077,8 @@ class TransformerEncoder(nn.Module):
 
     def forward(self, x, mask):
         seq_length, N = x.shape
-        positions = torch.arange(0, seq_length).expand(N, seq_length).to(self.device)
+        #positions = torch.arange(0, seq_length).expand(N, seq_length).to(self.device)
+        positions = torch.arange(0, seq_length).expand(N, seq_length)
         word_embed = self.word_embedding(x)
         position_embed = self.positional_embedding(positions.transpose(0,1))
 
@@ -1083,11 +1088,166 @@ class TransformerEncoder(nn.Module):
             out = layer(embedded, mask)
         return out
 
+# # ------------------- Transformer_Encoder  --------------------
+# class two_parallel_transformer(nn.Module):
+#     def __init__(self, main_architecture, vocab_size, embedding_dim, rnn_hidden_dim, output_dim,
+#                  rnn_n_layers, bidirectional, pooling_mode, rnn_drop_prob, rnn_bias,
+#                  fc1_out_features, fc_dropout=[0.3, 0.3], att_dropout=[0.5, 0.5], 
+#                  maxpool_kernel_size=2):
+#         super().__init__()
+#         self.main_architecture = main_architecture
+#         self.vocab_size = vocab_size
+#         self.embedding_dim = embedding_dim
+#         self.rnn_hidden_dim = rnn_hidden_dim
+#         self.output_dim = output_dim
+#         self.gru_output_dim = embedding_dim
+#         self.rnn_n_layers = rnn_n_layers
+#         self.bidirectional = bidirectional
+#         self.pooling_mode = pooling_mode
+#         self.rnn_drop_prob = rnn_drop_prob
+#         self.rnn_bias = rnn_bias
+#         self.fc1_out_features = fc1_out_features
+#         self.fc1_dropout = fc_dropout[0]
+#         self.fc2_dropout = fc_dropout[1]
+#         self.att1_dropout = att_dropout[0]
+#         self.att2_dropout = att_dropout[1]
+#         self.file_id = None
+
+#         self.maxpool_kernel_size = maxpool_kernel_size
+
+#         if self.pooling_mode in ['attention', 'average', 'max', 'maximum', 'hstates']:
+#             fc1_multiplier = 4
+#         elif self.pooling_mode in ["hstates_layers"]:
+#             fc1_multiplier = 4 * self.rnn_n_layers
+#         elif self.pooling_mode in ["hstates_layers_simple"]:
+#             fc1_multiplier = 2 * self.rnn_n_layers
+#         elif self.pooling_mode in ["hstates_subtract", "hstates_l2_distance"]:
+#             fc1_multiplier = 1 * self.rnn_n_layers
+#         else:
+#             fc1_multiplier = 1
+
+#         if self.bidirectional:
+#             self.num_directions = 2
+#         else:
+#             self.num_directions = 1
+
+#         # --- methods
+#         # self.emb = nn.Embedding(self.vocab_size, self.embedding_dim)
+
+#         self.transformer = TransformerEncoder(vocab_size=vocab_size, 
+#                                             embedding_size=embedding_dim, 
+#                                             num_layers=6, 
+#                                             heads=8, 
+#                                             device="cuda",
+#                                             dropout=0, 
+#                                             forward_expansion=2,
+#                                             max_length=120)
+
+#         # encoder_layer = nn.TransformerEncoderLayer(d_model=embedding_dim, 
+#         #                                             nhead=8,
+#         #                                             dim_feedforward=120,
+#         #                                             dropout=0,
+#         #                                             activation="relu",
+#         #                                             device="cuda")
+#         # self.transformer = nn.TransformerEncoder(encoder_layer, num_layers=6)
+
+#         #self.fc1 = nn.Linear(self.rnn_hidden_dim*fc1_multiplier*self.num_directions, self.fc1_out_features)
+#         #self.fc2 = nn.Linear(self.fc1_out_features, self.output_dim)
+#         self.fc1 = nn.Linear(240, self.fc1_out_features)
+#         self.fc2 = nn.Linear(self.fc1_out_features, self.output_dim)
+
+#     # ------------------- forward 
+#     def forward(self, x1_seq, len1, x2_seq, len2, pooling_mode='hstates', device="cpu", output_state_vectors=False, evaluation=False):
+
+#         if evaluation:
+#             # XXX Set dropouts to zero manually
+#             self.att1_dropout = 0
+#             self.att2_dropout = 0
+#             self.fc1_dropout = 0
+#             self.fc2_dropout = 0
+
+#         if output_state_vectors:
+#             create_parent_dir(output_state_vectors)
+
+#         #self.h1, self.c1 = self.init_hidden(x1_seq.size(1), device)
+#         #x1_embs = self.emb(x1_seq)
+#         #x1_embs = pack_padded_sequence(x1_embs_not_packed, len1, enforce_sorted=False)
+        
+#         rnn_out_1 = self.transformer(x1_seq, None)
+#         #cprint('[WARNING]', bc.dred, "rnn_out_1 " + str(rnn_out_1.shape))
+#         #rnn_out_1, len1 = pad_packed_sequence(rnn_out_1)
+
+#         pool_1 = F.adaptive_max_pool1d(rnn_out_1.permute(1, 2, 0), 1).view(x1_seq.size(1), -1)
+#         #cprint('[WARNING]', bc.dred, "pool_1 " + str(pool_1.shape))
+
+#         # if output_state_vectors:
+#         #     # the layers can be separated using h_n.view(num_layers, num_directions, batch, hidden_size).
+#         #     h1_reshape = self.h1.view(self.rnn_n_layers, self.num_directions, rnn_out_1.shape[1], self.rnn_hidden_dim)
+
+#         #     output_h_layer = self.rnn_n_layers - 1
+
+#         #     if not self.file_id:
+#         #         self.file_id = len(glob.glob(output_state_vectors + "_fwd_*"))
+#         #     else:
+#         #         self.file_id += 1
+
+#         #     torch.save(h1_reshape[output_h_layer, 0], f'{output_state_vectors}_fwd_{self.file_id}')
+#         #     if self.bidirectional:
+#         #         torch.save(h1_reshape[output_h_layer, 1], f'{output_state_vectors}_bwd_{self.file_id}')
+#         #         return (h1_reshape[output_h_layer, 0], h1_reshape[output_h_layer, 1])
+#         #     else:
+#         #         return (h1_reshape[output_h_layer, 0], False)
+
+#         if output_state_vectors:
+
+#             if not self.file_id:
+#                 self.file_id = len(glob.glob(output_state_vectors + "_vecs" + "_*"))
+#             else:
+#                 self.file_id += 1
+
+#             torch.save(pool_1, f'{output_state_vectors}_vecs_{self.file_id}')
+
+
+
+#         #self.h2, self.c2 = self.init_hidden(x2_seq.size(1), device)
+#         #x2_embs = self.emb(x2_seq)
+#         #x2_embs = pack_padded_sequence(x2_embs_not_packed, len2, enforce_sorted=False)
+
+#         rnn_out_2 = self.transformer(x2_seq, None)
+#         #rnn_out_2, len2 = pad_packed_sequence(rnn_out_2)
+#         #cprint('[WARNING]', bc.dred, "rnn_out_2 " + str(rnn_out_2.shape))
+        
+#         pool_2 = F.adaptive_max_pool1d(rnn_out_2.permute(1, 2, 0), 1).view(x2_seq.size(1), -1)
+
+#         # Combine outputs from GRU1 and GRU2
+#         pool_rnn_cat = torch.cat((pool_1, pool_2), dim=1)
+#         #cprint('[WARNING]', bc.dred, "pool_rnn_cat " + str(pool_rnn_cat.shape))
+#         pool_rnn_mul = pool_1 * pool_2
+#         pool_rnn_dif = pool_1 - pool_2
+#         output_combined = torch.cat((pool_rnn_cat,
+#                                         pool_rnn_mul,
+#                                         pool_rnn_dif), dim=1)
+
+#         #cprint('[WARNING]', bc.dred, "outputcombine " + str(output_combined.shape))
+
+#         y_out = F.relu(self.fc1(F.dropout(output_combined, self.fc1_dropout)))
+#         y_out = self.fc2(F.dropout(y_out, self.fc2_dropout))
+#         #cprint('[WARNING]', bc.dred, "y_out " + str(y_out.shape))
+#         return y_out
+
+#     def init_hidden(self, batch_size, device):
+#         first_dim = self.rnn_n_layers
+#         if self.bidirectional:
+#             first_dim *= 2
+#         return (Variable(torch.zeros((first_dim, batch_size, self.rnn_hidden_dim)).to(device)), 
+#                 Variable(torch.zeros((first_dim, batch_size, self.rnn_hidden_dim)).to(device)))
+  
+    
 # ------------------- Transformer_Encoder  --------------------
 class two_parallel_transformer(nn.Module):
     def __init__(self, main_architecture, vocab_size, embedding_dim, rnn_hidden_dim, output_dim,
                  rnn_n_layers, bidirectional, pooling_mode, rnn_drop_prob, rnn_bias,
-                 fc1_out_features, fc_dropout=[0.5, 0.5], att_dropout=[0.5, 0.5], 
+                 fc1_out_features, fc_dropout=[0.3, 0.3], att_dropout=[0.5, 0.5], 
                  maxpool_kernel_size=2):
         super().__init__()
         self.main_architecture = main_architecture
@@ -1107,42 +1267,24 @@ class two_parallel_transformer(nn.Module):
         self.att1_dropout = att_dropout[0]
         self.att2_dropout = att_dropout[1]
         self.file_id = None
+        self.dropout = nn.Dropout(0.01)
 
         self.maxpool_kernel_size = maxpool_kernel_size
-
-        if self.pooling_mode in ['attention', 'average', 'max', 'maximum', 'hstates']:
-            fc1_multiplier = 4
-        elif self.pooling_mode in ["hstates_layers"]:
-            fc1_multiplier = 4 * self.rnn_n_layers
-        elif self.pooling_mode in ["hstates_layers_simple"]:
-            fc1_multiplier = 2 * self.rnn_n_layers
-        elif self.pooling_mode in ["hstates_subtract", "hstates_l2_distance"]:
-            fc1_multiplier = 1 * self.rnn_n_layers
-        else:
-            fc1_multiplier = 1
-
-        if self.bidirectional:
-            self.num_directions = 2
-        else:
-            self.num_directions = 1
-
         # --- methods
-        self.emb = nn.Embedding(self.vocab_size, self.embedding_dim)
-        self.transformer = TransformerEncoder(vocab_size=vocab_size, 
-                                            embedding_size=embedding_dim, 
-                                            num_layers=6, 
-                                            heads=8, 
-                                            device="cuda",
-                                            dropout=0, 
-                                            forward_expansion=2,
-                                            max_length=120)
-
-        # encoder_layer = nn.TransformerEncoderLayer(d_model=embedding_dim, nhead=8)
-        # self.transformer = nn.TransformerEncoder(encoder_layer, num_layers=6)
+        self.word_embedding = nn.Embedding(vocab_size, embedding_dim)
+        self.positional_embedding = nn.Embedding(50, embedding_dim)
+        
+        encoder_layer = nn.TransformerEncoderLayer(d_model=embedding_dim, 
+                                                    nhead=8,
+                                                    dim_feedforward=120,
+                                                    dropout=0,
+                                                    activation="relu",
+                                                    device="cuda")
+        self.transformer = nn.TransformerEncoder(encoder_layer, num_layers=6)
 
         #self.fc1 = nn.Linear(self.rnn_hidden_dim*fc1_multiplier*self.num_directions, self.fc1_out_features)
         #self.fc2 = nn.Linear(self.fc1_out_features, self.output_dim)
-        self.fc1 = nn.Linear(1024, self.fc1_out_features)
+        self.fc1 = nn.Linear(256, self.fc1_out_features) #240
         self.fc2 = nn.Linear(self.fc1_out_features, self.output_dim)
 
     # ------------------- forward 
@@ -1158,34 +1300,26 @@ class two_parallel_transformer(nn.Module):
         if output_state_vectors:
             create_parent_dir(output_state_vectors)
 
-        #self.h1, self.c1 = self.init_hidden(x1_seq.size(1), device)
-        x1_embs = self.emb(x1_seq)
-        #x1_embs = pack_padded_sequence(x1_embs_not_packed, len1, enforce_sorted=False)
+        if (1):
+            seq_length, N = x1_seq.shape
+            positions = torch.arange(0, seq_length).expand(N, seq_length).to(device)
+            word_embed_1 = self.word_embedding(x1_seq)
+            position_embed_1 = self.positional_embedding(positions.transpose(0,1))
+            embedded_1 = self.dropout(word_embed_1 + position_embed_1)
+            #cprint('[WARNING]', bc.dred, "embedded_1 " + str(embedded_1.shape))
+
+            seq_length, N = x2_seq.shape
+            positions = torch.arange(0, seq_length).expand(N, seq_length).to(device)
+            word_embed_2 = self.word_embedding(x2_seq)
+            position_embed_2 = self.positional_embedding(positions.transpose(0,1))
+            embedded_2 = self.dropout(word_embed_2 + position_embed_2)
         
-        rnn_out_1 = self.transformer(x1_seq, None)
+        rnn_out_1 = self.transformer(embedded_1, None)
         #cprint('[WARNING]', bc.dred, "rnn_out_1 " + str(rnn_out_1.shape))
         #rnn_out_1, len1 = pad_packed_sequence(rnn_out_1)
 
-        pool_1 = F.adaptive_max_pool1d(rnn_out_1.permute(1, 2, 0), 1).view(x1_seq.size(1), -1)
+        pool_1 = F.adaptive_max_pool1d(rnn_out_1.permute(1, 2, 0), 1).view(embedded_1.size(1), -1)
         #cprint('[WARNING]', bc.dred, "pool_1 " + str(pool_1.shape))
-
-        # if output_state_vectors:
-        #     # the layers can be separated using h_n.view(num_layers, num_directions, batch, hidden_size).
-        #     h1_reshape = self.h1.view(self.rnn_n_layers, self.num_directions, rnn_out_1.shape[1], self.rnn_hidden_dim)
-
-        #     output_h_layer = self.rnn_n_layers - 1
-
-        #     if not self.file_id:
-        #         self.file_id = len(glob.glob(output_state_vectors + "_fwd_*"))
-        #     else:
-        #         self.file_id += 1
-
-        #     torch.save(h1_reshape[output_h_layer, 0], f'{output_state_vectors}_fwd_{self.file_id}')
-        #     if self.bidirectional:
-        #         torch.save(h1_reshape[output_h_layer, 1], f'{output_state_vectors}_bwd_{self.file_id}')
-        #         return (h1_reshape[output_h_layer, 0], h1_reshape[output_h_layer, 1])
-        #     else:
-        #         return (h1_reshape[output_h_layer, 0], False)
 
         if output_state_vectors:
 
@@ -1199,14 +1333,14 @@ class two_parallel_transformer(nn.Module):
 
 
         #self.h2, self.c2 = self.init_hidden(x2_seq.size(1), device)
-        x2_embs = self.emb(x2_seq)
+        #x2_embs = self.emb(x2_seq)
         #x2_embs = pack_padded_sequence(x2_embs_not_packed, len2, enforce_sorted=False)
 
-        rnn_out_2 = self.transformer(x2_seq, None)
+        rnn_out_2 = self.transformer(embedded_2, None)
         #rnn_out_2, len2 = pad_packed_sequence(rnn_out_2)
         #cprint('[WARNING]', bc.dred, "rnn_out_2 " + str(rnn_out_2.shape))
         
-        pool_2 = F.adaptive_max_pool1d(rnn_out_2.permute(1, 2, 0), 1).view(x2_seq.size(1), -1)
+        pool_2 = F.adaptive_max_pool1d(rnn_out_2.permute(1, 2, 0), 1).view(embedded_2.size(1), -1)
 
         # Combine outputs from GRU1 and GRU2
         pool_rnn_cat = torch.cat((pool_1, pool_2), dim=1)
@@ -1231,6 +1365,5 @@ class two_parallel_transformer(nn.Module):
         return (Variable(torch.zeros((first_dim, batch_size, self.rnn_hidden_dim)).to(device)), 
                 Variable(torch.zeros((first_dim, batch_size, self.rnn_hidden_dim)).to(device)))
               
-    
-
+   
 
